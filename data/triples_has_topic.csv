@@ -1,1925 +1,1732 @@
 subject,object,predicate
-Q860181,fiction,hasTopic
-Q28172,fiction,hasTopic
-Q829130,fiction,hasTopic
-Q849907,fiction,hasTopic
-Q28306,fiction,hasTopic
-Q860633,fiction,hasTopic
-Q852066,fiction,hasTopic
-Q840125,fiction,hasTopic
-Q837934,fiction,hasTopic
-Q837140,fiction,hasTopic
-Q839220,fiction,hasTopic
-Q860034,fiction,hasTopic
-Q849930,fiction,hasTopic
-Q857313,fiction,hasTopic
-Q837283,fiction,hasTopic
-Q845167,fiction,hasTopic
-Q829934,fiction,hasTopic
-Q837489,fiction,hasTopic
-Q841540,fiction,hasTopic
-Q594093,fiction,hasTopic
-Q597545,fiction,hasTopic
-Q589959,fiction,hasTopic
 Q592815,fiction,hasTopic
-Q589841,fiction,hasTopic
-Q576737,fiction,hasTopic
-Q595950,fiction,hasTopic
-Q602216,fiction,hasTopic
-Q610680,fiction,hasTopic
-Q618681,fiction,hasTopic
-Q615807,fiction,hasTopic
-Q608378,fiction,hasTopic
-Q616606,fiction,hasTopic
-Q607112,fiction,hasTopic
-Q196151,fiction,hasTopic
-Q212718,fiction,hasTopic
-Q29132,fiction,hasTopic
-Q213300,fiction,hasTopic
-Q232153,fiction,hasTopic
-Q223784,fiction,hasTopic
-Q185449,fiction,hasTopic
-Q205975,fiction,hasTopic
-Q183883,fiction,hasTopic
-Q189378,fiction,hasTopic
-Q191540,fiction,hasTopic
-Q241348,fiction,hasTopic
-Q187942,fiction,hasTopic
-Q183363,fiction,hasTopic
-Q191288,fiction,hasTopic
-Q835341,fiction,hasTopic
-Q845106,fiction,hasTopic
-Q843400,fiction,hasTopic
-Q41359,fiction,hasTopic
-Q835739,fiction,hasTopic
-Q845944,fiction,hasTopic
-Q829753,fiction,hasTopic
-Q828031,fiction,hasTopic
-Q578895,fiction,hasTopic
-Q595128,fiction,hasTopic
-Q596874,fiction,hasTopic
-Q602288,fiction,hasTopic
-Q548368,fiction,hasTopic
-Q565105,fiction,hasTopic
-Q622400,fiction,hasTopic
-Q546785,fiction,hasTopic
-Q611689,fiction,hasTopic
-Q599495,fiction,hasTopic
-Q608875,fiction,hasTopic
-Q43361,fiction,hasTopic
-Q625764,fiction,hasTopic
-Q568143,fiction,hasTopic
-Q600448,fiction,hasTopic
-Q608534,fiction,hasTopic
-Q550208,fiction,hasTopic
-Q603645,fiction,hasTopic
-Q598071,fiction,hasTopic
-Q244884,fiction,hasTopic
-Q595766,fiction,hasTopic
-Q588517,fiction,hasTopic
-Q582811,fiction,hasTopic
-Q594567,fiction,hasTopic
 Q589485,fiction,hasTopic
-Q580361,fiction,hasTopic
-Q597219,fiction,hasTopic
-Q586831,fiction,hasTopic
-Q581426,fiction,hasTopic
-Q588035,fiction,hasTopic
-Q187655,fiction,hasTopic
+Q497280,fiction,hasTopic
+Q589841,fiction,hasTopic
+Q466605,fiction,hasTopic
+Q468135,fiction,hasTopic
+Q608378,fiction,hasTopic
 Q202531,fiction,hasTopic
 Q207964,fiction,hasTopic
-Q211006,fiction,hasTopic
-Q251076,fiction,hasTopic
-Q250123,fiction,hasTopic
-Q192258,fiction,hasTopic
-Q197243,fiction,hasTopic
-Q521331,fiction,hasTopic
-Q526792,fiction,hasTopic
-Q523914,fiction,hasTopic
-Q521688,fiction,hasTopic
-Q538742,fiction,hasTopic
-Q534975,fiction,hasTopic
-Q523766,fiction,hasTopic
+Q627192,fiction,hasTopic
+Q616606,fiction,hasTopic
+Q607112,fiction,hasTopic
+Q46751,fiction,hasTopic
+Q631460,fiction,hasTopic
+Q474523,fiction,hasTopic
+Q721,fiction,hasTopic
+Q588035,fiction,hasTopic
+Q859996,fiction,hasTopic
+Q469889,fiction,hasTopic
+Q466288,fiction,hasTopic
+Q116373,fiction,hasTopic
+Q132062,fiction,hasTopic
+Q468121,fiction,hasTopic
+Q466790,fiction,hasTopic
+Q116381,fiction,hasTopic
+Q467332,fiction,hasTopic
+Q576737,fiction,hasTopic
+Q13911,fiction,hasTopic
+Q849701,fiction,hasTopic
+Q469969,fiction,hasTopic
+Q471142,fiction,hasTopic
+Q471024,fiction,hasTopic
+Q116950,fiction,hasTopic
+Q470937,fiction,hasTopic
+Q127149,fiction,hasTopic
+Q128444,fiction,hasTopic
+Q501514,fiction,hasTopic
+Q474523,fiction,hasTopic
+Q187655,fiction,hasTopic
+Q182502,fiction,hasTopic
+Q479086,fiction,hasTopic
+Q493191,fiction,hasTopic
+Q467139,fiction,hasTopic
+Q478098,fiction,hasTopic
 Q522575,fiction,hasTopic
 Q543562,fiction,hasTopic
-Q520466,fiction,hasTopic
-Q543375,fiction,hasTopic
-Q814765,fiction,hasTopic
-Q821608,fiction,hasTopic
-Q479086,fiction,hasTopic
-Q477994,fiction,hasTopic
-Q478098,fiction,hasTopic
-Q488350,fiction,hasTopic
-Q471679,fiction,hasTopic
-Q478110,fiction,hasTopic
-Q472368,fiction,hasTopic
-Q819101,fiction,hasTopic
-Q786615,fiction,hasTopic
-Q474895,fiction,hasTopic
-Q798732,fiction,hasTopic
-Q471741,fiction,hasTopic
-Q489581,fiction,hasTopic
-Q816016,fiction,hasTopic
-Q487364,fiction,hasTopic
-Q474523,fiction,hasTopic
-Q262540,fiction,hasTopic
-Q473082,fiction,hasTopic
-Q471926,fiction,hasTopic
-Q804414,fiction,hasTopic
-Q534991,fiction,hasTopic
-Q530406,fiction,hasTopic
-Q535795,fiction,hasTopic
-Q568210,fiction,hasTopic
-Q557867,fiction,hasTopic
-Q32136,fiction,hasTopic
-Q549152,fiction,hasTopic
-Q569790,fiction,hasTopic
-Q541006,fiction,hasTopic
-Q467139,fiction,hasTopic
-Q467225,fiction,hasTopic
-Q468071,fiction,hasTopic
-Q467388,fiction,hasTopic
-Q469969,fiction,hasTopic
-Q467720,fiction,hasTopic
-Q470057,fiction,hasTopic
-Q493191,fiction,hasTopic
-Q513696,fiction,hasTopic
-Q497280,fiction,hasTopic
-Q506898,fiction,hasTopic
-Q519858,fiction,hasTopic
-Q40354,fiction,hasTopic
-Q513036,fiction,hasTopic
-Q492207,fiction,hasTopic
-Q513036,fiction,hasTopic
-Q491946,fiction,hasTopic
-Q501514,fiction,hasTopic
-Q482567,fiction,hasTopic
-Q482085,fiction,hasTopic
-Q471024,fiction,hasTopic
-Q470937,fiction,hasTopic
-Q471142,fiction,hasTopic
-Q467332,fiction,hasTopic
-Q468135,fiction,hasTopic
-Q468121,fiction,hasTopic
-Q469889,fiction,hasTopic
-Q466605,fiction,hasTopic
-Q466790,fiction,hasTopic
+Q41359,fiction,hasTopic
+Q853927,fiction,hasTopic
+Q845106,fiction,hasTopic
+Q629445,fiction,hasTopic
+Q602288,fiction,hasTopic
+Q597545,fiction,hasTopic
+Q116801,fiction,hasTopic
+Q128324,fiction,hasTopic
 Q60672,fiction,hasTopic
-Q45735,fiction,hasTopic
-Q140036,fiction,hasTopic
+Q596874,fiction,hasTopic
+Q129929,fiction,hasTopic
+Q597219,fiction,hasTopic
+Q846175,fiction,hasTopic
+Q43361,fiction,hasTopic
+Q649267,fiction,hasTopic
 Q63998,fiction,hasTopic
 Q38213,fiction,hasTopic
+Q625764,fiction,hasTopic
+Q45735,fiction,hasTopic
+Q623394,fiction,hasTopic
+Q860162,fiction,hasTopic
+Q488350,fiction,hasTopic
+Q467225,fiction,hasTopic
+Q466504,fiction,hasTopic
+Q471741,fiction,hasTopic
+Q487364,fiction,hasTopic
+Q467388,fiction,hasTopic
+Q471679,fiction,hasTopic
+Q466201,fiction,hasTopic
+Q46887,fiction,hasTopic
+Q595950,fiction,hasTopic
+Q135165,fiction,hasTopic
 Q64095,fiction,hasTopic
-Q137536,fiction,hasTopic
+Q140036,fiction,hasTopic
+Q513696,fiction,hasTopic
+Q40354,fiction,hasTopic
+Q513036,fiction,hasTopic
+Q471926,fiction,hasTopic
+Q534975,fiction,hasTopic
+Q523766,fiction,hasTopic
+Q523766,fiction,hasTopic
+Q491946,fiction,hasTopic
+Q473082,fiction,hasTopic
+Q478110,fiction,hasTopic
+Q149552,fiction,hasTopic
+Q521688,fiction,hasTopic
+Q546785,fiction,hasTopic
+Q538742,fiction,hasTopic
+Q843400,fiction,hasTopic
+Q513036,fiction,hasTopic
+Q482567,fiction,hasTopic
 Q53945,fiction,hasTopic
 Q38564,fiction,hasTopic
 Q73588,fiction,hasTopic
+Q595766,fiction,hasTopic
+Q853442,fiction,hasTopic
+Q845944,fiction,hasTopic
+Q477994,fiction,hasTopic
+Q472368,fiction,hasTopic
+Q165068,fiction,hasTopic
+Q467720,fiction,hasTopic
+Q470057,fiction,hasTopic
+Q176470,fiction,hasTopic
+Q594567,fiction,hasTopic
+Q506898,fiction,hasTopic
+Q137536,fiction,hasTopic
+Q595128,fiction,hasTopic
+Q786025,fiction,hasTopic
+Q474895,fiction,hasTopic
+Q489581,fiction,hasTopic
+Q161191,fiction,hasTopic
+Q582811,fiction,hasTopic
+Q550208,fiction,hasTopic
+Q521331,fiction,hasTopic
+Q526792,fiction,hasTopic
+Q79762,fiction,hasTopic
+Q523914,fiction,hasTopic
+Q557867,fiction,hasTopic
+Q92630,fiction,hasTopic
 Q74362,fiction,hasTopic
+Q828031,fiction,hasTopic
+Q569790,fiction,hasTopic
+Q541006,fiction,hasTopic
+Q149993,fiction,hasTopic
+Q534991,fiction,hasTopic
+Q530406,fiction,hasTopic
+Q535795,fiction,hasTopic
+Q835341,fiction,hasTopic
+Q835739,fiction,hasTopic
+Q786615,fiction,hasTopic
+Q244884,fiction,hasTopic
+Q32136,fiction,hasTopic
+Q600448,fiction,hasTopic
+Q602216,fiction,hasTopic
+Q151550,fiction,hasTopic
+Q578895,fiction,hasTopic
+Q568210,fiction,hasTopic
+Q175421,fiction,hasTopic
+Q804414,fiction,hasTopic
+Q28172,fiction,hasTopic
+Q548368,fiction,hasTopic
+Q519858,fiction,hasTopic
+Q565105,fiction,hasTopic
+Q580361,fiction,hasTopic
+Q586831,fiction,hasTopic
+Q115653,fiction,hasTopic
+Q549152,fiction,hasTopic
+Q520466,fiction,hasTopic
+Q251076,fiction,hasTopic
+Q28306,fiction,hasTopic
+Q30613,fiction,hasTopic
+Q250123,fiction,hasTopic
+Q29132,fiction,hasTopic
+Q197243,fiction,hasTopic
+Q608875,fiction,hasTopic
+Q169976,fiction,hasTopic
+Q611689,fiction,hasTopic
+Q603645,fiction,hasTopic
+Q599495,fiction,hasTopic
+Q598071,fiction,hasTopic
+Q543375,fiction,hasTopic
+Q112407,fiction,hasTopic
+Q81316,fiction,hasTopic
+Q568143,fiction,hasTopic
+Q629646,fiction,hasTopic
+Q608534,fiction,hasTopic
+Q630341,fiction,hasTopic
 Q81007,fiction,hasTopic
 Q114761,fiction,hasTopic
-Q116321,fiction,hasTopic
-Q112407,fiction,hasTopic
-Q116381,fiction,hasTopic
-Q116373,fiction,hasTopic
-Q81316,fiction,hasTopic
-Q115653,fiction,hasTopic
-Q92630,fiction,hasTopic
-Q79762,fiction,hasTopic
-Q117431,fiction,hasTopic
-Q135165,fiction,hasTopic
-Q132062,fiction,hasTopic
-Q127149,fiction,hasTopic
-Q128444,fiction,hasTopic
-Q129929,fiction,hasTopic
-Q128324,fiction,hasTopic
-Q47598,fiction,hasTopic
-Q46887,fiction,hasTopic
+Q649015,fiction,hasTopic
+Q643901,fiction,hasTopic
+Q622400,fiction,hasTopic
+Q594093,fiction,hasTopic
+Q589959,fiction,hasTopic
 Q11678,fiction,hasTopic
-Q30613,fiction,hasTopic
-Q46751,fiction,hasTopic
-Q165068,fiction,hasTopic
-Q161191,fiction,hasTopic
-Q117108,fiction,hasTopic
-Q116950,fiction,hasTopic
-Q116801,fiction,hasTopic
-Q149552,fiction,hasTopic
-Q181231,fiction,hasTopic
-Q176470,fiction,hasTopic
-Q149993,fiction,hasTopic
-Q175421,fiction,hasTopic
-Q182502,fiction,hasTopic
-Q151550,fiction,hasTopic
-Q169976,fiction,hasTopic
-Q13911,fiction,hasTopic
-Q721,fiction,hasTopic
+Q211006,fiction,hasTopic
+Q47598,fiction,hasTopic
+Q610680,fiction,hasTopic
+Q630508,fiction,hasTopic
+Q632719,fiction,hasTopic
+Q618681,fiction,hasTopic
+Q633210,fiction,hasTopic
+Q630811,fiction,hasTopic
+Q615807,fiction,hasTopic
 Q15228,fiction,hasTopic
+Q588517,fiction,hasTopic
+Q482085,fiction,hasTopic
+Q117431,fiction,hasTopic
+Q117108,fiction,hasTopic
+Q466196,fiction,hasTopic
+Q492207,fiction,hasTopic
+Q581426,fiction,hasTopic
 Q25551,fiction,hasTopic
-Q28172,large type books,hasTopic
-Q616606,large type books,hasTopic
-Q251076,large type books,hasTopic
-Q478098,large type books,hasTopic
-Q488350,large type books,hasTopic
-Q46887,large type books,hasTopic
-Q860633,large type books,hasTopic
-Q543375,large type books,hasTopic
-Q837934,large type books,hasTopic
-Q135165,large type books,hasTopic
-Q127149,large type books,hasTopic
-Q595766,large type books,hasTopic
-Q804414,large type books,hasTopic
+Q1026862,fiction,hasTopic
+Q25551,science fiction,hasTopic
+Q492207,science fiction,hasTopic
+Q466196,science fiction,hasTopic
+Q576737,science fiction,hasTopic
+Q598071,science fiction,hasTopic
+Q608378,science fiction,hasTopic
+Q618681,science fiction,hasTopic
+Q592815,science fiction,hasTopic
+Q543375,science fiction,hasTopic
+Q513036,science fiction,hasTopic
+Q467720,science fiction,hasTopic
+Q530406,science fiction,hasTopic
+Q602216,science fiction,hasTopic
+Q28172,science fiction,hasTopic
+Q598315,science fiction,hasTopic
+Q477994,science fiction,hasTopic
+Q74362,science fiction,hasTopic
+Q548368,science fiction,hasTopic
+Q578895,science fiction,hasTopic
+Q580361,science fiction,hasTopic
+Q786025,science fiction,hasTopic
+Q843400,science fiction,hasTopic
+Q92630,science fiction,hasTopic
+Q786615,science fiction,hasTopic
+Q828031,science fiction,hasTopic
+Q466790,science fiction,hasTopic
+Q607112,science fiction,hasTopic
+Q482085,science fiction,hasTopic
+Q202531,science fiction,hasTopic
+Q608378,science fiction,hasTopic
+Q468135,science fiction,hasTopic
+Q497280,science fiction,hasTopic
+Q853927,science fiction,hasTopic
+Q649267,science fiction,hasTopic
+Q187655,science fiction,hasTopic
+Q853442,science fiction,hasTopic
+Q28306,science fiction,hasTopic
+Q487364,science fiction,hasTopic
+Q471741,science fiction,hasTopic
+Q467225,science fiction,hasTopic
+Q41359,science fiction,hasTopic
+Q135165,science fiction,hasTopic
+Q40354,science fiction,hasTopic
+Q595950,science fiction,hasTopic
+Q513036,science fiction,hasTopic
+Q534975,science fiction,hasTopic
+Q149552,science fiction,hasTopic
+Q522575,science fiction,hasTopic
+Q478110,science fiction,hasTopic
+Q546785,science fiction,hasTopic
+Q538742,science fiction,hasTopic
+Q835341,science fiction,hasTopic
+Q11678,science fiction,hasTopic
+Q627192,science fiction,hasTopic
+Q132062,science fiction,hasTopic
+Q129929,science fiction,hasTopic
+Q721,science fiction,hasTopic
+Q128444,science fiction,hasTopic
+Q467139,science fiction,hasTopic
+Q543562,science fiction,hasTopic
 Q580361,large type books,hasTopic
-Q47598,large type books,hasTopic
-Q129929,large type books,hasTopic
-Q187655,large type books,hasTopic
-Q840125,large type books,hasTopic
-Q474523,large type books,hasTopic
-Q597545,large type books,hasTopic
-Q223784,large type books,hasTopic
-Q557867,large type books,hasTopic
-Q576392,large type books,hasTopic
-Q117108,large type books,hasTopic
+Q251076,large type books,hasTopic
 Q29132,large type books,hasTopic
-Q819101,large type books,hasTopic
-Q213300,large type books,hasTopic
-Q169976,large type books,hasTopic
-Q845106,large type books,hasTopic
-Q244884,large type books,hasTopic
-Q116801,large type books,hasTopic
-Q116381,large type books,hasTopic
-Q116950,large type books,hasTopic
-Q81316,large type books,hasTopic
-Q468071,large type books,hasTopic
-Q191540,large type books,hasTopic
-Q841540,large type books,hasTopic
-Q189378,large type books,hasTopic
-Q837140,large type books,hasTopic
+Q786025,large type books,hasTopic
+Q804414,large type books,hasTopic
+Q175421,large type books,hasTopic
 Q582811,large type books,hasTopic
-Q608875,large type books,hasTopic
+Q557867,large type books,hasTopic
+Q81316,large type books,hasTopic
+Q114761,large type books,hasTopic
+Q543375,large type books,hasTopic
+Q169976,large type books,hasTopic
 Q599495,large type books,hasTopic
-Q182502,large type books,hasTopic
+Q466196,large type books,hasTopic
+Q117108,large type books,hasTopic
+Q492207,large type books,hasTopic
+Q611689,large type books,hasTopic
+Q603645,large type books,hasTopic
+Q608875,large type books,hasTopic
+Q30613,large type books,hasTopic
+Q28172,large type books,hasTopic
+Q244884,large type books,hasTopic
+Q835739,large type books,hasTopic
+Q149993,large type books,hasTopic
 Q482567,large type books,hasTopic
 Q53945,large type books,hasTopic
-Q845167,large type books,hasTopic
-Q175421,large type books,hasTopic
-Q611689,large type books,hasTopic
-Q625645,large type books,hasTopic
-Q46751,large type books,hasTopic
-Q41359,large type books,hasTopic
-Q603645,large type books,hasTopic
-Q835739,large type books,hasTopic
-Q114761,large type books,hasTopic
+Q595766,large type books,hasTopic
+Q623394,large type books,hasTopic
+Q116801,large type books,hasTopic
+Q849701,large type books,hasTopic
+Q629445,large type books,hasTopic
+Q135165,large type books,hasTopic
 Q40354,large type books,hasTopic
-Q492207,large type books,hasTopic
-Q116321,large type books,hasTopic
-Q513036,large type books,hasTopic
-Q513696,large type books,hasTopic
-Q829130,large type books,hasTopic
-Q469889,large type books,hasTopic
-Q857313,large type books,hasTopic
-Q149993,large type books,hasTopic
 Q43714,large type books,hasTopic
-Q30613,large type books,hasTopic
+Q513696,large type books,hasTopic
+Q513036,large type books,hasTopic
+Q41359,large type books,hasTopic
+Q187655,large type books,hasTopic
+Q46751,large type books,hasTopic
+Q845106,large type books,hasTopic
+Q129929,large type books,hasTopic
+Q469889,large type books,hasTopic
+Q474523,large type books,hasTopic
+Q116950,large type books,hasTopic
+Q46887,large type books,hasTopic
+Q488350,large type books,hasTopic
+Q478098,large type books,hasTopic
+Q182502,large type books,hasTopic
+Q597545,large type books,hasTopic
+Q627192,large type books,hasTopic
+Q616606,large type books,hasTopic
+Q127149,large type books,hasTopic
+Q116381,large type books,hasTopic
+Q47598,large type books,hasTopic
 Q11678,large type books,hasTopic
-Q546785,science fiction,hasTopic
-Q548368,science fiction,hasTopic
-Q11678,science fiction,hasTopic
-Q602216,science fiction,hasTopic
-Q543562,science fiction,hasTopic
-Q618681,science fiction,hasTopic
-Q132062,science fiction,hasTopic
-Q580361,science fiction,hasTopic
-Q837934,science fiction,hasTopic
-Q487364,science fiction,hasTopic
-Q129929,science fiction,hasTopic
-Q135165,science fiction,hasTopic
-Q92630,science fiction,hasTopic
-Q128444,science fiction,hasTopic
-Q816016,science fiction,hasTopic
-Q530406,science fiction,hasTopic
-Q721,science fiction,hasTopic
-Q185449,science fiction,hasTopic
-Q223784,science fiction,hasTopic
-Q187655,science fiction,hasTopic
-Q28306,science fiction,hasTopic
-Q786615,science fiction,hasTopic
-Q543375,science fiction,hasTopic
-Q196151,science fiction,hasTopic
-Q578895,science fiction,hasTopic
-Q471741,science fiction,hasTopic
-Q608378,science fiction,hasTopic
-Q478110,science fiction,hasTopic
-Q595950,science fiction,hasTopic
-Q576737,science fiction,hasTopic
-Q202531,science fiction,hasTopic
-Q592815,science fiction,hasTopic
-Q25551,science fiction,hasTopic
-Q477994,science fiction,hasTopic
-Q212718,science fiction,hasTopic
-Q608378,science fiction,hasTopic
-Q607112,science fiction,hasTopic
-Q522575,science fiction,hasTopic
-Q538742,science fiction,hasTopic
-Q28172,science fiction,hasTopic
-Q534975,science fiction,hasTopic
-Q466790,science fiction,hasTopic
-Q513036,science fiction,hasTopic
-Q482085,science fiction,hasTopic
-Q41359,science fiction,hasTopic
-Q149552,science fiction,hasTopic
-Q467139,science fiction,hasTopic
-Q467225,science fiction,hasTopic
-Q598071,science fiction,hasTopic
-Q837140,science fiction,hasTopic
-Q40354,science fiction,hasTopic
-Q467017,science fiction,hasTopic
-Q598315,science fiction,hasTopic
-Q468135,science fiction,hasTopic
-Q74362,science fiction,hasTopic
-Q492207,science fiction,hasTopic
-Q467720,science fiction,hasTopic
-Q843400,science fiction,hasTopic
-Q828031,science fiction,hasTopic
-Q837283,science fiction,hasTopic
-Q513036,science fiction,hasTopic
-Q497280,science fiction,hasTopic
-Q835341,science fiction,hasTopic
-Q841540,science fiction,hasTopic
-Q543562,fiction science fiction general,hasTopic
-Q546785,fiction science fiction general,hasTopic
-Q548368,fiction science fiction general,hasTopic
-Q137536,fiction science fiction general,hasTopic
+Q576392,large type books,hasTopic
+Q497280,fiction science fiction general,hasTopic
 Q468135,fiction science fiction general,hasTopic
-Q565105,fiction science fiction general,hasTopic
-Q471741,fiction science fiction general,hasTopic
-Q472368,fiction science fiction general,hasTopic
-Q592815,fiction science fiction general,hasTopic
-Q589959,fiction science fiction general,hasTopic
-Q607112,fiction science fiction general,hasTopic
-Q607112,fiction science fiction general,hasTopic
-Q212718,fiction science fiction general,hasTopic
-Q196151,fiction science fiction general,hasTopic
-Q471679,fiction science fiction general,hasTopic
-Q487364,fiction science fiction general,hasTopic
-Q135165,fiction science fiction general,hasTopic
-Q580361,fiction science fiction general,hasTopic
-Q586831,fiction science fiction general,hasTopic
-Q478110,fiction science fiction general,hasTopic
-Q596874,fiction science fiction general,hasTopic
+Q466196,fiction science fiction general,hasTopic
 Q618681,fiction science fiction general,hasTopic
-Q467720,fiction science fiction general,hasTopic
-Q519935,fiction science fiction general,hasTopic
-Q835341,fiction science fiction general,hasTopic
-Q467225,fiction science fiction general,hasTopic
-Q837140,fiction science fiction general,hasTopic
-Q128324,fiction science fiction general,hasTopic
-Q223784,fiction science fiction general,hasTopic
-Q187655,fiction science fiction general,hasTopic
-Q471926,fiction science fiction general,hasTopic
-Q798732,fiction science fiction general,hasTopic
-Q489581,fiction science fiction general,hasTopic
+Q592815,fiction science fiction general,hasTopic
 Q721,fiction science fiction general,hasTopic
-Q786615,fiction science fiction general,hasTopic
 Q588035,fiction science fiction general,hasTopic
-Q837934,fiction science fiction general,hasTopic
+Q596874,fiction science fiction general,hasTopic
+Q128324,fiction science fiction general,hasTopic
 Q132062,fiction science fiction general,hasTopic
-Q534975,fiction science fiction general,hasTopic
-Q538742,fiction science fiction general,hasTopic
+Q519935,fiction science fiction general,hasTopic
+Q547210,fiction science fiction general,hasTopic
+Q786615,fiction science fiction general,hasTopic
+Q837557,fiction science fiction general,hasTopic
+Q478110,fiction science fiction general,hasTopic
+Q828031,fiction science fiction general,hasTopic
+Q489581,fiction science fiction general,hasTopic
+Q598315,fiction science fiction general,hasTopic
 Q578895,fiction science fiction general,hasTopic
 Q592503,fiction science fiction general,hasTopic
-Q598315,fiction science fiction general,hasTopic
+Q546785,fiction science fiction general,hasTopic
+Q538742,fiction science fiction general,hasTopic
 Q92630,fiction science fiction general,hasTopic
-Q467017,fiction science fiction general,hasTopic
-Q841540,fiction science fiction general,hasTopic
-Q547210,fiction science fiction general,hasTopic
-Q492207,fiction science fiction general,hasTopic
-Q516848,fiction science fiction general,hasTopic
-Q837557,fiction science fiction general,hasTopic
-Q828031,fiction science fiction general,hasTopic
+Q586831,fiction science fiction general,hasTopic
+Q487364,fiction science fiction general,hasTopic
+Q471679,fiction science fiction general,hasTopic
+Q472368,fiction science fiction general,hasTopic
+Q467720,fiction science fiction general,hasTopic
 Q513036,fiction science fiction general,hasTopic
+Q835341,fiction science fiction general,hasTopic
+Q471741,fiction science fiction general,hasTopic
+Q467225,fiction science fiction general,hasTopic
+Q187655,fiction science fiction general,hasTopic
+Q786025,fiction science fiction general,hasTopic
+Q534975,fiction science fiction general,hasTopic
+Q137536,fiction science fiction general,hasTopic
+Q471926,fiction science fiction general,hasTopic
+Q135165,fiction science fiction general,hasTopic
+Q853442,fiction science fiction general,hasTopic
+Q543562,fiction science fiction general,hasTopic
+Q607112,fiction science fiction general,hasTopic
+Q607112,fiction science fiction general,hasTopic
+Q853927,fiction science fiction general,hasTopic
 Q41359,fiction science fiction general,hasTopic
-Q497280,fiction science fiction general,hasTopic
-Q197243,romans nouvelles,hasTopic
-Q28172,romans nouvelles,hasTopic
-Q829130,romans nouvelles,hasTopic
-Q814765,romans nouvelles,hasTopic
-Q211006,romans nouvelles,hasTopic
-Q183883,romans nouvelles,hasTopic
-Q189378,romans nouvelles,hasTopic
-Q597545,romans nouvelles,hasTopic
-Q185449,romans nouvelles,hasTopic
-Q819101,romans nouvelles,hasTopic
-Q207964,romans nouvelles,hasTopic
-Q15228,romans nouvelles,hasTopic
-Q837934,romans nouvelles,hasTopic
-Q202531,romans nouvelles,hasTopic
-Q251076,romans nouvelles,hasTopic
-Q478098,romans nouvelles,hasTopic
-Q557867,romans nouvelles,hasTopic
-Q804414,romans nouvelles,hasTopic
-Q474523,romans nouvelles,hasTopic
-Q13911,romans nouvelles,hasTopic
-Q127149,romans nouvelles,hasTopic
-Q550208,romans nouvelles,hasTopic
+Q589959,fiction science fiction general,hasTopic
+Q492207,fiction science fiction general,hasTopic
+Q630341,fiction science fiction general,hasTopic
+Q565105,fiction science fiction general,hasTopic
+Q580361,fiction science fiction general,hasTopic
+Q516848,fiction science fiction general,hasTopic
+Q548368,fiction science fiction general,hasTopic
 Q603645,romans nouvelles,hasTopic
 Q492207,romans nouvelles,hasTopic
-Q92630,romans nouvelles,hasTopic
-Q191540,romans nouvelles,hasTopic
-Q468071,romans nouvelles,hasTopic
-Q244884,romans nouvelles,hasTopic
-Q569790,romans nouvelles,hasTopic
-Q191288,romans nouvelles,hasTopic
-Q241348,romans nouvelles,hasTopic
-Q183363,romans nouvelles,hasTopic
-Q41359,romans nouvelles,hasTopic
-Q513036,romans nouvelles,hasTopic
-Q176470,romans nouvelles,hasTopic
-Q182502,romans nouvelles,hasTopic
-Q625764,romans nouvelles,hasTopic
-Q471024,romans nouvelles,hasTopic
-Q829934,romans nouvelles,hasTopic
-Q622400,romans nouvelles,hasTopic
-Q845944,romans nouvelles,hasTopic
-Q53945,romans nouvelles,hasTopic
-Q471142,romans nouvelles,hasTopic
-Q466790,romans nouvelles,hasTopic
-Q837283,romans nouvelles,hasTopic
-Q469889,romans nouvelles,hasTopic
-Q595128,romans nouvelles,hasTopic
 Q11678,romans nouvelles,hasTopic
-Q625645,new york times bestseller,hasTopic
-Q182502,new york times bestseller,hasTopic
-Q140036,new york times bestseller,hasTopic
-Q60672,new york times bestseller,hasTopic
-Q28172,new york times bestseller,hasTopic
-Q469889,new york times bestseller,hasTopic
-Q602288,new york times bestseller,hasTopic
-Q470937,new york times bestseller,hasTopic
-Q53945,new york times bestseller,hasTopic
-Q28306,new york times bestseller,hasTopic
-Q46887,new york times bestseller,hasTopic
-Q543375,new york times bestseller,hasTopic
-Q196151,new york times bestseller,hasTopic
-Q471926,new york times bestseller,hasTopic
-Q128444,new york times bestseller,hasTopic
-Q185449,new york times bestseller,hasTopic
-Q852066,new york times bestseller,hasTopic
-Q232153,new york times bestseller,hasTopic
-Q213300,new york times bestseller,hasTopic
-Q165068,new york times bestseller,hasTopic
-Q816016,new york times bestseller,hasTopic
-Q47598,new york times bestseller,hasTopic
-Q211006,new york times bestseller,hasTopic
-Q819101,new york times bestseller,hasTopic
-Q814765,new york times bestseller,hasTopic
-Q607112,new york times bestseller,hasTopic
-Q860633,new york times bestseller,hasTopic
-Q46751,new york times bestseller,hasTopic
-Q487364,new york times bestseller,hasTopic
-Q189378,new york times bestseller,hasTopic
-Q535639,new york times bestseller,hasTopic
-Q557867,new york times bestseller,hasTopic
-Q837140,new york times bestseller,hasTopic
-Q11678,new york times bestseller,hasTopic
-Q576392,new york times bestseller,hasTopic
-Q595766,new york times bestseller,hasTopic
-Q191540,new york times bestseller,hasTopic
-Q513696,new york times bestseller,hasTopic
-Q244884,new york times bestseller,hasTopic
-Q40354,new york times bestseller,hasTopic
-Q149552,new york times bestseller,hasTopic
-Q53817,new york times bestseller,hasTopic
-Q599495,new york times bestseller,hasTopic
-Q43361,new york times bestseller,hasTopic
-Q501514,new york times bestseller,hasTopic
-Q608378,new york times bestseller,hasTopic
-Q477994,new york times bestseller,hasTopic
-Q852066,childrens fiction,hasTopic
-Q478098,childrens fiction,hasTopic
-Q543375,childrens fiction,hasTopic
-Q576737,childrens fiction,hasTopic
-Q837934,childrens fiction,hasTopic
-Q129929,childrens fiction,hasTopic
-Q192258,childrens fiction,hasTopic
-Q46887,childrens fiction,hasTopic
-Q477994,childrens fiction,hasTopic
-Q185449,childrens fiction,hasTopic
-Q471926,childrens fiction,hasTopic
-Q47598,childrens fiction,hasTopic
-Q165068,childrens fiction,hasTopic
-Q819101,childrens fiction,hasTopic
-Q262540,childrens fiction,hasTopic
-Q595766,childrens fiction,hasTopic
-Q837140,childrens fiction,hasTopic
-Q189378,childrens fiction,hasTopic
-Q535795,childrens fiction,hasTopic
-Q849907,childrens fiction,hasTopic
-Q40354,childrens fiction,hasTopic
-Q466605,childrens fiction,hasTopic
-Q608378,childrens fiction,hasTopic
-Q140036,childrens fiction,hasTopic
-Q60672,childrens fiction,hasTopic
-Q45735,childrens fiction,hasTopic
-Q149993,childrens fiction,hasTopic
-Q137629,childrens fiction,hasTopic
-Q175421,childrens fiction,hasTopic
-Q53945,childrens fiction,hasTopic
-Q11678,childrens fiction,hasTopic
-Q43361,childrens fiction,hasTopic
-Q46751,childrens fiction,hasTopic
-Q523766,childrens fiction,hasTopic
-Q169976,childrens fiction,hasTopic
-Q530406,childrens fiction,hasTopic
-Q8563,childrens fiction,hasTopic
-Q534991,childrens fiction,hasTopic
-Q580361,childrens fiction,hasTopic
-Q837489,childrens fiction,hasTopic
-Q497280,childrens fiction,hasTopic
-Q191540,childrens fiction,hasTopic
-Q38564,childrens fiction,hasTopic
-Q501514,childrens fiction,hasTopic
-Q595950,childrens fiction,hasTopic
-Q837140,fantasy,hasTopic
-Q46751,fantasy,hasTopic
+Q92630,romans nouvelles,hasTopic
+Q557867,romans nouvelles,hasTopic
+Q550208,romans nouvelles,hasTopic
+Q244884,romans nouvelles,hasTopic
+Q622400,romans nouvelles,hasTopic
+Q197243,romans nouvelles,hasTopic
+Q176470,romans nouvelles,hasTopic
+Q251076,romans nouvelles,hasTopic
+Q127149,romans nouvelles,hasTopic
+Q471142,romans nouvelles,hasTopic
+Q597545,romans nouvelles,hasTopic
+Q202531,romans nouvelles,hasTopic
+Q471024,romans nouvelles,hasTopic
+Q469889,romans nouvelles,hasTopic
+Q849701,romans nouvelles,hasTopic
+Q207964,romans nouvelles,hasTopic
+Q15228,romans nouvelles,hasTopic
+Q630811,romans nouvelles,hasTopic
+Q211006,romans nouvelles,hasTopic
+Q627192,romans nouvelles,hasTopic
+Q13911,romans nouvelles,hasTopic
+Q860162,romans nouvelles,hasTopic
+Q466790,romans nouvelles,hasTopic
+Q630508,romans nouvelles,hasTopic
+Q569790,romans nouvelles,hasTopic
+Q28172,romans nouvelles,hasTopic
+Q53945,romans nouvelles,hasTopic
+Q513036,romans nouvelles,hasTopic
+Q595128,romans nouvelles,hasTopic
+Q804414,romans nouvelles,hasTopic
+Q625764,romans nouvelles,hasTopic
+Q182502,romans nouvelles,hasTopic
+Q845944,romans nouvelles,hasTopic
+Q478098,romans nouvelles,hasTopic
+Q629445,romans nouvelles,hasTopic
+Q474523,romans nouvelles,hasTopic
+Q853927,romans nouvelles,hasTopic
+Q41359,romans nouvelles,hasTopic
 Q610680,fantasy,hasTopic
-Q28172,fantasy,hasTopic
-Q541419,fantasy,hasTopic
-Q466605,fantasy,hasTopic
-Q607112,fantasy,hasTopic
-Q47598,fantasy,hasTopic
-Q192258,fantasy,hasTopic
-Q165068,fantasy,hasTopic
-Q128444,fantasy,hasTopic
-Q149993,fantasy,hasTopic
-Q140036,fantasy,hasTopic
-Q468121,fantasy,hasTopic
-Q60672,fantasy,hasTopic
-Q45735,fantasy,hasTopic
-Q595128,fantasy,hasTopic
-Q477994,fantasy,hasTopic
-Q28306,fantasy,hasTopic
-Q469969,fantasy,hasTopic
-Q151550,fantasy,hasTopic
-Q501514,fantasy,hasTopic
-Q506898,fantasy,hasTopic
-Q843400,fantasy,hasTopic
-Q519858,fantasy,hasTopic
-Q191540,fantasy,hasTopic
-Q595766,fantasy,hasTopic
-Q262540,fantasy,hasTopic
-Q43361,fantasy,hasTopic
+Q501514,childrens fiction,hasTopic
+Q849701,childrens fiction,hasTopic
 Q129929,fantasy,hasTopic
+Q860162,childrens fiction,hasTopic
+Q469969,fantasy,hasTopic
+Q607112,fantasy,hasTopic
+Q627192,childrens fiction,hasTopic
+Q47598,childrens fiction,hasTopic
+Q468121,fantasy,hasTopic
 Q721,fantasy,hasTopic
-Q187655,fantasy,hasTopic
-Q594093,fantasy,hasTopic
-Q46887,fantasy,hasTopic
+Q608378,childrens fiction,hasTopic
+Q128444,fantasy,hasTopic
+Q501514,fantasy,hasTopic
+Q129929,childrens fiction,hasTopic
+Q576737,childrens fiction,hasTopic
+Q60672,childrens fiction,hasTopic
+Q8563,childrens fiction,hasTopic
+Q46751,fantasy,hasTopic
+Q466201,childrens fiction,hasTopic
+Q137629,childrens fiction,hasTopic
+Q506898,fantasy,hasTopic
 Q132269,fantasy,hasTopic
-Q79762,fantasy,hasTopic
-Q32136,fantasy,hasTopic
+Q595128,fantasy,hasTopic
+Q43361,childrens fiction,hasTopic
+Q843400,fantasy,hasTopic
+Q38564,childrens fiction,hasTopic
+Q595766,childrens fiction,hasTopic
+Q53945,childrens fiction,hasTopic
+Q46751,childrens fiction,hasTopic
+Q187655,fantasy,hasTopic
+Q165068,fantasy,hasTopic
+Q46887,childrens fiction,hasTopic
 Q471926,fantasy,hasTopic
-Q535795,fantasy,hasTopic
-Q185449,fantasy,hasTopic
+Q40354,childrens fiction,hasTopic
+Q45735,fantasy,hasTopic
+Q45735,childrens fiction,hasTopic
+Q60672,fantasy,hasTopic
+Q47598,fantasy,hasTopic
+Q471926,childrens fiction,hasTopic
+Q478098,childrens fiction,hasTopic
+Q43361,fantasy,hasTopic
+Q140036,fantasy,hasTopic
+Q140036,childrens fiction,hasTopic
+Q595950,childrens fiction,hasTopic
+Q853442,fantasy,hasTopic
+Q595766,fantasy,hasTopic
+Q46887,fantasy,hasTopic
+Q165068,childrens fiction,hasTopic
 Q169976,fantasy,hasTopic
-Q523766,juvenile fiction,hasTopic
-Q849907,juvenile fiction,hasTopic
+Q32136,fantasy,hasTopic
+Q151550,fantasy,hasTopic
+Q28172,fantasy,hasTopic
+Q534991,childrens fiction,hasTopic
+Q477994,fantasy,hasTopic
+Q169976,childrens fiction,hasTopic
+Q535795,childrens fiction,hasTopic
+Q149993,childrens fiction,hasTopic
+Q535795,fantasy,hasTopic
+Q523766,childrens fiction,hasTopic
+Q175421,childrens fiction,hasTopic
+Q149993,fantasy,hasTopic
+Q530406,childrens fiction,hasTopic
+Q477994,childrens fiction,hasTopic
+Q541419,fantasy,hasTopic
+Q519858,fantasy,hasTopic
+Q580361,childrens fiction,hasTopic
+Q79762,fantasy,hasTopic
+Q28306,fantasy,hasTopic
+Q643901,childrens fiction,hasTopic
+Q643901,fantasy,hasTopic
+Q543375,childrens fiction,hasTopic
+Q630341,fantasy,hasTopic
+Q466605,childrens fiction,hasTopic
+Q497280,childrens fiction,hasTopic
+Q466605,fantasy,hasTopic
+Q594093,fantasy,hasTopic
+Q1026862,childrens fiction,hasTopic
+Q1026862,fantasy,hasTopic
+Q11678,childrens fiction,hasTopic
+Q11678,new york times bestseller,hasTopic
+Q608378,new york times bestseller,hasTopic
+Q128444,new york times bestseller,hasTopic
+Q543375,new york times bestseller,hasTopic
+Q47598,new york times bestseller,hasTopic
+Q28306,new york times bestseller,hasTopic
+Q599495,new york times bestseller,hasTopic
+Q46887,new york times bestseller,hasTopic
+Q602288,new york times bestseller,hasTopic
+Q211006,new york times bestseller,hasTopic
+Q60672,new york times bestseller,hasTopic
+Q627192,new york times bestseller,hasTopic
+Q607112,new york times bestseller,hasTopic
+Q470937,new york times bestseller,hasTopic
+Q557867,new york times bestseller,hasTopic
+Q469889,new york times bestseller,hasTopic
+Q165068,new york times bestseller,hasTopic
+Q53945,new york times bestseller,hasTopic
+Q595766,new york times bestseller,hasTopic
+Q535639,new york times bestseller,hasTopic
+Q477994,new york times bestseller,hasTopic
+Q487364,new york times bestseller,hasTopic
+Q466201,new york times bestseller,hasTopic
+Q28172,new york times bestseller,hasTopic
+Q149552,new york times bestseller,hasTopic
+Q40354,new york times bestseller,hasTopic
+Q471926,new york times bestseller,hasTopic
+Q140036,new york times bestseller,hasTopic
+Q513696,new york times bestseller,hasTopic
+Q43361,new york times bestseller,hasTopic
+Q182502,new york times bestseller,hasTopic
+Q46751,new york times bestseller,hasTopic
+Q244884,new york times bestseller,hasTopic
+Q576392,new york times bestseller,hasTopic
+Q501514,new york times bestseller,hasTopic
+Q53817,new york times bestseller,hasTopic
+Q43361,juvenile fiction,hasTopic
 Q149993,juvenile fiction,hasTopic
+Q523766,juvenile fiction,hasTopic
+Q46887,juvenile fiction,hasTopic
+Q523766,juvenile fiction,hasTopic
+Q478098,juvenile fiction,hasTopic
+Q46751,juvenile fiction,hasTopic
+Q595766,juvenile fiction,hasTopic
+Q534991,juvenile fiction,hasTopic
+Q40354,juvenile fiction,hasTopic
+Q140036,juvenile fiction,hasTopic
+Q175421,juvenile fiction,hasTopic
+Q501514,juvenile fiction,hasTopic
+Q169976,juvenile fiction,hasTopic
+Q129929,juvenile fiction,hasTopic
+Q643901,juvenile fiction,hasTopic
+Q627192,juvenile fiction,hasTopic
+Q543375,juvenile fiction,hasTopic
+Q11678,juvenile fiction,hasTopic
+Q576737,juvenile fiction,hasTopic
 Q466605,juvenile fiction,hasTopic
+Q165068,juvenile fiction,hasTopic
+Q1026862,juvenile fiction,hasTopic
+Q466201,juvenile fiction,hasTopic
+Q53945,juvenile fiction,hasTopic
+Q38564,juvenile fiction,hasTopic
+Q530406,juvenile fiction,hasTopic
+Q595950,juvenile fiction,hasTopic
+Q535795,juvenile fiction,hasTopic
+Q47598,juvenile fiction,hasTopic
 Q45735,juvenile fiction,hasTopic
 Q60672,juvenile fiction,hasTopic
-Q140036,juvenile fiction,hasTopic
-Q11678,juvenile fiction,hasTopic
 Q622400,juvenile fiction,hasTopic
-Q175421,juvenile fiction,hasTopic
-Q185449,juvenile fiction,hasTopic
-Q534991,juvenile fiction,hasTopic
-Q169976,juvenile fiction,hasTopic
-Q189378,juvenile fiction,hasTopic
-Q530406,juvenile fiction,hasTopic
-Q595766,juvenile fiction,hasTopic
-Q535795,juvenile fiction,hasTopic
-Q837489,juvenile fiction,hasTopic
-Q43361,juvenile fiction,hasTopic
-Q38564,juvenile fiction,hasTopic
-Q53945,juvenile fiction,hasTopic
-Q40354,juvenile fiction,hasTopic
-Q191540,juvenile fiction,hasTopic
-Q837140,juvenile fiction,hasTopic
-Q501514,juvenile fiction,hasTopic
-Q183883,juvenile fiction,hasTopic
-Q837934,juvenile fiction,hasTopic
-Q852066,juvenile fiction,hasTopic
-Q129929,juvenile fiction,hasTopic
-Q819101,juvenile fiction,hasTopic
-Q165068,juvenile fiction,hasTopic
-Q47598,juvenile fiction,hasTopic
-Q543375,juvenile fiction,hasTopic
-Q478098,juvenile fiction,hasTopic
-Q595950,juvenile fiction,hasTopic
-Q192258,juvenile fiction,hasTopic
-Q46887,juvenile fiction,hasTopic
 Q608378,juvenile fiction,hasTopic
-Q576737,juvenile fiction,hasTopic
-Q46751,juvenile fiction,hasTopic
-Q829130,fiction general,hasTopic
-Q826822,fiction general,hasTopic
-Q478110,fiction general,hasTopic
-Q176470,fiction general,hasTopic
-Q829753,fiction general,hasTopic
-Q602216,fiction general,hasTopic
-Q589841,fiction general,hasTopic
-Q474895,fiction general,hasTopic
-Q595128,fiction general,hasTopic
-Q837283,fiction general,hasTopic
-Q191288,fiction general,hasTopic
-Q592503,fiction general,hasTopic
-Q262540,fiction general,hasTopic
-Q13911,fiction general,hasTopic
-Q597219,fiction general,hasTopic
-Q581426,fiction general,hasTopic
 Q597545,fiction general,hasTopic
-Q598071,fiction general,hasTopic
-Q622400,fiction general,hasTopic
-Q469889,fiction general,hasTopic
-Q169976,fiction general,hasTopic
-Q603645,fiction general,hasTopic
-Q520466,fiction general,hasTopic
-Q849930,fiction general,hasTopic
-Q625764,fiction general,hasTopic
-Q523914,fiction general,hasTopic
-Q603645,fiction general,hasTopic
-Q568143,fiction general,hasTopic
-Q600448,fiction general,hasTopic
-Q183883,fiction general,hasTopic
-Q92630,fiction general,hasTopic
-Q470057,fiction general,hasTopic
-Q467225,fiction general,hasTopic
-Q151550,fiction general,hasTopic
-Q161191,fiction general,hasTopic
-Q569790,fiction general,hasTopic
-Q489581,fiction fantasy general,hasTopic
-Q46887,fiction fantasy general,hasTopic
-Q520466,fiction fantasy general,hasTopic
-Q477994,fiction fantasy general,hasTopic
-Q471926,fiction fantasy general,hasTopic
-Q15228,fiction fantasy general,hasTopic
-Q469969,fiction fantasy general,hasTopic
-Q467017,fiction fantasy general,hasTopic
-Q47598,fiction fantasy general,hasTopic
-Q32136,fiction fantasy general,hasTopic
-Q466605,fiction fantasy general,hasTopic
-Q43361,fiction fantasy general,hasTopic
-Q129929,fiction fantasy general,hasTopic
-Q594093,fiction fantasy general,hasTopic
-Q843400,fiction fantasy general,hasTopic
-Q28306,fiction fantasy general,hasTopic
-Q506898,fiction fantasy general,hasTopic
-Q519858,fiction fantasy general,hasTopic
-Q53945,fiction fantasy general,hasTopic
-Q181231,fiction fantasy general,hasTopic
-Q602216,fiction fantasy general,hasTopic
-Q592503,fiction fantasy general,hasTopic
-Q595128,fiction fantasy general,hasTopic
-Q826822,fiction fantasy general,hasTopic
-Q860181,fiction fantasy general,hasTopic
-Q610680,fiction fantasy general,hasTopic
-Q541419,fiction fantasy general,hasTopic
-Q522575,fiction fantasy general,hasTopic
-Q478250,fiction fantasy general,hasTopic
-Q860034,fiction fantasy general,hasTopic
-Q32136,fantasy fiction,hasTopic
-Q185449,fantasy fiction,hasTopic
-Q849930,new york times reviewed,hasTopic
-Q501514,new york times reviewed,hasTopic
-Q608875,new york times reviewed,hasTopic
-Q625764,new york times reviewed,hasTopic
-Q830526,new york times reviewed,hasTopic
-Q860633,new york times reviewed,hasTopic
-Q45735,fantasy fiction,hasTopic
-Q211006,new york times reviewed,hasTopic
-Q798732,new york times reviewed,hasTopic
-Q187655,new york times reviewed,hasTopic
-Q819101,new york times reviewed,hasTopic
-Q535795,fantasy fiction,hasTopic
-Q232153,new york times reviewed,hasTopic
-Q213300,new york times reviewed,hasTopic
-Q15228,fantasy fiction,hasTopic
-Q595128,fantasy fiction,hasTopic
-Q140036,new york times reviewed,hasTopic
-Q40354,new york times reviewed,hasTopic
-Q469889,new york times reviewed,hasTopic
-Q149993,fantasy fiction,hasTopic
-Q244884,new york times reviewed,hasTopic
-Q468121,new york times reviewed,hasTopic
-Q471024,fantasy fiction,hasTopic
-Q501514,fantasy fiction,hasTopic
-Q43361,fantasy fiction,hasTopic
-Q46751,fantasy fiction,hasTopic
-Q192258,fantasy fiction,hasTopic
-Q46887,fantasy fiction,hasTopic
-Q625645,new york times reviewed,hasTopic
-Q814765,new york times reviewed,hasTopic
-Q11678,fantasy fiction,hasTopic
-Q477994,fantasy fiction,hasTopic
-Q83880,new york times reviewed,hasTopic
-Q471926,fantasy fiction,hasTopic
 Q60672,fantasy fiction,hasTopic
-Q47598,fantasy fiction,hasTopic
-Q149993,new york times reviewed,hasTopic
-Q27453,new york times reviewed,hasTopic
-Q534975,new york times reviewed,hasTopic
-Q843400,fantasy fiction,hasTopic
-Q860181,fantasy fiction,hasTopic
-Q183883,new york times reviewed,hasTopic
-Q603645,new york times reviewed,hasTopic
-Q79762,fantasy fiction,hasTopic
-Q165068,fantasy fiction,hasTopic
-Q466605,fantasy fiction,hasTopic
-Q169976,fantasy fiction,hasTopic
-Q595766,fantasy fiction,hasTopic
-Q580361,new york times reviewed,hasTopic
-Q569790,fantasy fiction,hasTopic
-Q223784,new york times reviewed,hasTopic
+Q45735,fantasy fiction,hasTopic
+Q46887,fantasy fiction,hasTopic
+Q603645,fiction general,hasTopic
+Q32136,fantasy fiction,hasTopic
+Q597219,fiction general,hasTopic
 Q129929,fantasy fiction,hasTopic
-Q602288,new york times reviewed,hasTopic
-Q594093,fantasy fiction,hasTopic
+Q471024,fantasy fiction,hasTopic
+Q469889,fiction general,hasTopic
+Q161191,fiction general,hasTopic
+Q501514,fantasy fiction,hasTopic
+Q520466,fiction general,hasTopic
+Q581426,fiction general,hasTopic
+Q92630,fiction general,hasTopic
+Q603645,fiction general,hasTopic
 Q28306,fantasy fiction,hasTopic
-Q597545,new york times reviewed,hasTopic
-Q595128,english literature,hasTopic
-Q46887,reading levelgrade 11,hasTopic
-Q211006,reading levelgrade 12,hasTopic
-Q46887,reading levelgrade 12,hasTopic
-Q212718,english literature,hasTopic
-Q534970,english literature,hasTopic
-Q262540,fiction horror,hasTopic
-Q40354,reading levelgrade 11,hasTopic
-Q596874,fiction horror,hasTopic
-Q596874,fiction horror,hasTopic
-Q40354,reading levelgrade 12,hasTopic
-Q592503,reading levelgrade 11,hasTopic
-Q592503,reading levelgrade 12,hasTopic
-Q29132,english literature,hasTopic
-Q829130,reading levelgrade 12,hasTopic
-Q250123,fiction horror,hasTopic
-Q814765,reading levelgrade 11,hasTopic
-Q176470,reading levelgrade 12,hasTopic
-Q176470,fiction horror,hasTopic
-Q28172,fiction horror,hasTopic
-Q845944,fiction horror,hasTopic
-Q828031,fiction horror,hasTopic
-Q149552,fiction horror,hasTopic
-Q615807,fiction horror,hasTopic
-Q814765,reading levelgrade 12,hasTopic
-Q625645,reading levelgrade 12,hasTopic
-Q28172,reading levelgrade 11,hasTopic
-Q11678,reading levelgrade 11,hasTopic
-Q625645,reading levelgrade 11,hasTopic
-Q11678,reading levelgrade 12,hasTopic
-Q251076,english literature,hasTopic
-Q25551,fiction horror,hasTopic
-Q852066,reading levelgrade 12,hasTopic
-Q197243,english literature,hasTopic
-Q835341,english literature,hasTopic
-Q176470,reading levelgrade 11,hasTopic
-Q845106,english literature,hasTopic
-Q578895,english literature,hasTopic
-Q816016,reading levelgrade 12,hasTopic
-Q211006,reading levelgrade 11,hasTopic
-Q15228,english literature,hasTopic
-Q187655,english literature,hasTopic
-Q721,english literature,hasTopic
-Q489581,fiction horror,hasTopic
-Q816016,reading levelgrade 11,hasTopic
-Q852066,reading levelgrade 11,hasTopic
-Q43361,reading levelgrade 11,hasTopic
-Q471926,fiction horror,hasTopic
-Q47598,reading levelgrade 11,hasTopic
-Q47598,reading levelgrade 12,hasTopic
-Q837934,reading levelgrade 11,hasTopic
-Q837934,reading levelgrade 12,hasTopic
-Q469969,english literature,hasTopic
-Q622400,english literature,hasTopic
-Q468135,english literature,hasTopic
-Q469889,fiction horror,hasTopic
-Q841540,fiction horror,hasTopic
-Q837140,reading levelgrade 11,hasTopic
-Q468071,english literature,hasTopic
-Q185449,reading levelgrade 11,hasTopic
-Q185449,reading levelgrade 12,hasTopic
-Q568210,english literature,hasTopic
-Q32136,english literature,hasTopic
-Q549152,reading levelgrade 11,hasTopic
-Q549152,reading levelgrade 12,hasTopic
-Q602288,fiction horror,hasTopic
+Q466196,fiction general,hasTopic
+Q15228,fantasy fiction,hasTopic
+Q568143,fiction general,hasTopic
+Q630341,fiction general,hasTopic
+Q643901,fantasy fiction,hasTopic
+Q622400,fiction general,hasTopic
+Q13911,fiction general,hasTopic
+Q589841,fiction general,hasTopic
+Q79762,fantasy fiction,hasTopic
+Q523914,fiction general,hasTopic
+Q594093,fantasy fiction,hasTopic
+Q1026862,fantasy fiction,hasTopic
+Q595128,fiction general,hasTopic
+Q11678,fantasy fiction,hasTopic
+Q632719,fantasy fiction,hasTopic
+Q466605,fantasy fiction,hasTopic
+Q176470,fiction general,hasTopic
+Q46751,fantasy fiction,hasTopic
+Q470057,fiction general,hasTopic
+Q843400,fantasy fiction,hasTopic
+Q595766,fantasy fiction,hasTopic
+Q467225,fiction general,hasTopic
+Q535795,fantasy fiction,hasTopic
+Q477994,fantasy fiction,hasTopic
+Q165068,fantasy fiction,hasTopic
+Q151550,fiction general,hasTopic
+Q786025,fiction general,hasTopic
+Q149993,fantasy fiction,hasTopic
+Q569790,fantasy fiction,hasTopic
+Q478110,fiction general,hasTopic
+Q569790,fiction general,hasTopic
+Q471926,fantasy fiction,hasTopic
+Q474895,fiction general,hasTopic
+Q47598,fantasy fiction,hasTopic
+Q625764,fiction general,hasTopic
+Q853442,fantasy fiction,hasTopic
+Q600448,fiction general,hasTopic
+Q592503,fiction general,hasTopic
+Q846175,fiction general,hasTopic
+Q43361,fantasy fiction,hasTopic
+Q598071,fiction general,hasTopic
+Q169976,fantasy fiction,hasTopic
+Q595128,fantasy fiction,hasTopic
+Q602216,fiction general,hasTopic
+Q169976,fiction general,hasTopic
+Q466201,fantasy fiction,hasTopic
+Q594093,fiction fantasy general,hasTopic
+Q519858,fiction fantasy general,hasTopic
+Q520466,fiction fantasy general,hasTopic
+Q47598,fiction fantasy general,hasTopic
+Q129929,fiction fantasy general,hasTopic
+Q469969,fiction fantasy general,hasTopic
+Q630341,fiction fantasy general,hasTopic
+Q15228,fiction fantasy general,hasTopic
+Q541419,fiction fantasy general,hasTopic
+Q466605,fiction fantasy general,hasTopic
+Q28306,fiction fantasy general,hasTopic
+Q1026862,fiction fantasy general,hasTopic
+Q53945,fiction fantasy general,hasTopic
+Q471926,fiction fantasy general,hasTopic
+Q522575,fiction fantasy general,hasTopic
+Q602216,fiction fantasy general,hasTopic
+Q489581,fiction fantasy general,hasTopic
+Q853442,fiction fantasy general,hasTopic
+Q592503,fiction fantasy general,hasTopic
+Q32136,fiction fantasy general,hasTopic
+Q46887,fiction fantasy general,hasTopic
+Q477994,fiction fantasy general,hasTopic
+Q843400,fiction fantasy general,hasTopic
+Q478250,fiction fantasy general,hasTopic
+Q595128,fiction fantasy general,hasTopic
+Q610680,fiction fantasy general,hasTopic
+Q506898,fiction fantasy general,hasTopic
+Q43361,fiction fantasy general,hasTopic
+Q632719,fiction fantasy general,hasTopic
 Q466790,fiction horror,hasTopic
-Q602288,reading levelgrade 12,hasTopic
-Q557867,english literature,hasTopic
+Q25551,fiction horror,hasTopic
+Q176470,fiction horror,hasTopic
+Q835739,fiction horror,hasTopic
+Q828031,fiction horror,hasTopic
+Q845944,fiction horror,hasTopic
+Q149552,fiction horror,hasTopic
+Q28172,fiction horror,hasTopic
+Q623394,fiction horror,hasTopic
+Q489581,fiction horror,hasTopic
 Q244884,fiction horror,hasTopic
-Q569790,fiction horror,hasTopic
-Q569790,fiction horror,hasTopic
-Q837140,reading levelgrade 12,hasTopic
-Q469889,fiction horror,hasTopic
-Q169976,reading levelgrade 12,hasTopic
-Q169976,reading levelgrade 11,hasTopic
-Q602288,reading levelgrade 11,hasTopic
-Q161191,english literature,hasTopic
-Q129929,reading levelgrade 12,hasTopic
-Q129929,reading levelgrade 11,hasTopic
-Q182502,reading levelgrade 12,hasTopic
-Q625764,reading levelgrade 12,hasTopic
-Q625764,reading levelgrade 11,hasTopic
-Q471142,fiction horror,hasTopic
-Q625764,english literature,hasTopic
-Q860034,fiction horror,hasTopic
-Q468121,fiction horror,hasTopic
-Q467332,english literature,hasTopic
-Q470937,fiction horror,hasTopic
-Q470937,fiction horror,hasTopic
-Q182502,reading levelgrade 11,hasTopic
-Q470937,fiction horror,hasTopic
-Q28306,reading levelgrade 12,hasTopic
-Q28172,reading levelgrade 12,hasTopic
-Q43361,english literature,hasTopic
-Q829130,reading levelgrade 11,hasTopic
-Q521688,fiction horror,hasTopic
-Q79762,english literature,hasTopic
-Q28306,reading levelgrade 11,hasTopic
+Q602288,fiction horror,hasTopic
+Q596874,fiction horror,hasTopic
+Q623394,fiction horror,hasTopic
+Q629445,fiction horror,hasTopic
 Q471024,fiction horror,hasTopic
+Q471142,fiction horror,hasTopic
+Q250123,fiction horror,hasTopic
+Q470937,fiction horror,hasTopic
+Q649015,fiction horror,hasTopic
+Q470937,fiction horror,hasTopic
+Q469889,fiction horror,hasTopic
+Q470937,fiction horror,hasTopic
+Q615807,fiction horror,hasTopic
+Q466288,fiction horror,hasTopic
+Q469889,fiction horror,hasTopic
+Q468121,fiction horror,hasTopic
+Q596874,fiction horror,hasTopic
+Q629445,fiction horror,hasTopic
 Q608875,fiction horror,hasTopic
+Q623394,fiction horror,hasTopic
+Q835739,fiction horror,hasTopic
+Q521688,fiction horror,hasTopic
+Q569790,fiction horror,hasTopic
+Q471926,fiction horror,hasTopic
+Q846175,fiction horror,hasTopic
+Q569790,fiction horror,hasTopic
+Q853927,american literature,hasTopic
+Q596874,american literature,hasTopic
+Q468121,american literature,hasTopic
+Q132062,american literature,hasTopic
+Q466790,american literature,hasTopic
+Q250123,american literature,hasTopic
+Q849701,american literature,hasTopic
+Q470937,american literature,hasTopic
+Q469889,american literature,hasTopic
+Q471024,american literature,hasTopic
+Q623394,american literature,hasTopic
+Q602288,american literature,hasTopic
+Q845944,american literature,hasTopic
+Q471926,american literature,hasTopic
+Q182502,american literature,hasTopic
+Q569790,american literature,hasTopic
+Q846175,american literature,hasTopic
+Q477994,american literature,hasTopic
+Q467720,american literature,hasTopic
+Q202531,american literature,hasTopic
+Q835739,american literature,hasTopic
+Q117431,american literature,hasTopic
+Q633210,american literature,hasTopic
+Q25551,american literature,hasTopic
+Q589959,american literature,hasTopic
+Q482085,american literature,hasTopic
+Q43361,english literature,hasTopic
 Q46751,english literature,hasTopic
-Q543375,reading levelgrade 11,hasTopic
-Q835739,fiction horror,hasTopic
-Q543375,reading levelgrade 12,hasTopic
-Q835739,fiction horror,hasTopic
-Q46751,reading levelgrade 11,hasTopic
-Q46751,reading levelgrade 12,hasTopic
-Q43361,reading levelgrade 12,hasTopic
-Q543562,open library staff picks,hasTopic
-Q183883,open library staff picks,hasTopic
-Q608534,open library staff picks,hasTopic
-Q175421,open library staff picks,hasTopic
-Q550208,open library staff picks,hasTopic
-Q207964,open library staff picks,hasTopic
-Q804414,open library staff picks,hasTopic
-Q202531,open library staff picks,hasTopic
-Q466790,open library staff picks,hasTopic
-Q81316,open library staff picks,hasTopic
-Q837934,open library staff picks,hasTopic
-Q169976,open library staff picks,hasTopic
-Q466605,open library staff picks,hasTopic
-Q241348,open library staff picks,hasTopic
-Q602288,open library staff picks,hasTopic
-Q189446,open library staff picks,hasTopic
-Q816016,open library staff picks,hasTopic
-Q15228,open library staff picks,hasTopic
-Q829130,open library staff picks,hasTopic
-Q45735,open library staff picks,hasTopic
-Q814765,open library staff picks,hasTopic
-Q15228,ficción,hasTopic
-Q191540,ficción,hasTopic
-Q73588,ficción,hasTopic
-Q814765,ficción,hasTopic
-Q53945,ficción,hasTopic
+Q835341,english literature,hasTopic
+Q187655,english literature,hasTopic
+Q853442,english literature,hasTopic
+Q568210,english literature,hasTopic
+Q578895,english literature,hasTopic
+Q625764,english literature,hasTopic
+Q534970,english literature,hasTopic
+Q469969,english literature,hasTopic
+Q197243,english literature,hasTopic
+Q251076,english literature,hasTopic
+Q47598,english literature,hasTopic
+Q557867,english literature,hasTopic
+Q721,english literature,hasTopic
+Q161191,english literature,hasTopic
+Q595128,english literature,hasTopic
+Q468135,english literature,hasTopic
+Q15228,english literature,hasTopic
+Q467332,english literature,hasTopic
+Q79762,english literature,hasTopic
+Q845106,english literature,hasTopic
+Q32136,english literature,hasTopic
+Q622400,english literature,hasTopic
+Q29132,english literature,hasTopic
+Q846175,ficción,hasTopic
+Q471926,horror tales,hasTopic
+Q28172,horror tales,hasTopic
+Q182502,ficción,hasTopic
+Q46751,ficción,hasTopic
+Q244884,horror tales,hasTopic
 Q28172,ficción,hasTopic
-Q202531,ficción,hasTopic
-Q819101,ficción,hasTopic
-Q211006,ficción,hasTopic
-Q29132,ficción,hasTopic
-Q622400,ficción,hasTopic
-Q816016,ficción,hasTopic
+Q466288,horror tales,hasTopic
 Q127149,ficción,hasTopic
-Q28306,ficción,hasTopic
+Q478098,horror tales,hasTopic
+Q845944,horror tales,hasTopic
+Q73588,ficción,hasTopic
+Q53945,ficción,hasTopic
+Q828031,horror tales,hasTopic
+Q846175,horror tales,hasTopic
+Q466288,ficción,hasTopic
+Q468121,horror tales,hasTopic
+Q149552,horror tales,hasTopic
+Q466790,horror tales,hasTopic
+Q202531,ficción,hasTopic
+Q29132,ficción,hasTopic
+Q596874,horror tales,hasTopic
+Q623394,ficción,hasTopic
+Q608875,ficción,hasTopic
+Q599495,ficción,hasTopic
 Q625764,ficción,hasTopic
+Q602288,horror tales,hasTopic
+Q471142,horror tales,hasTopic
+Q849701,ficción,hasTopic
+Q469889,horror tales,hasTopic
+Q469889,ficción,hasTopic
+Q250123,horror tales,hasTopic
+Q860162,horror tales,hasTopic
+Q622400,ficción,hasTopic
+Q629445,horror tales,hasTopic
+Q28306,ficción,hasTopic
+Q211006,ficción,hasTopic
+Q521688,horror tales,hasTopic
+Q466504,horror tales,hasTopic
 Q557867,ficción,hasTopic
 Q467720,ficción,hasTopic
-Q469889,ficción,hasTopic
-Q468071,ficción,hasTopic
-Q182502,ficción,hasTopic
-Q608875,ficción,hasTopic
-Q829130,ficción,hasTopic
-Q599495,ficción,hasTopic
-Q470057,history,hasTopic
-Q829130,history,hasTopic
-Q40496,history,hasTopic
-Q829934,history,hasTopic
-Q829753,history,hasTopic
-Q27453,history,hasTopic
-Q821608,history,hasTopic
-Q140036,history,hasTopic
-Q607112,history,hasTopic
-Q625645,history,hasTopic
-Q192258,history,hasTopic
-Q183363,history,hasTopic
-Q474895,history,hasTopic
-Q38213,history,hasTopic
-Q592503,history,hasTopic
-Q819101,history,hasTopic
-Q625764,history,hasTopic
-Q835739,history,hasTopic
-Q241348,history,hasTopic
-Q480743,history,hasTopic
-Q115653,history,hasTopic
-Q622400,history,hasTopic
-Q151550,history,hasTopic
-Q471024,american literature,hasTopic
-Q470937,american literature,hasTopic
-Q182502,american literature,hasTopic
+Q627192,ficción,hasTopic
+Q649015,horror tales,hasTopic
+Q15228,ficción,hasTopic
+Q470937,horror tales,hasTopic
+Q471024,horror tales,hasTopic
+Q83880,new york times reviewed,hasTopic
+Q602288,new york times reviewed,hasTopic
+Q501514,new york times reviewed,hasTopic
+Q633210,new york times reviewed,hasTopic
+Q534975,new york times reviewed,hasTopic
+Q580361,new york times reviewed,hasTopic
+Q211006,new york times reviewed,hasTopic
+Q603645,new york times reviewed,hasTopic
+Q140036,new york times reviewed,hasTopic
+Q859996,new york times reviewed,hasTopic
+Q625764,new york times reviewed,hasTopic
+Q149993,new york times reviewed,hasTopic
+Q468121,new york times reviewed,hasTopic
+Q27453,new york times reviewed,hasTopic
+Q608875,new york times reviewed,hasTopic
+Q631460,new york times reviewed,hasTopic
+Q40354,new york times reviewed,hasTopic
+Q244884,new york times reviewed,hasTopic
+Q629445,new york times reviewed,hasTopic
+Q597545,new york times reviewed,hasTopic
+Q187655,new york times reviewed,hasTopic
+Q649267,long now manual for civilization,hasTopic
+Q468121,horror fiction,hasTopic
+Q28172,horror fiction,hasTopic
+Q845944,horror fiction,hasTopic
+Q127149,long now manual for civilization,hasTopic
+Q92630,long now manual for civilization,hasTopic
+Q25551,horror fiction,hasTopic
+Q466288,horror fiction,hasTopic
+Q487364,long now manual for civilization,hasTopic
+Q149552,horror fiction,hasTopic
+Q467720,long now manual for civilization,hasTopic
+Q513036,long now manual for civilization,hasTopic
+Q471679,long now manual for civilization,hasTopic
+Q466196,long now manual for civilization,hasTopic
 Q534975,long now manual for civilization,hasTopic
-Q132062,american literature,hasTopic
-Q482085,american literature,hasTopic
-Q835739,american literature,hasTopic
+Q466790,horror fiction,hasTopic
+Q470937,horror fiction,hasTopic
+Q176470,horror fiction,hasTopic
+Q471024,horror fiction,hasTopic
+Q11678,long now manual for civilization,hasTopic
+Q151337,long now manual for civilization,hasTopic
+Q244884,horror fiction,hasTopic
+Q629445,horror fiction,hasTopic
+Q622400,long now manual for civilization,hasTopic
+Q853927,long now manual for civilization,hasTopic
 Q74362,long now manual for civilization,hasTopic
 Q492207,long now manual for civilization,hasTopic
-Q513036,long now manual for civilization,hasTopic
-Q183883,long now manual for civilization,hasTopic
-Q467720,long now manual for civilization,hasTopic
-Q467139,long now manual for civilization,hasTopic
-Q467225,long now manual for civilization,hasTopic
-Q469889,american literature,hasTopic
-Q569790,american literature,hasTopic
-Q857313,american literature,hasTopic
-Q467720,american literature,hasTopic
-Q598071,long now manual for civilization,hasTopic
-Q468121,american literature,hasTopic
-Q622400,long now manual for civilization,hasTopic
-Q92630,long now manual for civilization,hasTopic
-Q117431,american literature,hasTopic
-Q546785,long now manual for civilization,hasTopic
-Q127149,long now manual for civilization,hasTopic
-Q602288,american literature,hasTopic
-Q589959,american literature,hasTopic
-Q223784,long now manual for civilization,hasTopic
-Q202531,american literature,hasTopic
-Q466790,american literature,hasTopic
-Q151337,long now manual for civilization,hasTopic
-Q596874,american literature,hasTopic
-Q487364,long now manual for civilization,hasTopic
-Q816016,long now manual for civilization,hasTopic
-Q471926,american literature,hasTopic
-Q471679,long now manual for civilization,hasTopic
-Q25551,american literature,hasTopic
 Q835341,long now manual for civilization,hasTopic
-Q212718,long now manual for civilization,hasTopic
-Q250123,american literature,hasTopic
-Q477994,american literature,hasTopic
 Q472368,long now manual for civilization,hasTopic
-Q845944,american literature,hasTopic
-Q92630,fiction thrillers general,hasTopic
-Q28306,american fiction,hasTopic
-Q182502,reading levelgrade 10,hasTopic
-Q814765,reading levelgrade 10,hasTopic
-Q543375,reading levelgrade 10,hasTopic
-Q41359,american fiction,hasTopic
-Q611689,american fiction,hasTopic
-Q849930,american fiction,hasTopic
-Q182502,fiction thrillers general,hasTopic
-Q491946,fiction thrillers general,hasTopic
-Q625764,reading levelgrade 10,hasTopic
-Q183883,american fiction,hasTopic
-Q189378,american fiction,hasTopic
-Q115653,fiction thrillers general,hasTopic
-Q30613,american fiction,hasTopic
-Q81316,fiction thrillers general,hasTopic
-Q468121,fiction thrillers general,hasTopic
-Q116950,fiction thrillers general,hasTopic
-Q161191,fiction thrillers general,hasTopic
-Q602288,reading levelgrade 10,hasTopic
-Q549152,reading levelgrade 10,hasTopic
-Q116381,fiction thrillers general,hasTopic
-Q580361,fiction thrillers general,hasTopic
-Q580361,american fiction,hasTopic
-Q116801,fiction thrillers general,hasTopic
-Q852066,reading levelgrade 10,hasTopic
-Q592503,fiction thrillers general,hasTopic
-Q592503,reading levelgrade 10,hasTopic
-Q176470,american fiction,hasTopic
-Q804414,fiction thrillers general,hasTopic
-Q592078,fiction thrillers general,hasTopic
-Q40354,reading levelgrade 10,hasTopic
-Q13911,american fiction,hasTopic
-Q816016,reading levelgrade 10,hasTopic
-Q63998,american fiction,hasTopic
-Q596874,american fiction,hasTopic
-Q798732,fiction thrillers general,hasTopic
-Q207964,fiction thrillers general,hasTopic
-Q211006,fiction thrillers general,hasTopic
-Q211006,reading levelgrade 10,hasTopic
-Q211006,american fiction,hasTopic
-Q116381,american fiction,hasTopic
-Q471024,american fiction,hasTopic
-Q114761,fiction thrillers general,hasTopic
-Q114761,american fiction,hasTopic
-Q116321,fiction thrillers general,hasTopic
-Q523914,fiction thrillers general,hasTopic
-Q534975,fiction thrillers general,hasTopic
-Q829130,american fiction,hasTopic
-Q175421,friendship,hasTopic
-Q538742,fiction in english,hasTopic
-Q501514,friendship,hasTopic
-Q534975,literature,hasTopic
-Q149552,fiction in english,hasTopic
-Q13911,friendship,hasTopic
-Q513036,fiction in english,hasTopic
-Q478098,friendship,hasTopic
-Q622400,literature,hasTopic
-Q208461,fiction in english,hasTopic
-Q112407,literature,hasTopic
-Q819101,literature,hasTopic
-Q15228,fiction in english,hasTopic
-Q112407,fiction in english,hasTopic
-Q598315,fiction in english,hasTopic
-Q466790,fiction in english,hasTopic
-Q582811,fiction in english,hasTopic
-Q597545,literature,hasTopic
-Q519935,fiction in english,hasTopic
-Q467720,fiction in english,hasTopic
-Q603645,literature,hasTopic
-Q543375,friendship,hasTopic
-Q549152,literature,hasTopic
-Q569790,literature,hasTopic
-Q857313,friendship,hasTopic
-Q541006,literature,hasTopic
-Q523914,fiction in english,hasTopic
-Q616606,friendship,hasTopic
-Q608378,friendship,hasTopic
-Q829934,literature,hasTopic
-Q232153,friendship,hasTopic
-Q213300,friendship,hasTopic
-Q45735,friendship,hasTopic
-Q814765,literature,hasTopic
-Q489581,literature,hasTopic
-Q589841,literature,hasTopic
-Q839220,fiction in english,hasTopic
-Q849930,friendship,hasTopic
-Q127149,fiction in english,hasTopic
-Q513036,fiction in english,hasTopic
-Q64095,fiction in english,hasTopic
-Q63998,fiction in english,hasTopic
-Q202531,literature,hasTopic
-Q598071,fiction in english,hasTopic
-Q860633,literature,hasTopic
-Q569790,friendship,hasTopic
-Q860633,friendship,hasTopic
-Q471024,friendship,hasTopic
-Q132062,fiction in english,hasTopic
-Q135165,fiction in english,hasTopic
-Q611689,literature,hasTopic
-Q608875,literature,hasTopic
-Q482567,fiction in english,hasTopic
-Q189378,friendship,hasTopic
-Q213300,literature,hasTopic
-Q786615,american science fiction,hasTopic
-Q611689,novela,hasTopic
-Q175421,ficción juvenil,hasTopic
-Q852066,reading levelgrade 9,hasTopic
-Q176470,horror fiction,hasTopic
-Q538742,american science fiction,hasTopic
-Q835739,novela,hasTopic
-Q175421,young adult fiction,hasTopic
-Q860633,novela,hasTopic
-Q852066,young adult fiction,hasTopic
-Q501514,ficción juvenil,hasTopic
-Q546785,american science fiction,hasTopic
-Q470937,horror fiction,hasTopic
-Q478110,american science fiction,hasTopic
-Q472368,young adult fiction,hasTopic
-Q837489,horror fiction,hasTopic
-Q45735,ficción juvenil,hasTopic
-Q837283,novela,hasTopic
-Q60672,young adult fiction,hasTopic
-Q471741,american science fiction,hasTopic
-Q547210,american science fiction,hasTopic
-Q189378,ficción juvenil,hasTopic
-Q497280,american science fiction,hasTopic
-Q816016,american science fiction,hasTopic
-Q262540,horror fiction,hasTopic
-Q127149,novela,hasTopic
-Q492207,american science fiction,hasTopic
-Q140036,ficción juvenil,hasTopic
-Q191540,young adult fiction,hasTopic
-Q191540,novela,hasTopic
-Q53945,horror fiction,hasTopic
-Q845944,horror fiction,hasTopic
-Q73588,american science fiction,hasTopic
 Q835739,horror fiction,hasTopic
-Q149552,horror fiction,hasTopic
-Q25551,horror fiction,hasTopic
-Q608378,young adult fiction,hasTopic
-Q608378,young adult fiction,hasTopic
-Q550208,novela,hasTopic
 Q478098,horror fiction,hasTopic
-Q852066,ficción juvenil,hasTopic
-Q53945,young adult fiction,hasTopic
-Q586831,american science fiction,hasTopic
-Q471926,horror fiction,hasTopic
-Q251076,novela,hasTopic
-Q466605,young adult fiction,hasTopic
-Q466790,horror fiction,hasTopic
-Q466605,ficción juvenil,hasTopic
-Q176470,novela,hasTopic
-Q580361,american science fiction,hasTopic
+Q53945,horror fiction,hasTopic
+Q467139,long now manual for civilization,hasTopic
 Q569790,horror fiction,hasTopic
-Q244884,horror fiction,hasTopic
-Q467720,american science fiction,hasTopic
-Q592503,reading levelgrade 9,hasTopic
-Q516848,american science fiction,hasTopic
-Q192258,ficción juvenil,hasTopic
+Q467225,long now manual for civilization,hasTopic
+Q649015,horror fiction,hasTopic
 Q602288,horror fiction,hasTopic
-Q549152,reading levelgrade 9,hasTopic
-Q557867,novela,hasTopic
-Q594567,american science fiction,hasTopic
-Q595766,ficción juvenil,hasTopic
-Q468121,horror fiction,hasTopic
-Q149993,ficción juvenil,hasTopic
-Q471024,horror fiction,hasTopic
-Q599495,novela,hasTopic
-Q501514,young adult fiction,hasTopic
-Q135165,american science fiction,hasTopic
+Q598071,long now manual for civilization,hasTopic
+Q546785,long now manual for civilization,hasTopic
+Q623394,horror fiction,hasTopic
+Q804414,open library staff picks,hasTopic
+Q513036,american science fiction,hasTopic
+Q466288,horror,hasTopic
+Q28306,reading levelgrade 12,hasTopic
+Q28306,reading levelgrade 11,hasTopic
+Q46751,reading levelgrade 11,hasTopic
+Q471741,american science fiction,hasTopic
+Q466790,horror,hasTopic
+Q466605,open library staff picks,hasTopic
+Q468121,horror,hasTopic
+Q513036,american science fiction,hasTopic
+Q11678,reading levelgrade 11,hasTopic
 Q482085,american science fiction,hasTopic
-Q189378,young adult fiction,hasTopic
-Q482085,murder,hasTopic
-Q471024,horror tales,hasTopic
-Q470937,fiction thrillers suspense,hasTopic
-Q135165,murder,hasTopic
-Q117108,fiction thrillers suspense,hasTopic
-Q599495,murder,hasTopic
-Q218156,murder,hasTopic
-Q244884,horror tales,hasTopic
-Q521688,horror tales,hasTopic
-Q580361,romans nouvelles etc pour la jeunesse,hasTopic
-Q149993,romans nouvelles etc pour la jeunesse,hasTopic
-Q588517,murder,hasTopic
-Q161191,murder,hasTopic
-Q116373,fiction thrillers suspense,hasTopic
-Q165068,romans nouvelles etc pour la jeunesse,hasTopic
-Q467332,murder,hasTopic
-Q244884,murder,hasTopic
-Q595766,romans nouvelles etc pour la jeunesse,hasTopic
-Q468121,horror tales,hasTopic
-Q466605,romans nouvelles etc pour la jeunesse,hasTopic
-Q493191,fiction thrillers suspense,hasTopic
-Q603645,murder,hasTopic
-Q466790,horror tales,hasTopic
-Q29132,murder,hasTopic
-Q804414,fiction thrillers suspense,hasTopic
-Q592503,fiction thrillers suspense,hasTopic
-Q25551,fiction thrillers suspense,hasTopic
-Q116801,murder,hasTopic
-Q251076,murder,hasTopic
-Q608534,fiction thrillers suspense,hasTopic
-Q149552,horror tales,hasTopic
-Q250123,horror tales,hasTopic
-Q116321,fiction thrillers suspense,hasTopic
-Q521688,fiction thrillers suspense,hasTopic
-Q197243,murder,hasTopic
-Q114761,murder,hasTopic
-Q845167,fiction thrillers suspense,hasTopic
-Q616606,murder,hasTopic
-Q845944,horror tales,hasTopic
-Q470937,horror tales,hasTopic
-Q611689,fiction thrillers suspense,hasTopic
-Q487364,fiction thrillers suspense,hasTopic
-Q466790,murder,hasTopic
-Q45735,romans nouvelles etc pour la jeunesse,hasTopic
-Q840125,fiction thrillers suspense,hasTopic
-Q202531,fiction thrillers suspense,hasTopic
-Q471142,horror tales,hasTopic
-Q798732,fiction thrillers suspense,hasTopic
-Q828031,horror tales,hasTopic
-Q845944,murder,hasTopic
-Q478098,horror tales,hasTopic
-Q596874,fiction thrillers suspense,hasTopic
-Q596874,horror tales,hasTopic
-Q482085,fiction mystery detective general,hasTopic
-Q161191,fiction mystery detective general,hasTopic
-Q588517,fiction mystery detective general,hasTopic
-Q568210,fiction mystery detective general,hasTopic
-Q603645,fiction mystery detective general,hasTopic
-Q151550,fiction mystery detective general,hasTopic
-Q149993,spanish language materials,hasTopic
-Q251076,fiction mystery detective general,hasTopic
-Q608534,fiction mystery detective general,hasTopic
-Q262540,fiction mystery detective general,hasTopic
-Q804414,fiction mystery detective general,hasTopic
-Q202531,spanish language materials,hasTopic
-Q845106,fiction mystery detective general,hasTopic
-Q600448,fiction mystery detective general,hasTopic
-Q467332,fiction mystery detective general,hasTopic
-Q45735,spanish language materials,hasTopic
-Q29132,fiction mystery detective general,hasTopic
-Q488350,fiction mystery detective general,hasTopic
-Q611689,spanish language materials,hasTopic
-Q140036,spanish language materials,hasTopic
-Q828031,fiction mystery detective general,hasTopic
-Q835739,spanish language materials,hasTopic
-Q197243,fiction mystery detective general,hasTopic
-Q596874,thriller,hasTopic
-Q845106,england fiction,hasTopic
-Q840125,fiction psychological,hasTopic
-Q840125,fiction suspense,hasTopic
-Q860034,england fiction,hasTopic
-Q471142,thriller,hasTopic
-Q470937,horror,hasTopic
-Q202531,fiction suspense,hasTopic
-Q471024,horror,hasTopic
-Q798732,fiction psychological,hasTopic
-Q599495,thriller,hasTopic
-Q611689,fiction psychological,hasTopic
-Q149552,thriller,hasTopic
-Q81007,thriller,hasTopic
-Q487364,fiction suspense,hasTopic
-Q13911,fiction psychological,hasTopic
-Q29132,england fiction,hasTopic
-Q213300,fiction psychological,hasTopic
-Q116381,fiction suspense,hasTopic
-Q187942,fiction psychological,hasTopic
-Q596874,horror,hasTopic
-Q191288,england fiction,hasTopic
-Q611689,fiction suspense,hasTopic
-Q244884,horror,hasTopic
-Q250123,thriller,hasTopic
-Q468071,england fiction,hasTopic
-Q116950,thriller,hasTopic
-Q161191,thriller,hasTopic
-Q165068,magic,hasTopic
-Q828031,horror,hasTopic
-Q60672,magic,hasTopic
-Q116381,thriller,hasTopic
-Q576737,england fiction,hasTopic
-Q535795,magic,hasTopic
-Q595766,magic,hasTopic
-Q549152,fiction psychological,hasTopic
-Q468121,thriller,hasTopic
-Q565105,fiction psychological,hasTopic
-Q81316,thriller,hasTopic
-Q568210,england fiction,hasTopic
-Q115653,thriller,hasTopic
-Q467332,england fiction,hasTopic
-Q468121,fiction psychological,hasTopic
-Q804414,fiction suspense,hasTopic
-Q519858,magic,hasTopic
-Q232153,england fiction,hasTopic
-Q608534,fiction suspense,hasTopic
+Q516848,american science fiction,hasTopic
+Q497280,american science fiction,hasTopic
+Q543562,open library staff picks,hasTopic
+Q43361,open library staff picks,hasTopic
 Q845944,horror,hasTopic
-Q262540,horror,hasTopic
-Q568143,fiction psychological,hasTopic
-Q197243,england fiction,hasTopic
-Q250123,horror,hasTopic
-Q597219,fiction psychological,hasTopic
-Q251076,england fiction,hasTopic
-Q829934,england fiction,hasTopic
-Q116801,thriller,hasTopic
-Q479086,fiction psychological,hasTopic
-Q860181,magic,hasTopic
-Q116321,thriller,hasTopic
-Q116321,fiction suspense,hasTopic
-Q114761,fiction suspense,hasTopic
-Q521688,fiction suspense,hasTopic
-Q523914,fiction suspense,hasTopic
-Q526792,fiction psychological,hasTopic
+Q592503,reading levelgrade 12,hasTopic
+Q135165,american science fiction,hasTopic
+Q592503,reading levelgrade 11,hasTopic
+Q175421,open library staff picks,hasTopic
+Q73588,american science fiction,hasTopic
 Q835739,horror,hasTopic
-Q857313,fiction psychological,hasTopic
-Q597545,fiction psychological,hasTopic
-Q837489,magic,hasTopic
+Q43361,reading levelgrade 11,hasTopic
+Q478110,american science fiction,hasTopic
+Q828031,horror,hasTopic
+Q580361,american science fiction,hasTopic
+Q46887,reading levelgrade 12,hasTopic
+Q46887,reading levelgrade 11,hasTopic
 Q149552,horror,hasTopic
-Q79762,short stories,hasTopic
-Q541006,short stories,hasTopic
-Q183883,american fiction fictional works by one author,hasTopic
-Q521688,suspense,hasTopic
-Q151337,short stories,hasTopic
-Q611689,american fiction fictional works by one author,hasTopic
-Q183363,american fiction fictional works by one author,hasTopic
+Q467720,american science fiction,hasTopic
+Q786615,american science fiction,hasTopic
+Q846175,open library staff picks,hasTopic
+Q846175,horror,hasTopic
+Q625764,reading levelgrade 11,hasTopic
+Q625764,reading levelgrade 12,hasTopic
+Q466288,open library staff picks,hasTopic
+Q47598,open library staff picks,hasTopic
+Q629445,horror,hasTopic
+Q602288,reading levelgrade 12,hasTopic
+Q602288,reading levelgrade 11,hasTopic
+Q207964,open library staff picks,hasTopic
+Q596874,horror,hasTopic
+Q550208,open library staff picks,hasTopic
+Q543375,reading levelgrade 12,hasTopic
+Q549152,reading levelgrade 11,hasTopic
+Q538742,american science fiction,hasTopic
+Q853927,american science fiction,hasTopic
+Q474523,horror,hasTopic
+Q169976,reading levelgrade 12,hasTopic
+Q182502,reading levelgrade 12,hasTopic
+Q244884,horror,hasTopic
+Q169976,reading levelgrade 11,hasTopic
+Q40354,reading levelgrade 11,hasTopic
+Q40354,reading levelgrade 12,hasTopic
+Q546785,american science fiction,hasTopic
+Q623394,horror,hasTopic
+Q602288,open library staff picks,hasTopic
+Q45735,open library staff picks,hasTopic
+Q182502,reading levelgrade 11,hasTopic
+Q202531,open library staff picks,hasTopic
+Q586831,american science fiction,hasTopic
+Q549152,reading levelgrade 12,hasTopic
+Q129929,reading levelgrade 11,hasTopic
+Q471024,horror,hasTopic
+Q129929,reading levelgrade 12,hasTopic
+Q849701,open library staff picks,hasTopic
+Q627192,reading levelgrade 12,hasTopic
+Q627192,reading levelgrade 11,hasTopic
+Q630341,american science fiction,hasTopic
+Q608534,open library staff picks,hasTopic
+Q849701,reading levelgrade 12,hasTopic
+Q849701,reading levelgrade 11,hasTopic
+Q211006,reading levelgrade 12,hasTopic
+Q250123,horror,hasTopic
+Q169976,open library staff picks,hasTopic
+Q492207,american science fiction,hasTopic
+Q470937,horror,hasTopic
+Q81316,open library staff picks,hasTopic
+Q543375,reading levelgrade 11,hasTopic
+Q547210,american science fiction,hasTopic
+Q211006,reading levelgrade 11,hasTopic
+Q466790,open library staff picks,hasTopic
+Q176470,reading levelgrade 12,hasTopic
+Q176470,reading levelgrade 11,hasTopic
+Q594567,american science fiction,hasTopic
+Q466196,american science fiction,hasTopic
+Q15228,open library staff picks,hasTopic
+Q534975,fiction thrillers general,hasTopic
+Q467720,fiction in english,hasTopic
+Q116381,fiction thrillers general,hasTopic
+Q466790,murder,hasTopic
+Q467332,murder,hasTopic
+Q592078,fiction thrillers general,hasTopic
+Q588517,murder,hasTopic
+Q466196,fiction in english,hasTopic
+Q519935,fiction in english,hasTopic
+Q81316,fiction thrillers general,hasTopic
+Q616606,murder,hasTopic
+Q161191,murder,hasTopic
+Q211006,fiction thrillers general,hasTopic
+Q114761,fiction thrillers general,hasTopic
+Q114761,murder,hasTopic
+Q112407,fiction in english,hasTopic
+Q116801,fiction thrillers general,hasTopic
+Q244884,murder,hasTopic
+Q197243,murder,hasTopic
+Q29132,murder,hasTopic
+Q849701,murder,hasTopic
+Q115653,fiction thrillers general,hasTopic
+Q251076,murder,hasTopic
+Q523914,fiction thrillers general,hasTopic
+Q523914,fiction in english,hasTopic
+Q207964,fiction thrillers general,hasTopic
+Q116801,murder,hasTopic
+Q603645,murder,hasTopic
+Q599495,murder,hasTopic
+Q538742,fiction in english,hasTopic
+Q161191,fiction thrillers general,hasTopic
+Q582811,fiction in english,hasTopic
+Q598071,fiction in english,hasTopic
+Q182502,fiction thrillers general,hasTopic
+Q182502,fiction thrillers general,hasTopic
+Q63998,fiction in english,hasTopic
+Q15228,fiction in english,hasTopic
+Q116950,fiction thrillers general,hasTopic
+Q127149,fiction in english,hasTopic
+Q466288,murder,hasTopic
+Q468121,fiction thrillers general,hasTopic
+Q64095,fiction in english,hasTopic
+Q598315,fiction in english,hasTopic
+Q592503,fiction thrillers general,hasTopic
+Q845944,murder,hasTopic
+Q135165,murder,hasTopic
+Q135165,fiction in english,hasTopic
+Q491946,fiction thrillers general,hasTopic
+Q149552,fiction in english,hasTopic
+Q482567,fiction in english,hasTopic
+Q804414,fiction thrillers general,hasTopic
+Q132062,fiction in english,hasTopic
+Q580361,fiction thrillers general,hasTopic
+Q92630,fiction thrillers general,hasTopic
+Q482085,murder,hasTopic
+Q28306,reading levelgrade 10,hasTopic
+Q625764,reading levelgrade 10,hasTopic
+Q549152,reading levelgrade 10,hasTopic
+Q211006,reading levelgrade 10,hasTopic
+Q543375,reading levelgrade 10,hasTopic
+Q631460,reading levelgrade 10,hasTopic
+Q40354,reading levelgrade 10,hasTopic
+Q592503,reading levelgrade 10,hasTopic
+Q611689,american fiction,hasTopic
+Q608534,fiction thrillers suspense,hasTopic
+Q470937,fiction thrillers suspense,hasTopic
+Q611689,fiction thrillers suspense,hasTopic
+Q41359,american fiction,hasTopic
+Q13911,american fiction,hasTopic
+Q846175,fiction thrillers suspense,hasTopic
+Q202531,fiction thrillers suspense,hasTopic
+Q471024,american fiction,hasTopic
+Q63998,american fiction,hasTopic
+Q211006,american fiction,hasTopic
+Q474523,fiction thrillers suspense,hasTopic
+Q596874,fiction thrillers suspense,hasTopic
+Q596874,american fiction,hasTopic
+Q493191,fiction thrillers suspense,hasTopic
+Q176470,american fiction,hasTopic
+Q117108,fiction thrillers suspense,hasTopic
+Q25551,fiction thrillers suspense,hasTopic
+Q592503,fiction thrillers suspense,hasTopic
+Q580361,american fiction,hasTopic
+Q629445,american fiction,hasTopic
+Q487364,fiction thrillers suspense,hasTopic
+Q30613,american fiction,hasTopic
+Q466288,fiction thrillers suspense,hasTopic
+Q114761,american fiction,hasTopic
+Q521688,fiction thrillers suspense,hasTopic
+Q804414,fiction thrillers suspense,hasTopic
+Q116381,american fiction,hasTopic
+Q116373,fiction thrillers suspense,hasTopic
+Q625764,american fiction,hasTopic
+Q197243,fiction mystery detective general,hasTopic
+Q835739,history,hasTopic
+Q599495,thriller,hasTopic
+Q608534,fiction mystery detective general,hasTopic
+Q81316,thriller,hasTopic
+Q580361,thriller,hasTopic
+Q828031,fiction mystery detective general,hasTopic
+Q622400,history,hasTopic
+Q81007,thriller,hasTopic
+Q630341,magic,hasTopic
+Q623394,thriller,hasTopic
+Q543375,reading levelgrade 9,hasTopic
+Q115653,history,hasTopic
+Q549152,reading levelgrade 9,hasTopic
+Q592503,reading levelgrade 9,hasTopic
+Q592503,history,hasTopic
+Q568210,fiction mystery detective general,hasTopic
+Q40496,history,hasTopic
+Q470057,history,hasTopic
+Q474895,history,hasTopic
+Q588517,fiction mystery detective general,hasTopic
+Q1026862,magic,hasTopic
+Q161191,fiction mystery detective general,hasTopic
+Q161191,thriller,hasTopic
+Q466201,magic,hasTopic
+Q600448,fiction mystery detective general,hasTopic
+Q488350,fiction mystery detective general,hasTopic
+Q596874,thriller,hasTopic
+Q151550,history,hasTopic
+Q116950,thriller,hasTopic
+Q151550,fiction mystery detective general,hasTopic
+Q140036,history,hasTopic
+Q480743,history,hasTopic
+Q38213,history,hasTopic
+Q29132,fiction mystery detective general,hasTopic
+Q251076,fiction mystery detective general,hasTopic
+Q519858,magic,hasTopic
+Q535795,magic,hasTopic
+Q250123,thriller,hasTopic
+Q165068,magic,hasTopic
+Q467332,fiction mystery detective general,hasTopic
+Q468121,thriller,hasTopic
+Q804414,fiction mystery detective general,hasTopic
+Q116381,thriller,hasTopic
+Q845106,fiction mystery detective general,hasTopic
+Q603645,fiction mystery detective general,hasTopic
+Q482085,fiction mystery detective general,hasTopic
+Q27453,history,hasTopic
+Q595766,magic,hasTopic
+Q149552,thriller,hasTopic
+Q60672,magic,hasTopic
+Q631460,reading levelgrade 9,hasTopic
+Q471142,thriller,hasTopic
+Q607112,history,hasTopic
+Q116801,thriller,hasTopic
+Q115653,thriller,hasTopic
+Q630811,history,hasTopic
 Q25551,suspense,hasTopic
-Q857313,american fiction fictional works by one author,hasTopic
-Q149552,suspense,hasTopic
-Q468135,short stories,hasTopic
-Q616606,suspense,hasTopic
-Q828031,suspense,hasTopic
-Q262540,good and evil,hasTopic
-Q41359,american fiction fictional works by one author,hasTopic
-Q595995,american fiction fictional works by one author,hasTopic
-Q13911,american fiction fictional works by one author,hasTopic
-Q849930,american fiction fictional works by one author,hasTopic
-Q191288,good and evil,hasTopic
-Q262540,short stories,hasTopic
-Q127149,american fiction fictional works by one author,hasTopic
-Q545150,short stories,hasTopic
-Q860181,good and evil,hasTopic
-Q187942,american fiction fictional works by one author,hasTopic
-Q165068,short stories,hasTopic
-Q839220,american fiction fictional works by one author,hasTopic
-Q128444,good and evil,hasTopic
-Q497280,short stories,hasTopic
-Q213300,short stories,hasTopic
-Q534970,short stories,hasTopic
-Q534991,short stories,hasTopic
-Q470057,american fiction fictional works by one author,hasTopic
-Q477994,good and evil,hasTopic
-Q549152,american fiction fictional works by one author,hasTopic
-Q597219,american fiction fictional works by one author,hasTopic
-Q845944,suspense,hasTopic
 Q473082,suspense,hasTopic
-Q581426,american fiction fictional works by one author,hasTopic
-Q63998,historical fiction,hasTopic
-Q161191,fiction thrillers espionage,hasTopic
-Q798732,mystery,hasTopic
-Q840125,mystery,hasTopic
-Q140036,historical fiction,hasTopic
-Q534975,fiction thrillers espionage,hasTopic
-Q64095,historical fiction,hasTopic
-Q183363,historical fiction,hasTopic
-Q622400,historical fiction,hasTopic
-Q592815,historical fiction,hasTopic
-Q114761,fiction thrillers espionage,hasTopic
-Q207964,fiction thrillers espionage,hasTopic
-Q582811,fiction thrillers espionage,hasTopic
-Q467332,mystery,hasTopic
-Q550208,historical fiction,hasTopic
-Q197243,mystery,hasTopic
-Q116381,fiction thrillers espionage,hasTopic
-Q568210,mystery,hasTopic
-Q608534,mystery,hasTopic
-Q616606,mystery,hasTopic
-Q470057,historical fiction,hasTopic
-Q115653,fiction thrillers espionage,hasTopic
-Q845106,mystery,hasTopic
-Q588517,mystery,hasTopic
-Q30613,fiction thrillers espionage,hasTopic
-Q151550,historical fiction,hasTopic
-Q116801,fiction thrillers espionage,hasTopic
-Q116950,fiction thrillers espionage,hasTopic
-Q81316,fiction thrillers espionage,hasTopic
-Q829934,historical fiction,hasTopic
-Q468071,fiction thrillers espionage,hasTopic
-Q821608,historical fiction,hasTopic
-Q251076,mystery,hasTopic
-Q81007,fiction thrillers espionage,hasTopic
-Q116801,adventure stories,hasTopic
-Q589841,friendship fiction,hasTopic
-Q478098,friendship fiction,hasTopic
-Q251076,mystery fiction,hasTopic
-Q25551,adventure stories,hasTopic
-Q175421,friendship fiction,hasTopic
-Q474523,mystery fiction,hasTopic
-Q175421,friendship fiction,hasTopic
-Q608378,action adventure,hasTopic
-Q607112,general,hasTopic
-Q548368,general,hasTopic
-Q845167,adventure stories,hasTopic
-Q232153,friendship fiction,hasTopic
-Q473082,adventure stories,hasTopic
-Q116321,mystery fiction,hasTopic
-Q625645,general,hasTopic
-Q860633,general,hasTopic
-Q603645,general,hasTopic
-Q616606,action adventure,hasTopic
-Q530406,adventure stories,hasTopic
-Q196151,general,hasTopic
-Q13911,friendship fiction,hasTopic
-Q588517,mystery fiction,hasTopic
-Q189446,general,hasTopic
-Q616606,mystery fiction,hasTopic
-Q197243,mystery fiction,hasTopic
-Q161191,mystery fiction,hasTopic
-Q191288,general,hasTopic
-Q161191,adventure stories,hasTopic
-Q849930,friendship fiction,hasTopic
-Q804414,mystery fiction,hasTopic
-Q115653,adventure stories,hasTopic
-Q804414,adventure stories,hasTopic
-Q486385,general,hasTopic
-Q597545,general,hasTopic
-Q608534,mystery fiction,hasTopic
-Q534975,fiction espionage,hasTopic
-Q116950,fiction espionage,hasTopic
-Q468071,fiction espionage,hasTopic
-Q81316,fiction espionage,hasTopic
-Q116801,fiction espionage,hasTopic
-Q489581,romans,hasTopic
-Q32136,romans,hasTopic
-Q116381,fiction espionage,hasTopic
-Q548368,life on other planets,hasTopic
-Q589959,life on other planets,hasTopic
-Q467720,life on other planets,hasTopic
-Q588035,life on other planets,hasTopic
-Q207964,suspense fiction,hasTopic
-Q786615,life on other planets,hasTopic
-Q207964,fiction espionage,hasTopic
-Q81007,suspense fiction,hasTopic
-Q81007,fiction espionage,hasTopic
-Q857313,interpersonal relations,hasTopic
-Q849930,interpersonal relations,hasTopic
-Q474523,suspense fiction,hasTopic
-Q487364,life on other planets,hasTopic
-Q594567,life on other planets,hasTopic
-Q115653,fiction espionage,hasTopic
-Q73588,life on other planets,hasTopic
-Q183883,interpersonal relations,hasTopic
-Q550208,romans,hasTopic
-Q232153,interpersonal relations,hasTopic
-Q473082,suspense fiction,hasTopic
-Q586831,life on other planets,hasTopic
+Q597545,literature,hasTopic
+Q489581,literature,hasTopic
+Q549152,literature,hasTopic
+Q569790,suspense,hasTopic
+Q521688,suspense,hasTopic
+Q828031,suspense,hasTopic
+Q611689,literature,hasTopic
+Q541006,literature,hasTopic
+Q616606,suspense,hasTopic
+Q471024,suspense,hasTopic
+Q202531,literature,hasTopic
+Q569790,literature,hasTopic
+Q149552,suspense,hasTopic
+Q112407,literature,hasTopic
+Q534975,literature,hasTopic
+Q603645,literature,hasTopic
+Q622400,literature,hasTopic
+Q845944,suspense,hasTopic
+Q835739,suspense,hasTopic
+Q608875,literature,hasTopic
+Q859996,literature,hasTopic
+Q589841,literature,hasTopic
+Q149993,spanish language materials,hasTopic
+Q13911,friendship,hasTopic
+Q595766,romans nouvelles etc pour la jeunesse,hasTopic
+Q804414,fiction suspense,hasTopic
+Q472368,young adult fiction,hasTopic
+Q53945,romans nouvelles etc pour la jeunesse,hasTopic
+Q251076,novela,hasTopic
+Q149993,romans nouvelles etc pour la jeunesse,hasTopic
+Q835739,spanish language materials,hasTopic
+Q116381,fiction suspense,hasTopic
+Q599495,novela,hasTopic
+Q611689,novela,hasTopic
+Q608534,fiction suspense,hasTopic
+Q521688,fiction suspense,hasTopic
+Q611689,fiction suspense,hasTopic
+Q127149,novela,hasTopic
+Q45735,spanish language materials,hasTopic
+Q114761,fiction suspense,hasTopic
+Q611689,spanish language materials,hasTopic
+Q175421,young adult fiction,hasTopic
+Q202531,fiction suspense,hasTopic
+Q202531,spanish language materials,hasTopic
+Q608378,young adult fiction,hasTopic
+Q608378,friendship,hasTopic
+Q608378,young adult fiction,hasTopic
+Q60672,young adult fiction,hasTopic
+Q523914,fiction suspense,hasTopic
+Q616606,friendship,hasTopic
+Q550208,novela,hasTopic
+Q175421,friendship,hasTopic
+Q45735,friendship,hasTopic
+Q140036,spanish language materials,hasTopic
+Q487364,fiction suspense,hasTopic
+Q478098,friendship,hasTopic
+Q557867,novela,hasTopic
+Q45735,romans nouvelles etc pour la jeunesse,hasTopic
+Q466201,young adult fiction,hasTopic
+Q466605,romans nouvelles etc pour la jeunesse,hasTopic
+Q176470,novela,hasTopic
+Q501514,young adult fiction,hasTopic
+Q501514,friendship,hasTopic
+Q165068,romans nouvelles etc pour la jeunesse,hasTopic
+Q466605,young adult fiction,hasTopic
+Q466605,spanish language materials,hasTopic
+Q497280,short stories,hasTopic
 Q135165,life on other planets,hasTopic
+Q595766,ficción juvenil,hasTopic
+Q467720,life on other planets,hasTopic
+Q594567,life on other planets,hasTopic
+Q468135,short stories,hasTopic
+Q501514,ficción juvenil,hasTopic
+Q473082,suspense fiction,hasTopic
 Q578895,life on other planets,hasTopic
-Q849907,interpersonal relations,hasTopic
-Q114761,fiction espionage,hasTopic
-Q543562,awardhugo_awardnovel,hasTopic
-Q860181,american fantasy fiction,hasTopic
-Q534975,fiction thrillers,hasTopic
-Q523914,fiction thrillers,hasTopic
-Q543562,hugo award winner,hasTopic
-Q599495,detective and mystery stories,hasTopic
-Q474895,fiction historical general,hasTopic
-Q474895,fiction historical,hasTopic
-Q521688,paranormal fiction,hasTopic
-Q845106,detective and mystery stories,hasTopic
-Q471679,hugo award winner,hasTopic
-Q60672,american fantasy fiction,hasTopic
-Q586831,hugo award winner,hasTopic
-Q586831,awardhugo_awardnovel,hasTopic
-Q547210,american fantasy fiction,hasTopic
-Q520466,american fantasy fiction,hasTopic
-Q467332,detective and mystery stories,hasTopic
-Q471142,paranormal fiction,hasTopic
+Q161191,suspense fiction,hasTopic
+Q79762,short stories,hasTopic
+Q597545,fiction psychological,hasTopic
+Q487364,life on other planets,hasTopic
+Q582811,fiction thrillers espionage,hasTopic
+Q489581,romans,hasTopic
+Q161191,fiction thrillers espionage,hasTopic
+Q466504,fiction psychological,hasTopic
+Q479086,fiction psychological,hasTopic
+Q633210,romans,hasTopic
+Q474523,suspense fiction,hasTopic
+Q116801,fiction thrillers espionage,hasTopic
+Q597219,fiction psychological,hasTopic
+Q526792,fiction psychological,hasTopic
+Q550208,romans,hasTopic
+Q549152,fiction psychological,hasTopic
+Q115653,fiction thrillers espionage,hasTopic
+Q175421,ficción juvenil,hasTopic
+Q140036,ficción juvenil,hasTopic
+Q586831,life on other planets,hasTopic
+Q114761,fiction thrillers espionage,hasTopic
+Q568143,fiction psychological,hasTopic
+Q81316,fiction thrillers espionage,hasTopic
+Q545150,short stories,hasTopic
+Q534975,fiction thrillers espionage,hasTopic
+Q207964,suspense fiction,hasTopic
+Q207964,fiction thrillers espionage,hasTopic
+Q116950,fiction thrillers espionage,hasTopic
+Q128444,good and evil,hasTopic
+Q565105,fiction psychological,hasTopic
+Q622400,romans,hasTopic
+Q81007,suspense fiction,hasTopic
+Q81007,fiction thrillers espionage,hasTopic
+Q45735,ficción juvenil,hasTopic
+Q541006,short stories,hasTopic
+Q466288,suspense fiction,hasTopic
+Q548368,life on other planets,hasTopic
+Q30613,fiction thrillers espionage,hasTopic
+Q32136,romans,hasTopic
+Q804414,suspense fiction,hasTopic
+Q534991,short stories,hasTopic
+Q534970,short stories,hasTopic
+Q175421,romans,hasTopic
+Q149993,ficción juvenil,hasTopic
+Q611689,fiction psychological,hasTopic
+Q116381,fiction thrillers espionage,hasTopic
+Q786615,life on other planets,hasTopic
+Q859996,fiction psychological,hasTopic
+Q588035,life on other planets,hasTopic
+Q151337,short stories,hasTopic
+Q165068,short stories,hasTopic
+Q477994,good and evil,hasTopic
+Q853927,life on other planets,hasTopic
+Q13911,fiction psychological,hasTopic
+Q611689,suspense fiction,hasTopic
+Q589959,life on other planets,hasTopic
+Q73588,life on other planets,hasTopic
+Q1026862,paranormal fiction,hasTopic
+Q588517,mystery fiction,hasTopic
+Q588517,mystery,hasTopic
+Q38564,supernatural,hasTopic
+Q592815,historical fiction,hasTopic
+Q649267,mystery,hasTopic
+Q63998,historical fiction,hasTopic
+Q603645,mystery fiction,hasTopic
+Q608875,paranormal fiction,hasTopic
+Q608534,mystery fiction,hasTopic
+Q608534,mystery,hasTopic
+Q115653,adventure stories,hasTopic
+Q550208,historical fiction,hasTopic
+Q161191,mystery fiction,hasTopic
+Q151550,historical fiction,hasTopic
+Q568210,mystery,hasTopic
+Q473082,adventure stories,hasTopic
+Q116801,adventure stories,hasTopic
 Q493191,paranormal fiction,hasTopic
-Q183363,fiction historical,hasTopic
-Q183363,fiction historical general,hasTopic
-Q598315,hugo award winner,hasTopic
-Q598315,awardhugo_awardnovel,hasTopic
-Q600448,detective and mystery stories,hasTopic
-Q608534,detective and mystery stories,hasTopic
-Q92630,awardhugo_awardnovel,hasTopic
-Q151550,american fantasy fiction,hasTopic
-Q467720,hugo award winner,hasTopic
-Q568210,detective and mystery stories,hasTopic
-Q616606,thrillers,hasTopic
+Q493191,supernatural,hasTopic
+Q616606,mystery fiction,hasTopic
+Q616606,mystery,hasTopic
+Q631460,historical fiction,hasTopic
+Q474523,mystery fiction,hasTopic
+Q610680,supernatural,hasTopic
+Q630811,historical fiction,hasTopic
+Q471142,supernatural,hasTopic
+Q471142,paranormal fiction,hasTopic
+Q140036,historical fiction,hasTopic
+Q610680,paranormal fiction,hasTopic
+Q521688,paranormal fiction,hasTopic
+Q251076,mystery fiction,hasTopic
+Q251076,mystery,hasTopic
+Q250123,supernatural,hasTopic
+Q175421,adventure stories,hasTopic
+Q64095,historical fiction,hasTopic
+Q530406,adventure stories,hasTopic
+Q197243,mystery fiction,hasTopic
+Q197243,mystery,hasTopic
+Q804414,mystery fiction,hasTopic
+Q845106,mystery,hasTopic
+Q853442,paranormal fiction,hasTopic
+Q845944,supernatural,hasTopic
+Q467332,mystery,hasTopic
+Q470057,historical fiction,hasTopic
+Q25551,adventure stories,hasTopic
+Q471679,hugo award winner,hasTopic
 Q471679,awardhugo_awardnovel,hasTopic
-Q207964,thrillers,hasTopic
-Q207964,fiction thrillers,hasTopic
-Q487364,fiction historical,hasTopic
-Q581426,fiction historical,hasTopic
 Q588517,detective and mystery stories,hasTopic
-Q550208,fiction historical general,hasTopic
-Q550208,fiction historical,hasTopic
-Q492207,awardhugo_awardnovel,hasTopic
-Q581426,fiction historical general,hasTopic
+Q595128,fiction humorous,hasTopic
+Q595128,fiction humorous general,hasTopic
+Q576737,england fiction,hasTopic
+Q595995,american fiction fictional works by one author,hasTopic
+Q116801,detective and mystery stories,hasTopic
+Q521331,fiction humorous general,hasTopic
+Q478098,friendship fiction,hasTopic
+Q468135,fiction humorous,hasTopic
+Q468135,fiction humorous general,hasTopic
 Q607112,hugo award winner,hasTopic
 Q607112,awardhugo_awardnovel,hasTopic
-Q63998,fiction historical,hasTopic
-Q829934,fiction historical general,hasTopic
-Q41359,american fantasy fiction,hasTopic
-Q610680,paranormal fiction,hasTopic
-Q610680,american fantasy fiction,hasTopic
-Q491946,fiction thrillers,hasTopic
-Q63998,fiction historical general,hasTopic
-Q829934,fiction historical,hasTopic
-Q116801,fiction thrillers,hasTopic
-Q116801,detective and mystery stories,hasTopic
-Q821608,fiction historical,hasTopic
-Q821608,fiction historical general,hasTopic
-Q468071,fiction thrillers,hasTopic
-Q841540,fiction thrillers,hasTopic
-Q487364,fiction historical general,hasTopic
-Q608875,paranormal fiction,hasTopic
-Q492207,hugo award winner,hasTopic
-Q92630,hugo award winner,hasTopic
-Q849907,vampires,hasTopic
-Q843400,fiction humorous,hasTopic
-Q843400,fiction humorous general,hasTopic
-Q521331,fiction humorous general,hasTopic
-Q64095,world war 19391945,hasTopic
-Q845167,world war 19391945,hasTopic
-Q63998,world war 19391945,hasTopic
-Q578895,fiction humorous,hasTopic
-Q721,fiction humorous general,hasTopic
-Q187655,fiction humorous general,hasTopic
-Q721,fiction humorous,hasTopic
-Q578895,fiction humorous general,hasTopic
-Q181231,world war 19391945,hasTopic
-Q595128,fiction humorous general,hasTopic
-Q595128,fiction humorous,hasTopic
-Q15228,fiction media tiein,hasTopic
-Q15228,wizards,hasTopic
-Q13911,psychological fiction,hasTopic
-Q530406,childrens stories,hasTopic
-Q534991,childrens stories,hasTopic
-Q176470,vampires,hasTopic
-Q478098,vampires,hasTopic
-Q576737,childrens stories,hasTopic
-Q845944,supernatural,hasTopic
-Q828031,fiction media tiein,hasTopic
-Q232153,fiction media tiein,hasTopic
-Q534970,childrens stories,hasTopic
-Q837283,fiction media tiein,hasTopic
-Q610680,supernatural,hasTopic
-Q543562,fiction humorous,hasTopic
-Q471142,supernatural,hasTopic
-Q41359,fiction humorous general,hasTopic
-Q618681,fiction media tiein,hasTopic
-Q608875,vampires,hasTopic
-Q480743,world war 19391945,hasTopic
-Q568143,fiction humorous,hasTopic
-Q535795,wizards,hasTopic
-Q25551,fiction media tiein,hasTopic
-Q857313,psychological fiction,hasTopic
-Q477994,childrens stories,hasTopic
-Q549152,psychological fiction,hasTopic
-Q588517,psychological fiction,hasTopic
-Q32136,wizards,hasTopic
-Q32136,fiction humorous,hasTopic
-Q32136,fiction humorous general,hasTopic
-Q597545,psychological fiction,hasTopic
-Q597545,fiction media tiein,hasTopic
-Q165068,wizards,hasTopic
-Q40496,world war 19391945,hasTopic
-Q41359,fiction humorous,hasTopic
-Q250123,supernatural,hasTopic
-Q38564,supernatural,hasTopic
-Q468135,fiction humorous,hasTopic
 Q469969,fiction humorous,hasTopic
 Q469969,fiction humorous general,hasTopic
-Q468135,fiction humorous general,hasTopic
-Q493191,supernatural,hasTopic
-Q151550,vampires,hasTopic
-Q192258,wizards,hasTopic
-Q196151,fiction science fiction action adventure,hasTopic
-Q849907,schools,hasTopic
-Q191288,survival,hasTopic
-Q183363,fictional works,hasTopic
-Q595995,fiction short stories single author,hasTopic
-Q548368,fiction science fiction action adventure,hasTopic
-Q594567,fiction science fiction action adventure,hasTopic
-Q837489,magic fiction,hasTopic
-Q213300,fictional works,hasTopic
+Q597219,american fiction fictional works by one author,hasTopic
+Q116801,fiction espionage,hasTopic
+Q616606,action adventure,hasTopic
+Q616606,thrillers,hasTopic
+Q13911,friendship fiction,hasTopic
+Q470057,american fiction fictional works by one author,hasTopic
+Q721,fiction humorous,hasTopic
+Q586831,hugo award winner,hasTopic
+Q586831,awardhugo_awardnovel,hasTopic
+Q92630,hugo award winner,hasTopic
+Q92630,awardhugo_awardnovel,hasTopic
+Q549152,american fiction fictional works by one author,hasTopic
+Q115653,fiction espionage,hasTopic
+Q608378,action adventure,hasTopic
+Q467720,hugo award winner,hasTopic
+Q721,fiction humorous general,hasTopic
+Q13911,american fiction fictional works by one author,hasTopic
+Q467332,detective and mystery stories,hasTopic
+Q568143,fiction humorous,hasTopic
+Q81316,fiction espionage,hasTopic
+Q114761,fiction espionage,hasTopic
+Q608534,detective and mystery stories,hasTopic
+Q207964,thrillers,hasTopic
+Q207964,fiction espionage,hasTopic
+Q81007,fiction espionage,hasTopic
+Q187655,fiction humorous general,hasTopic
+Q845106,england fiction,hasTopic
+Q41359,american fiction fictional works by one author,hasTopic
+Q41359,fiction humorous,hasTopic
+Q41359,fiction humorous general,hasTopic
+Q543562,hugo award winner,hasTopic
+Q543562,awardhugo_awardnovel,hasTopic
+Q543562,fiction humorous,hasTopic
+Q534975,fiction espionage,hasTopic
+Q116950,fiction espionage,hasTopic
+Q845106,detective and mystery stories,hasTopic
+Q649267,american fiction fictional works by one author,hasTopic
+Q127149,american fiction fictional works by one author,hasTopic
+Q599495,detective and mystery stories,hasTopic
+Q29132,england fiction,hasTopic
+Q600448,detective and mystery stories,hasTopic
+Q598315,hugo award winner,hasTopic
+Q598315,awardhugo_awardnovel,hasTopic
+Q251076,detective and mystery stories,hasTopic
+Q578895,fiction humorous,hasTopic
+Q578895,fiction humorous general,hasTopic
+Q32136,fiction humorous general,hasTopic
+Q116381,fiction espionage,hasTopic
+Q853442,fiction humorous,hasTopic
+Q853442,fiction humorous general,hasTopic
+Q197243,england fiction,hasTopic
+Q32136,fiction humorous,hasTopic
+Q568210,detective and mystery stories,hasTopic
+Q568210,england fiction,hasTopic
+Q843400,fiction humorous,hasTopic
+Q843400,fiction humorous general,hasTopic
+Q786025,hugo award winner,hasTopic
+Q786025,awardhugo_awardnovel,hasTopic
+Q467332,england fiction,hasTopic
+Q581426,american fiction fictional works by one author,hasTopic
+Q492207,hugo award winner,hasTopic
+Q492207,awardhugo_awardnovel,hasTopic
+Q589841,friendship fiction,hasTopic
+Q576737,childrens stories,hasTopic
+Q588517,psychological fiction,hasTopic
+Q466504,psychological fiction,hasTopic
+Q549152,psychological fiction,hasTopic
+Q534970,childrens stories,hasTopic
+Q597545,psychological fiction,hasTopic
+Q535795,wizards,hasTopic
+Q853927,psychological fiction,hasTopic
+Q477994,childrens stories,hasTopic
+Q530406,childrens stories,hasTopic
+Q165068,wizards,hasTopic
+Q13911,psychological fiction,hasTopic
+Q534991,childrens stories,hasTopic
+Q32136,wizards,hasTopic
+Q15228,wizards,hasTopic
+Q60672,american fantasy fiction,hasTopic
+Q581426,fiction historical general,hasTopic
+Q486385,general,hasTopic
 Q534970,fiction short stories single author,hasTopic
-Q137629,survival,hasTopic
-Q534970,english language,hasTopic
-Q837283,fiction science fiction action adventure,hasTopic
-Q478110,fiction science fiction action adventure,hasTopic
-Q478110,fiction short stories single author,hasTopic
-Q549152,fictional works,hasTopic
-Q568210,english language,hasTopic
+Q63998,fiction historical general,hasTopic
+Q633210,fiction short stories single author,hasTopic
+Q523914,fiction thrillers,hasTopic
+Q595995,fiction short stories single author,hasTopic
+Q487364,fiction historical general,hasTopic
 Q541006,fiction short stories single author,hasTopic
-Q467225,survival,hasTopic
-Q197243,english language,hasTopic
+Q550208,fiction historical general,hasTopic
+Q597545,general,hasTopic
+Q116801,fiction thrillers,hasTopic
+Q607112,general,hasTopic
+Q631460,fiction historical general,hasTopic
 Q497280,fiction short stories single author,hasTopic
-Q467332,fiction short stories single author,hasTopic
-Q598071,survival,hasTopic
-Q541006,english language,hasTopic
-Q468071,english language,hasTopic
-Q468135,fiction science fiction action adventure,hasTopic
-Q849930,english language,hasTopic
-Q492207,fiction science fiction action adventure,hasTopic
+Q474895,fiction historical general,hasTopic
+Q491946,fiction thrillers,hasTopic
 Q545150,fiction short stories single author,hasTopic
-Q860633,fictional works,hasTopic
-Q197243,investigation,hasTopic
-Q53817,juvenile literature,hasTopic
 Q523766,humorous stories,hasTopic
-Q578895,humorous stories,hasTopic
-Q81316,intelligence officers,hasTopic
-Q116373,intelligence officers,hasTopic
-Q116381,intelligence officers,hasTopic
-Q588517,investigation,hasTopic
-Q196151,roman,hasTopic
 Q187655,humorous stories,hasTopic
-Q206795,juvenile literature,hasTopic
-Q29132,investigation,hasTopic
-Q32136,humorous stories,hasTopic
-Q232153,roman,hasTopic
-Q207964,intelligence officers,hasTopic
-Q232153,humorous stories,hasTopic
-Q599495,investigation,hasTopic
-Q467332,investigation,hasTopic
-Q13911,roman,hasTopic
+Q534975,fiction thrillers,hasTopic
+Q610680,american fantasy fiction,hasTopic
+Q633210,general,hasTopic
 Q530406,humorous stories,hasTopic
-Q116950,intelligence officers,hasTopic
-Q92630,terrorism,hasTopic
-Q116381,terrorism,hasTopic
-Q250123,horror stories,hasTopic
-Q250123,teenagers,hasTopic
-Q192258,wizards fiction,hasTopic
-Q81007,fiction political,hasTopic
-Q521688,american horror tales,hasTopic
-Q191288,family,hasTopic
-Q112407,young women,hasTopic
-Q521331,young women,hasTopic
-Q114761,fiction political,hasTopic
-Q860633,family,hasTopic
-Q53817,biography,hasTopic
-Q488331,philosophy,hasTopic
-Q849907,horror stories,hasTopic
-Q81316,terrorism,hasTopic
-Q115653,terrorism,hasTopic
-Q495888,philosophy,hasTopic
-Q482567,fiction political,hasTopic
-Q127149,teenagers,hasTopic
-Q471142,american horror tales,hasTopic
-Q548368,fiction science fiction hard science fiction,hasTopic
-Q471679,fiction science fiction hard science fiction,hasTopic
-Q213300,young women,hasTopic
-Q849930,young women,hasTopic
-Q482085,fiction science fiction hard science fiction,hasTopic
-Q480743,biography,hasTopic
-Q189446,philosophy,hasTopic
-Q608875,vampires fiction,hasTopic
-Q189446,biography,hasTopic
-Q164543,philosophy,hasTopic
-Q625645,biography,hasTopic
-Q196151,adventure,hasTopic
-Q857313,literary,hasTopic
-Q206795,biography,hasTopic
-Q837489,horror stories,hasTopic
-Q576737,orphans,hasTopic
-Q589841,young women,hasTopic
-Q535795,wizards fiction,hasTopic
-Q116950,terrorism,hasTopic
-Q81007,terrorism,hasTopic
-Q230356,philosophy,hasTopic
-Q835341,fiction science fiction hard science fiction,hasTopic
-Q543562,fiction science fiction hard science fiction,hasTopic
-Q543562,young women,hasTopic
-Q25551,american horror tales,hasTopic
-Q849907,vampires fiction,hasTopic
-Q27544,biography,hasTopic
-Q830526,art,hasTopic
+Q207964,fiction thrillers,hasTopic
+Q633210,humorous stories,hasTopic
+Q520466,american fantasy fiction,hasTopic
+Q151550,american fantasy fiction,hasTopic
+Q32136,humorous stories,hasTopic
+Q547210,american fantasy fiction,hasTopic
+Q467332,fiction short stories single author,hasTopic
+Q630811,fiction historical general,hasTopic
+Q548368,general,hasTopic
+Q523766,humorous stories,hasTopic
+Q41359,american fantasy fiction,hasTopic
+Q1026862,humorous stories,hasTopic
+Q478110,fiction short stories single author,hasTopic
+Q578895,humorous stories,hasTopic
+Q478098,vampires,hasTopic
+Q494069,women,hasTopic
+Q466504,women,hasTopic
+Q474895,fiction historical,hasTopic
+Q588517,investigation,hasTopic
+Q487364,fiction historical,hasTopic
+Q581426,fiction historical,hasTopic
+Q550208,fiction historical,hasTopic
+Q480743,world war 19391945,hasTopic
+Q29132,investigation,hasTopic
+Q197243,investigation,hasTopic
+Q471142,maine fiction,hasTopic
+Q599495,investigation,hasTopic
+Q630811,fiction historical,hasTopic
 Q53817,women,hasTopic
-Q191288,open_syllabus_project,hasTopic
-Q191288,literary fiction,hasTopic
-Q183363,war,hasTopic
-Q116950,art restorers,hasTopic
-Q586831,extraterrestrial beings,hasTopic
-Q116321,israelis,hasTopic
-Q116373,allon gabriel fictitious character fiction,hasTopic
-Q116373,art restorers,hasTopic
-Q116373,israelis,hasTopic
-Q116373,art,hasTopic
-Q592815,fiction war military,hasTopic
-Q117108,holocaust jewish 19391945,hasTopic
-Q117108,israelis,hasTopic
-Q530406,extraterrestrial beings,hasTopic
-Q116950,israelis,hasTopic
-Q192258,hogwarts school of witchcraft and wizardry imaginary organization,hasTopic
+Q859996,women,hasTopic
+Q151550,vampires,hasTopic
+Q176470,vampires,hasTopic
+Q63998,fiction historical,hasTopic
+Q521688,american horror tales,hasTopic
+Q471142,american horror tales,hasTopic
+Q467332,investigation,hasTopic
+Q63998,world war 19391945,hasTopic
+Q846175,maine fiction,hasTopic
+Q630508,women,hasTopic
+Q649015,vampires,hasTopic
+Q64095,world war 19391945,hasTopic
+Q206795,juvenile literature,hasTopic
+Q608875,vampires,hasTopic
+Q491946,maine fiction,hasTopic
+Q25551,american horror tales,hasTopic
+Q466201,vampires,hasTopic
+Q53817,juvenile literature,hasTopic
+Q40496,world war 19391945,hasTopic
+Q73588,women,hasTopic
+Q1026862,magic fiction,hasTopic
+Q482085,interplanetary voyages,hasTopic
+Q482567,fiction political,hasTopic
+Q576737,orphans,hasTopic
+Q492207,fiction science fiction action adventure,hasTopic
+Q478110,fiction science fiction action adventure,hasTopic
+Q187655,interplanetary voyages,hasTopic
+Q81007,fiction political,hasTopic
+Q466201,horror stories,hasTopic
+Q207964,intelligence officers,hasTopic
+Q116950,intelligence officers,hasTopic
+Q116950,terrorism,hasTopic
+Q860162,horror stories,hasTopic
+Q81316,terrorism,hasTopic
+Q618681,fiction media tiein,hasTopic
+Q81007,terrorism,hasTopic
+Q114761,fiction political,hasTopic
+Q594567,fiction science fiction action adventure,hasTopic
+Q835341,interplanetary voyages,hasTopic
+Q127149,literary fiction,hasTopic
+Q534970,english language,hasTopic
+Q828031,fiction media tiein,hasTopic
+Q81316,intelligence officers,hasTopic
+Q15228,fiction media tiein,hasTopic
+Q786025,interplanetary voyages,hasTopic
+Q25551,fiction media tiein,hasTopic
+Q466504,literary fiction,hasTopic
+Q589841,literary fiction,hasTopic
+Q116381,terrorism,hasTopic
+Q597545,fiction media tiein,hasTopic
+Q467225,survival,hasTopic
+Q468135,fiction science fiction action adventure,hasTopic
+Q116373,intelligence officers,hasTopic
+Q541006,english language,hasTopic
+Q137629,survival,hasTopic
+Q548368,fiction science fiction action adventure,hasTopic
+Q568210,english language,hasTopic
+Q250123,horror stories,hasTopic
+Q92630,terrorism,hasTopic
+Q598071,survival,hasTopic
+Q197243,english language,hasTopic
+Q115653,terrorism,hasTopic
+Q470057,literary fiction,hasTopic
 Q721,interplanetary voyages,hasTopic
-Q64095,fiction war military,hasTopic
-Q829753,holocaust jewish 19391945,hasTopic
-Q183363,translations from english,hasTopic
-Q63998,war,hasTopic
-Q63998,fiction war military,hasTopic
-Q837283,open_syllabus_project,hasTopic
-Q829934,readers,hasTopic
+Q116381,intelligence officers,hasTopic
 Q578895,interplanetary voyages,hasTopic
-Q81316,allon gabriel fictitious character fiction,hasTopic
-Q821608,fiction war military,hasTopic
+Q860162,english fiction,hasTopic
+Q482085,fiction science fiction hard science fiction,hasTopic
+Q73588,science fiction fantasy,hasTopic
+Q576737,dystopias,hasTopic
 Q588517,private investigators fiction,hasTopic
 Q588517,private investigators,hasTopic
-Q589841,new york ny fiction,hasTopic
-Q589841,literary fiction,hasTopic
-Q576737,dystopias,hasTopic
-Q117108,art restorers,hasTopic
-Q857313,roman américain,hasTopic
-Q568210,fiction mystery detective traditional,hasTopic
-Q486385,open_syllabus_project,hasTopic
-Q616606,private investigators fiction,hasTopic
-Q79762,english fiction,hasTopic
-Q467332,private investigators,hasTopic
-Q468135,private investigators fiction,hasTopic
-Q187655,interplanetary voyages,hasTopic
-Q470057,open_syllabus_project,hasTopic
-Q470057,literary fiction,hasTopic
-Q546785,private investigators,hasTopic
-Q128444,dystopias,hasTopic
-Q128444,comic books strips,hasTopic
-Q598315,awardnebula_awardnovel,hasTopic
-Q205975,roman américain,hasTopic
-Q29132,fiction mystery detective traditional,hasTopic
-Q494069,women,hasTopic
-Q513696,new york ny fiction,hasTopic
-Q196151,war,hasTopic
-Q212718,extraterrestrial beings,hasTopic
-Q482085,interplanetary voyages,hasTopic
-Q495888,art,hasTopic
-Q480743,holocaust jewish 19391945,hasTopic
-Q127149,literary fiction,hasTopic
-Q488331,war,hasTopic
-Q116321,holocaust jewish 19391945,hasTopic
-Q843400,death,hasTopic
-Q81007,allon gabriel fictitious character fiction,hasTopic
-Q73588,women,hasTopic
-Q81007,art restorers,hasTopic
-Q835341,interplanetary voyages,hasTopic
-Q835341,readers,hasTopic
 Q845106,fiction mystery detective traditional,hasTopic
 Q845106,private investigators fiction,hasTopic
 Q845106,private investigators,hasTopic
-Q116321,art,hasTopic
-Q521331,new york ny fiction,hasTopic
-Q27466,open_syllabus_project,hasTopic
-Q40496,social conditions,hasTopic
-Q825718,nonfiction,hasTopic
-Q829934,british and irish fiction fictional works by one author,hasTopic
-Q478250,british and irish fiction fictional works by one author,hasTopic
-Q189446,conduct of life,hasTopic
-Q189446,nonfiction,hasTopic
-Q480743,nonfiction,hasTopic
-Q480743,jews,hasTopic
-Q608875,vampiros,hasTopic
-Q128444,classics,hasTopic
-Q471142,maine fiction,hasTopic
-Q519858,fiction fantasy epic,hasTopic
-Q519858,imaginary wars and battles,hasTopic
+Q467332,private investigators fiction,hasTopic
+Q649267,science fiction fantasy,hasTopic
+Q629646,british,hasTopic
+Q649015,vampires fiction,hasTopic
+Q128444,dystopias,hasTopic
+Q630341,science fiction fantasy horror,hasTopic
+Q543562,fiction science fiction hard science fiction,hasTopic
+Q608875,vampires fiction,hasTopic
+Q466201,schools,hasTopic
+Q29132,fiction mystery detective traditional,hasTopic
+Q548368,fiction science fiction hard science fiction,hasTopic
 Q600448,british,hasTopic
-Q467139,science fiction fantasy,hasTopic
-Q479086,missing persons,hasTopic
-Q470057,social life and customs,hasTopic
-Q470057,social conditions,hasTopic
-Q79762,fiction fantasy epic,hasTopic
-Q79762,british and irish fiction fictional works by one author,hasTopic
-Q135165,imaginary places,hasTopic
-Q557867,manwoman relationships fiction,hasTopic
-Q625645,histoire,hasTopic
-Q474523,missing persons,hasTopic
-Q79762,english fantasy fiction,hasTopic
-Q595950,childrens stories english,hasTopic
-Q60672,imaginary places,hasTopic
-Q115653,united states,hasTopic
-Q115653,assassins,hasTopic
-Q208461,british and irish fiction fictional works by one author,hasTopic
-Q581426,teenage boys,hasTopic
-Q206795,united states,hasTopic
-Q821608,british,hasTopic
 Q602216,english fantasy fiction,hasTopic
-Q535795,dragons,hasTopic
-Q557867,love stories,hasTopic
-Q576737,teenage boys,hasTopic
-Q589485,murderers,hasTopic
-Q589485,teenage boys,hasTopic
-Q837489,demonology,hasTopic
-Q828031,children,hasTopic
-Q63998,war stories,hasTopic
-Q64095,war stories,hasTopic
-Q535639,englisch,hasTopic
-Q137629,survival fiction,hasTopic
-Q595128,satire,hasTopic
-Q821608,war stories,hasTopic
-Q534970,childrens stories english,hasTopic
-Q241348,love stories,hasTopic
-Q241348,histoire,hasTopic
-Q81007,terrorism fiction,hasTopic
-Q82888,criticism and interpretation,hasTopic
-Q83880,nonfiction,hasTopic
-Q116373,assassins,hasTopic
-Q117108,assassins,hasTopic
-Q576392,nonfiction,hasTopic
-Q473082,assassins,hasTopic
-Q849907,love fiction,hasTopic
-Q849907,high schools,hasTopic
-Q491946,maine fiction,hasTopic
-Q843400,satire,hasTopic
-Q73588,science fiction fantasy,hasTopic
-Q543562,books and reading,hasTopic
+Q127149,murderers,hasTopic
+Q546785,private investigators,hasTopic
+Q630811,british,hasTopic
+Q535795,wizards fiction,hasTopic
+Q568210,fiction mystery detective traditional,hasTopic
+Q616606,revenge,hasTopic
+Q79762,english fiction,hasTopic
+Q859996,imaginary places,hasTopic
+Q13911,roman,hasTopic
 Q520466,science fiction fantasy horror,hasTopic
+Q135165,imaginary places,hasTopic
+Q468135,private investigators fiction,hasTopic
+Q835341,fiction science fiction hard science fiction,hasTopic
+Q467139,science fiction fantasy,hasTopic
+Q79762,english fantasy fiction,hasTopic
 Q521331,british,hasTopic
-Q521331,young women fiction,hasTopic
-Q523914,united states fiction,hasTopic
-Q488331,violence,hasTopic
-Q843400,discworld imaginary place fiction,hasTopic
-Q38564,brothers and sisters,hasTopic
-Q82888,english fantasy literature,hasTopic
-Q840125,serial murderers,hasTopic
-Q241348,americans,hasTopic
-Q241348,travel,hasTopic
-Q64095,world war 19391945 fiction,hasTopic
-Q40496,politics and government,hasTopic
-Q478110,telepathy,hasTopic
-Q578895,english science fiction,hasTopic
-Q829753,war criminals,hasTopic
-Q64095,classic literature,hasTopic
-Q478110,robots,hasTopic
-Q478110,genetic engineering,hasTopic
-Q472368,english science fiction,hasTopic
-Q471741,end of the world,hasTopic
-Q489581,india fiction,hasTopic
-Q151337,english science fiction,hasTopic
-Q837283,united states fiction,hasTopic
-Q117431,families,hasTopic
-Q837283,young men,hasTopic
-Q845167,secret service,hasTopic
-Q474523,americans,hasTopic
-Q581426,fiction action adventure,hasTopic
-Q206795,politics and government,hasTopic
-Q206795,courage,hasTopic
-Q480743,war criminals,hasTopic
-Q480743,holocaust,hasTopic
-Q117431,brothers and sisters,hasTopic
-Q597219,authors fiction,hasTopic
+Q471679,fiction science fiction hard science fiction,hasTopic
+Q60672,imaginary places,hasTopic
+Q589485,murderers,hasTopic
+Q495888,philosophy,hasTopic
+Q595128,discworld imaginary place,hasTopic
+Q480743,biography,hasTopic
+Q117108,assassins,hasTopic
 Q117108,crimes against,hasTopic
-Q568210,fiction mystery detective women sleuths,hasTopic
-Q530406,humorous fiction,hasTopic
-Q530406,skönlitteratur,hasTopic
-Q557867,manwoman relationships,hasTopic
-Q582811,intelligence service,hasTopic
-Q482567,india fiction,hasTopic
-Q545150,american short stories,hasTopic
-Q599495,police,hasTopic
-Q128444,crimes against,hasTopic
-Q128444,graphic novels,hasTopic
-Q592815,humanalien encounters,hasTopic
+Q117108,israelis,hasTopic
 Q117108,fiction action adventure,hasTopic
-Q582811,secret service,hasTopic
-Q482085,robots,hasTopic
-Q189446,travel,hasTopic
-Q592815,space warfare,hasTopic
-Q589841,young women fiction,hasTopic
-Q534970,literature and fiction juvenile,hasTopic
-Q568210,jane marple fictitious character,hasTopic
-Q497280,robots,hasTopic
-Q223784,humanalien encounters,hasTopic
-Q535795,travel,hasTopic
-Q625645,historia,hasTopic
-Q615807,young men,hasTopic
-Q568143,united states fiction,hasTopic
-Q29132,marple jane fictitious character fiction,hasTopic
-Q519858,young men,hasTopic
-Q608534,police,hasTopic
+Q53817,biography,hasTopic
+Q595950,childrens stories english,hasTopic
+Q164543,philosophy,hasTopic
+Q470057,social life and customs,hasTopic
+Q470057,open_syllabus_project,hasTopic
+Q859996,british and irish fiction fictional works by one author,hasTopic
+Q478250,british and irish fiction fictional works by one author,hasTopic
+Q472368,english science fiction,hasTopic
+Q535795,dragons,hasTopic
+Q151337,english science fiction,hasTopic
+Q860162,british and irish fiction fictional works by one author,hasTopic
+Q27544,biography,hasTopic
+Q64095,classic literature,hasTopic
+Q486385,open_syllabus_project,hasTopic
+Q79762,british and irish fiction fictional works by one author,hasTopic
+Q79762,fiction fantasy epic,hasTopic
+Q521331,new york ny fiction,hasTopic
+Q521331,young women,hasTopic
+Q466504,crimes against,hasTopic
+Q530406,extraterrestrial beings,hasTopic
+Q534970,childrens stories english,hasTopic
+Q786025,english science fiction,hasTopic
+Q786025,awardnebula_awardnovel,hasTopic
+Q479086,missing persons,hasTopic
+Q466504,new york ny fiction,hasTopic
+Q513696,new york ny fiction,hasTopic
+Q843400,discworld imaginary place,hasTopic
+Q843400,discworld imaginary place fiction,hasTopic
+Q116373,assassins,hasTopic
+Q116373,israelis,hasTopic
+Q835341,english science fiction,hasTopic
+Q117108,art restorers,hasTopic
+Q64095,fiction war military,hasTopic
 Q469969,discworld imaginary place,hasTopic
 Q469969,discworld imaginary place fiction,hasTopic
+Q474523,missing persons,hasTopic
+Q116373,art restorers,hasTopic
+Q116373,allon gabriel fictitious character fiction,hasTopic
+Q578895,english science fiction,hasTopic
+Q598315,awardnebula_awardnovel,hasTopic
+Q649267,classic literature,hasTopic
+Q519858,imaginary wars and battles,hasTopic
+Q519858,fiction fantasy epic,hasTopic
+Q128444,crimes against,hasTopic
+Q586831,extraterrestrial beings,hasTopic
+Q128444,classics,hasTopic
+Q206795,united states,hasTopic
+Q543562,young women,hasTopic
+Q63998,classic literature,hasTopic
+Q206795,biography,hasTopic
+Q115653,assassins,hasTopic
+Q115653,united states,hasTopic
+Q81007,terrorism fiction,hasTopic
+Q116950,israelis,hasTopic
+Q116950,art restorers,hasTopic
+Q63998,fiction war military,hasTopic
+Q81007,allon gabriel fictitious character fiction,hasTopic
+Q643901,kidnapping,hasTopic
+Q112407,young women,hasTopic
+Q81007,art restorers,hasTopic
+Q630341,dragons,hasTopic
+Q630811,fiction war military,hasTopic
+Q633210,social life and customs,hasTopic
+Q568143,fiction action adventure,hasTopic
+Q81316,israelis,hasTopic
+Q630508,social life and customs,hasTopic
+Q589841,young women,hasTopic
+Q581426,fiction action adventure,hasTopic
+Q478110,telepathy,hasTopic
+Q473082,assassins,hasTopic
+Q488331,philosophy,hasTopic
+Q589841,new york ny fiction,hasTopic
+Q27466,open_syllabus_project,hasTopic
+Q592815,fiction war military,hasTopic
+Q488331,violence,hasTopic
+Q478110,sciencefiction,hasTopic
+Q497280,robots,hasTopic
+Q117108,holocaust jewish 19391945,hasTopic
+Q466196,sciencefiction,hasTopic
+Q630508,social conditions,hasTopic
+Q478110,robots,hasTopic
+Q480743,holocaust,hasTopic
+Q40496,politics and government,hasTopic
+Q40496,social conditions,hasTopic
+Q630811,great britain fiction,hasTopic
+Q630811,india fiction,hasTopic
+Q608534,police,hasTopic
+Q137629,survival fiction,hasTopic
+Q480743,jews,hasTopic
+Q610680,fiction occult supernatural,hasTopic
+Q466504,gothic horror,hasTopic
+Q482085,robots,hasTopic
+Q117431,families,hasTopic
+Q480743,holocaust jewish 19391945,hasTopic
+Q859996,manwoman relationships fiction,hasTopic
+Q470057,social conditions,hasTopic
+Q466504,violence,hasTopic
+Q649015,psychics,hasTopic
+Q630341,monsters,hasTopic
+Q82888,english fantasy literature,hasTopic
+Q27544,politics and government,hasTopic
+Q860162,polish language materials,hasTopic
+Q860162,families,hasTopic
+Q535639,englisch,hasTopic
+Q582811,great britain fiction,hasTopic
+Q843400,collectionname,hasTopic
+Q534970,literature and fiction juvenile,hasTopic
+Q549152,fictional works,hasTopic
+Q64095,war stories,hasTopic
+Q493191,fiction occult supernatural,hasTopic
+Q557867,authors,hasTopic
+Q543562,quests expeditions,hasTopic
+Q206795,politics and government,hasTopic
+Q206795,courage,hasTopic
+Q557867,manwoman relationships fiction,hasTopic
 Q513696,police,hasTopic
 Q513696,serial murderers,hasTopic
-Q196151,space warfare,hasTopic
-Q568143,fiction action adventure,hasTopic
-Q27544,politics and government,hasTopic
-Q835341,english science fiction,hasTopic
-Q521331,fiction women,hasTopic
-Q835341,space vehicles,hasTopic
-Q488331,psychology,hasTopic
-Q82888,middle earth imaginary place,hasTopic
-Q523914,gambling,hasTopic
-Q30613,spy stories,hasTopic
-Q541006,world war ii,hasTopic
-Q467139,protected daisy,hasTopic
-Q493191,fiction occult supernatural,hasTopic
-Q513696,serial murders fiction,hasTopic
-Q608534,los angeles calif fiction,hasTopic
-Q550208,epic literature,hasTopic
-Q470057,bombings,hasTopic
-Q568143,autobiography,hasTopic
-Q610680,gambling,hasTopic
-Q239725,serial murders fiction,hasTopic
-Q589841,fiction coming of age,hasTopic
-Q576737,child and youth fiction,hasTopic
-Q491946,treasure troves,hasTopic
-Q223784,sciencefiction,hasTopic
-Q595950,nuclear weapons,hasTopic
-Q602216,prisoners,hasTopic
-Q610680,fiction occult supernatural,hasTopic
-Q223784,exploration,hasTopic
-Q189446,autobiography,hasTopic
-Q189446,psychology,hasTopic
-Q189446,fathers and sons,hasTopic
-Q495888,anarchism,hasTopic
-Q589485,mentally ill,hasTopic
-Q589485,fathers and sons,hasTopic
-Q582811,great britain fiction,hasTopic
-Q597219,awardnational_book_critics_circle_awardfiction,hasTopic
-Q597219,national book critics circle award winner,hasTopic
-Q597219,novelists,hasTopic
-Q586831,exploration,hasTopic
-Q586831,science,hasTopic
-Q586831,christianity,hasTopic
-Q825718,business,hasTopic
-Q576392,business,hasTopic
-Q534991,elves,hasTopic
-Q534991,child and youth fiction,hasTopic
-Q534991,letters,hasTopic
-Q205975,traductions françaises,hasTopic
-Q598315,scifi,hasTopic
-Q164543,religion,hasTopic
-Q79762,elves,hasTopic
-Q845167,presidents,hasTopic
-Q839220,businessmen,hasTopic
-Q839220,businesspeople,hasTopic
-Q860034,fiction ghost,hasTopic
-Q164543,christianity,hasTopic
-Q471142,space vehicles,hasTopic
 Q786615,scifi,hasTopic
-Q474895,description and travel,hasTopic
-Q798732,secret societies,hasTopic
-Q151550,historical,hasTopic
-Q208461,utopias,hasTopic
-Q786615,memory,hasTopic
-Q786615,science,hasTopic
-Q471679,memory,hasTopic
-Q803910,fiction science fiction space opera,hasTopic
-Q38564,supernatural fiction,hasTopic
-Q486385,utopias,hasTopic
-Q486385,anarchism,hasTopic
+Q128444,comic books strips,hasTopic
+Q523766,children grades 46,hasTopic
+Q835341,readers,hasTopic
+Q828031,children,hasTopic
+Q568210,fiction mystery detective women sleuths,hasTopic
+Q568210,marple jane fictitious character fiction,hasTopic
+Q599495,police,hasTopic
+Q63998,war stories,hasTopic
+Q29132,jane marple fictitious character,hasTopic
+Q598315,scifi,hasTopic
+Q602216,prisoners,hasTopic
 Q250123,collectionname,hasTopic
+Q250123,teenagers,hasTopic
+Q489581,india fiction,hasTopic
+Q482567,india fiction,hasTopic
+Q589841,young women fiction,hasTopic
+Q488331,sadism,hasTopic
+Q630508,manners and customs,hasTopic
+Q82888,middle earth imaginary place,hasTopic
+Q82888,criticism and interpretation,hasTopic
+Q576737,teenage boys,hasTopic
+Q495888,art,hasTopic
+Q595950,nuclear weapons,hasTopic
+Q79762,middle earth imaginary place,hasTopic
+Q64095,world war 19391945 fiction,hasTopic
+Q132062,dystopian fiction,hasTopic
 Q479086,missing persons fiction,hasTopic
 Q479086,fathers and sons,hasTopic
-Q840125,serial murders fiction,hasTopic
+Q597219,authors fiction,hasTopic
+Q597219,novelists,hasTopic
+Q469969,fiction satire,hasTopic
+Q469969,literature and fiction fantasy,hasTopic
+Q523914,brothers,hasTopic
+Q649267,utopias,hasTopic
+Q523766,childrens booksages 912 fiction,hasTopic
+Q523766,letters,hasTopic
+Q786615,conformity,hasTopic
+Q786615,science,hasTopic
+Q116373,art,hasTopic
+Q151550,historical,hasTopic
+Q586831,science,hasTopic
+Q586831,christianity,hasTopic
+Q586831,religion,hasTopic
+Q557867,love stories,hasTopic
+Q493191,brothers,hasTopic
+Q530406,skönlitteratur,hasTopic
+Q608875,seriesthevampirechronicles,hasTopic
+Q493191,california fiction,hasTopic
+Q534991,child and youth fiction,hasTopic
+Q534991,letters,hasTopic
+Q530406,humorous fiction,hasTopic
+Q582811,intelligence service,hasTopic
+Q550208,novela histórica,hasTopic
+Q550208,epic literature,hasTopic
+Q521331,young women fiction,hasTopic
+Q523914,united states fiction,hasTopic
+Q486385,utopias,hasTopic
+Q486385,anarchism,hasTopic
+Q860162,domestic fiction,hasTopic
+Q535795,magier,hasTopic
+Q649015,seriesthevampirechronicles,hasTopic
+Q649015,lestat fictitious character fiction,hasTopic
+Q83880,nonfiction,hasTopic
+Q859996,manwoman relationships,hasTopic
+Q470057,domestic fiction,hasTopic
+Q491946,treasure troves,hasTopic
+Q568143,united states fiction,hasTopic
+Q641423,psychological aspects,hasTopic
+Q633210,manners and customs,hasTopic
+Q164543,religion,hasTopic
+Q582811,secret service,hasTopic
+Q471741,end of the world,hasTopic
+Q608534,los angeles calif fiction,hasTopic
+Q480743,nonfiction,hasTopic
 Q721,prefect ford fictitious character fiction,hasTopic
 Q721,dent arthur fictitious character fiction,hasTopic
-Q523766,letters,hasTopic
-Q521331,fiction romance contemporary,hasTopic
-Q538742,exploration,hasTopic
-Q523914,prostitution,hasTopic
-Q212718,space vehicles,hasTopic
-Q520466,fiction science fiction space opera,hasTopic
+Q576737,child and youth fiction,hasTopic
+Q488331,war,hasTopic
+Q592815,humanalien encounters,hasTopic
+Q576392,nonfiction,hasTopic
+Q576392,psychological aspects,hasTopic
+Q589485,fathers and sons,hasTopic
+Q117431,81354,hasTopic
+Q164543,christianity,hasTopic
+Q581426,teenage boys,hasTopic
+Q589485,teenage boys,hasTopic
+Q495888,anarchism,hasTopic

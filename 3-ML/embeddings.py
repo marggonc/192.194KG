@@ -1,10 +1,3 @@
-"""
-Book KG — Fixes:
-  1. Correct metric key lookup
-  2. Fix vector shape for cosine similarity
-  3. Print all available metric keys for debugging
-"""
-
 import json
 import random
 import torch
