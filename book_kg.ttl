@@ -1,0 +1,6374 @@
+@prefix auth: <http://bookkg.org/author/> .
+@prefix bkg: <http://bookkg.org/ontology#> .
+@prefix book: <http://bookkg.org/book/> .
+@prefix genr: <http://bookkg.org/genre/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix them: <http://bookkg.org/theme/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+auth:Q105118 a bkg:Author ;
+    rdfs:label "Sidney Sheldon"@en ;
+    bkg:wrote book:Q30613 .
+
+auth:Q105167 a bkg:Author ;
+    rdfs:label "Tom Clancy"@en ;
+    bkg:influencedBy auth:Q123078,
+        auth:Q692 ;
+    bkg:wrote book:Q248745,
+        book:Q259168 .
+
+auth:Q1060636 a bkg:Author ;
+    rdfs:label "Daniel Handler"@en ;
+    bkg:influencedBy auth:Q16867,
+        auth:Q242095,
+        auth:Q25161,
+        auth:Q36591,
+        auth:Q905,
+        auth:Q9204,
+        auth:Q982401 ;
+    bkg:wrote book:Q523766 .
+
+auth:Q1174219 a bkg:Author ;
+    rdfs:label "David Diamond"@en ;
+    bkg:wrote book:Q185705 .
+
+auth:Q1193871 a bkg:Author ;
+    rdfs:label "Allen Steele"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q1203 a bkg:Author ;
+    rdfs:label "John Lennon"@en ;
+    bkg:wrote book:Q652890 .
+
+auth:Q1230809 a bkg:Author ;
+    rdfs:label "Shirley Hazzard"@en ;
+    bkg:wrote book:Q245686 .
+
+auth:Q1240177 a bkg:Author ;
+    rdfs:label "Donald Miller"@en ;
+    bkg:wrote book:Q43714 .
+
+auth:Q1338953 a bkg:Author ;
+    rdfs:label "Robert Graysmith"@en ;
+    bkg:wrote book:Q218156 .
+
+auth:Q1348862 a bkg:Author ;
+    rdfs:label "Ronald Wright"@en ;
+    bkg:wrote book:Q23163 .
+
+auth:Q1351304 a bkg:Author ;
+    rdfs:label "Eric Garcia"@en ;
+    bkg:wrote book:Q567652 .
+
+auth:Q1351554 a bkg:Author ;
+    rdfs:label "Peter David"@en ;
+    bkg:wrote book:Q618681 .
+
+auth:Q1357338 a bkg:Author ;
+    rdfs:label "Neil Asher Silberman"@en ;
+    bkg:wrote book:Q27453 .
+
+auth:Q1383477 a bkg:Author ;
+    rdfs:label "Simon Beckett"@en ;
+    bkg:wrote book:Q260702 .
+
+auth:Q1392021 a bkg:Author ;
+    rdfs:label "Timothy Mo"@en ;
+    bkg:wrote book:Q38190 .
+
+auth:Q1419759 a bkg:Author ;
+    rdfs:label "Deborah J. Ross"@en ;
+    bkg:wrote book:Q522575 .
+
+auth:Q1476635 a bkg:Author ;
+    rdfs:label "Nicholas Shaxson"@en ;
+    bkg:wrote book:Q162091 .
+
+auth:Q1535859 a bkg:Author ;
+    rdfs:label "Richard Mason"@en ;
+    bkg:wrote book:Q157709 .
+
+auth:Q1541955 a bkg:Author ;
+    rdfs:label "Graham Masterton"@en ;
+    bkg:wrote book:Q136188 .
+
+auth:Q155845 a bkg:Author ;
+    rdfs:label "Chinua Achebe"@en ;
+    bkg:influencedBy auth:Q7081956 ;
+    bkg:wrote book:Q622400 .
+
+auth:Q160219 a bkg:Author ;
+    rdfs:label "Stephenie Meyer"@en ;
+    bkg:wrote book:Q189378,
+        book:Q191540,
+        book:Q212473,
+        book:Q53945 .
+
+auth:Q166351 a bkg:Author ;
+    rdfs:label "Robert Jordan"@en ;
+    bkg:influencedBy auth:Q892 ;
+    bkg:wrote book:Q470229,
+        book:Q477994,
+        book:Q568375 .
+
+auth:Q172140 a bkg:Author ;
+    rdfs:label "Michael Crichton"@en ;
+    bkg:wrote book:Q249407,
+        book:Q513036,
+        book:Q580361 .
+
+auth:Q17714 a bkg:Author ;
+    rdfs:label "Stephen Hawking"@en ;
+    bkg:influencedBy auth:Q33760,
+        auth:Q366471,
+        auth:Q368087,
+        auth:Q47480,
+        auth:Q5276571,
+        auth:Q81244,
+        auth:Q937 ;
+    bkg:wrote book:Q471726 .
+
+auth:Q178403 a bkg:Author ;
+    rdfs:label "Irvine Welsh"@en ;
+    bkg:influencedBy auth:Q151820,
+        auth:Q188176 ;
+    bkg:wrote book:Q123322 .
+
+auth:Q182870 a bkg:Author ;
+    rdfs:label "Mario Puzo"@en ;
+    bkg:influencedBy auth:Q9711 ;
+    bkg:wrote book:Q243556,
+        book:Q523914 .
+
+auth:Q18430 a bkg:Author ;
+    rdfs:label "Joseph Stiglitz"@en ;
+    bkg:influencedBy auth:Q102454,
+        auth:Q157268,
+        auth:Q186042,
+        auth:Q355245,
+        auth:Q9317 ;
+    bkg:wrote book:Q27466 .
+
+auth:Q184785 a bkg:Author ;
+    rdfs:label "Anne Rice"@en ;
+    bkg:wrote book:Q176470,
+        book:Q649015 .
+
+auth:Q190220 a bkg:Author ;
+    rdfs:label "Philip Pullman"@en ;
+    bkg:influencedBy auth:Q28494,
+        auth:Q41513,
+        auth:Q79759 ;
+    bkg:wrote book:Q129929,
+        book:Q169976,
+        book:Q472208 .
+
+auth:Q193116 a bkg:Author ;
+    rdfs:label "Khaled Hosseini"@en ;
+    bkg:wrote book:Q637839 .
+
+auth:Q1987300 a bkg:Author ;
+    rdfs:label "Fiona McIntosh"@en ;
+    bkg:wrote book:Q594093 .
+
+auth:Q205739 a bkg:Author ;
+    rdfs:label "Alan Moore"@en ;
+    bkg:influencedBy auth:Q188176 ;
+    bkg:wrote book:Q128444 .
+
+auth:Q205927 a bkg:Author ;
+    rdfs:label "Robert Nozick"@en ;
+    bkg:wrote book:Q486385 .
+
+auth:Q20877665 a bkg:Author ;
+    rdfs:label "Haden Blackman"@en ;
+    bkg:wrote book:Q55285 .
+
+auth:Q209641 a bkg:Author ;
+    rdfs:label "John le Carré"@en ;
+    bkg:influencedBy auth:Q128560 ;
+    bkg:wrote book:Q468071,
+        book:Q582811 .
+
+auth:Q2110818 a bkg:Author ;
+    rdfs:label "Roland Smith"@en ;
+    bkg:wrote book:Q130438 .
+
+auth:Q212727 a bkg:Author ;
+    rdfs:label "Rick Riordan"@en ;
+    bkg:wrote book:Q130438,
+        book:Q501514 .
+
+auth:Q217619 a bkg:Author ;
+    rdfs:label "Anthony Burgess"@en ;
+    bkg:wrote book:Q208461 .
+
+auth:Q219780 a bkg:Author ;
+    rdfs:label "Hunter S. Thompson"@en ;
+    bkg:wrote book:Q772435 .
+
+auth:Q220883 a bkg:Author ;
+    rdfs:label "Poul Anderson"@en ;
+    bkg:wrote book:Q630341 .
+
+auth:Q224113 a bkg:Author ;
+    rdfs:label "Robert Ludlum"@en ;
+    bkg:wrote book:Q114761,
+        book:Q592078 .
+
+auth:Q228624 a bkg:Author ;
+    rdfs:label "Suzanne Collins"@en ;
+    bkg:wrote book:Q11678,
+        book:Q40354 .
+
+auth:Q229369 a bkg:Author ;
+    rdfs:label "Lois McMaster Bujold"@en ;
+    bkg:wrote book:Q594567,
+        book:Q676256 .
+
+auth:Q229996 a bkg:Author ;
+    rdfs:label "Jean M. Auel"@en ;
+    bkg:wrote book:Q550208 .
+
+auth:Q233033 a bkg:Author ;
+    rdfs:label "Margaret Weis"@en ;
+    bkg:wrote book:Q506898,
+        book:Q633329 .
+
+auth:Q233956 a bkg:Author ;
+    rdfs:label "Muriel Spark"@en ;
+    bkg:influencedBy auth:Q128560,
+        auth:Q79025,
+        auth:Q81960 ;
+    bkg:wrote book:Q31179 .
+
+auth:Q234403 a bkg:Author ;
+    rdfs:label "Robin Hobb"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q2344235 a bkg:Author ;
+    rdfs:label "Stephanie Nolen"@en ;
+    bkg:wrote book:Q221085 .
+
+auth:Q235014 a bkg:Author ;
+    rdfs:label "Sophie Kinsella"@en ;
+    bkg:wrote book:Q521331 .
+
+auth:Q235291 a bkg:Author ;
+    rdfs:label "Jung Chang"@en ;
+    bkg:wrote book:Q27544 .
+
+auth:Q235364 a bkg:Author ;
+    rdfs:label "Cassandra Clare"@en ;
+    bkg:wrote book:Q589106 .
+
+auth:Q236829 a bkg:Author ;
+    rdfs:label "Diana Wynne Jones"@en ;
+    bkg:wrote book:Q132269 .
+
+auth:Q237235 a bkg:Author ;
+    rdfs:label "Edith Pargeter"@en ;
+    bkg:wrote book:Q115636 .
+
+auth:Q237242 a bkg:Author ;
+    rdfs:label "Beryl Bainbridge"@en ;
+    bkg:wrote book:Q208911 .
+
+auth:Q237555 a bkg:Author ;
+    rdfs:label "Sarah Waters"@en ;
+    bkg:wrote book:Q38187 .
+
+auth:Q2377808 a bkg:Author ;
+    rdfs:label "Patrick Carman"@en ;
+    bkg:wrote book:Q130438 .
+
+auth:Q238124 a bkg:Author ;
+    rdfs:label "Lois Lowry"@en ;
+    bkg:wrote book:Q258953 .
+
+auth:Q240212 a bkg:Author ;
+    rdfs:label "Philippa Gregory"@en ;
+    bkg:wrote book:Q470044 .
+
+auth:Q2408506 a bkg:Author ;
+    rdfs:label "John Birmingham"@en ;
+    bkg:wrote book:Q181231 .
+
+auth:Q248867 a bkg:Author ;
+    rdfs:label "James Blish"@en ;
+    bkg:wrote book:Q586831 .
+
+auth:Q249197 a bkg:Author ;
+    rdfs:label "Frederick Forsyth"@en ;
+    bkg:wrote book:Q26085 .
+
+auth:Q2594458 a bkg:Author ;
+    rdfs:label "Steven Barnes"@en ;
+    bkg:wrote book:Q589959 .
+
+auth:Q259653 a bkg:Author ;
+    rdfs:label "Alexandra Ripley"@en ;
+    bkg:wrote book:Q241348 .
+
+auth:Q26116 a bkg:Author ;
+    rdfs:label "Paolo Bacigalupi"@en ;
+    bkg:influencedBy auth:Q272610 ;
+    bkg:wrote book:Q92630 .
+
+auth:Q264283 a bkg:Author ;
+    rdfs:label "Jennifer Egan"@en ;
+    bkg:wrote book:Q213300 .
+
+auth:Q265603 a bkg:Author ;
+    rdfs:label "Eva Ibbotson"@en ;
+    bkg:wrote book:Q643901 .
+
+auth:Q268181 a bkg:Author ;
+    rdfs:label "Chuck Palahniuk"@en ;
+    bkg:influencedBy auth:Q241583,
+        auth:Q244390,
+        auth:Q310048,
+        auth:Q481871,
+        auth:Q6769414 ;
+    bkg:wrote book:Q568143 .
+
+auth:Q268495 a bkg:Author ;
+    rdfs:label "Anita Desai"@en ;
+    bkg:wrote book:Q763193 .
+
+auth:Q270635 a bkg:Author ;
+    rdfs:label "Patricia Highsmith"@en ;
+    bkg:wrote book:Q472026 .
+
+auth:Q270648 a bkg:Author ;
+    rdfs:label "P. D. James"@en ;
+    bkg:influencedBy auth:Q106740,
+        auth:Q107002,
+        auth:Q128560,
+        auth:Q266205,
+        auth:Q35064,
+        auth:Q36322 ;
+    bkg:wrote book:Q582825 .
+
+auth:Q272615 a bkg:Author ;
+    rdfs:label "John Langshaw Austin"@en ;
+    bkg:influencedBy auth:Q868 ;
+    bkg:wrote book:Q230356 .
+
+auth:Q276607 a bkg:Author ;
+    rdfs:label "Kate Thompson"@en ;
+    bkg:wrote book:Q244897 .
+
+auth:Q279305 a bkg:Author ;
+    rdfs:label "Anthony Horowitz"@en ;
+    bkg:wrote book:Q167007 .
+
+auth:Q28170 a bkg:Author ;
+    rdfs:label "Max Brooks"@en ;
+    bkg:wrote book:Q28172 .
+
+auth:Q291025 a bkg:Author ;
+    rdfs:label "Kristin Cashore"@en ;
+    bkg:wrote book:Q595766 .
+
+auth:Q294583 a bkg:Author ;
+    rdfs:label "Sam Shepard"@en ;
+    bkg:wrote book:Q631891 .
+
+auth:Q294625 a bkg:Author ;
+    rdfs:label "Clifford D. Simak"@en ;
+    bkg:wrote book:Q478110 .
+
+auth:Q296256 a bkg:Author ;
+    rdfs:label "Philip José Farmer"@en ;
+    bkg:wrote book:Q194619,
+        book:Q516848 .
+
+auth:Q297538 a bkg:Author ;
+    rdfs:label "Dan Simmons"@en ;
+    bkg:influencedBy auth:Q155855,
+        auth:Q2165671,
+        auth:Q2707355,
+        auth:Q311253,
+        auth:Q312632 ;
+    bkg:wrote book:Q489581 .
+
+auth:Q3036044 a bkg:Author ;
+    rdfs:label "Donald Kingsbury"@en ;
+    bkg:wrote book:Q565105 .
+
+auth:Q3048767 a bkg:Author ;
+    rdfs:label "Edwin Black"@en ;
+    bkg:wrote book:Q770859 .
+
+auth:Q310379 a bkg:Author ;
+    rdfs:label "John Irving"@en ;
+    bkg:wrote book:Q13911,
+        book:Q187942,
+        book:Q205975,
+        book:Q479086,
+        book:Q579837 .
+
+auth:Q311606 a bkg:Author ;
+    rdfs:label "Daniel H. Wilson"@en ;
+    bkg:wrote book:Q551345 .
+
+auth:Q31166582 a bkg:Author ;
+    rdfs:label "Voronica Whitney-Robinson"@en ;
+    bkg:wrote book:Q55285 .
+
+auth:Q311704 a bkg:Author ;
+    rdfs:label "Jeff Kinney"@en ;
+    bkg:wrote book:Q40819 .
+
+auth:Q311744 a bkg:Author ;
+    rdfs:label "Dennis Lehane"@en ;
+    bkg:wrote book:Q588517 .
+
+auth:Q312405 a bkg:Author ;
+    rdfs:label "Vernor Vinge"@en ;
+    bkg:influencedBy auth:Q337373 ;
+    bkg:wrote book:Q471679 .
+
+auth:Q312532 a bkg:Author ;
+    rdfs:label "Ian Kershaw"@en ;
+    bkg:wrote book:Q40496 .
+
+auth:Q312579 a bkg:Author ;
+    rdfs:label "Iain Banks"@en ;
+    bkg:wrote book:Q151337,
+        book:Q261728,
+        book:Q467139,
+        book:Q589485,
+        book:Q684818,
+        book:Q74362 .
+
+auth:Q312641 a bkg:Author ;
+    rdfs:label "Frederik Pohl"@en ;
+    bkg:wrote book:Q467017,
+        book:Q538742 .
+
+auth:Q312853 a bkg:Author ;
+    rdfs:label "Neal Stephenson"@en ;
+    bkg:influencedBy auth:Q171091,
+        auth:Q188987,
+        auth:Q312995,
+        auth:Q313246,
+        auth:Q35155 ;
+    bkg:wrote book:Q487364,
+        book:Q534975,
+        book:Q768389 .
+
+auth:Q313038 a bkg:Author ;
+    rdfs:label "Jeff Lindsay"@en ;
+    bkg:wrote book:Q608616 .
+
+auth:Q313193 a bkg:Author ;
+    rdfs:label "Michael Connelly"@en ;
+    bkg:wrote book:Q599495,
+        book:Q608534 .
+
+auth:Q313466 a bkg:Author ;
+    rdfs:label "Michael Chabon"@en ;
+    bkg:influencedBy auth:Q140201,
+        auth:Q15531308,
+        auth:Q1633025,
+        auth:Q170509,
+        auth:Q180377,
+        auth:Q181659,
+        auth:Q181677,
+        auth:Q187019,
+        auth:Q201732,
+        auth:Q214642,
+        auth:Q276032,
+        auth:Q312632,
+        auth:Q316138,
+        auth:Q336151,
+        auth:Q35155,
+        auth:Q353869,
+        auth:Q35610,
+        auth:Q36591,
+        auth:Q43444,
+        auth:Q544611,
+        auth:Q5878,
+        auth:Q7199,
+        auth:Q82083,
+        auth:Q909,
+        auth:Q93354,
+        auth:Q951010 ;
+    bkg:wrote book:Q603645 .
+
+auth:Q313981 a bkg:Author ;
+    rdfs:label "Robert Harris"@en ;
+    bkg:wrote book:Q176192 .
+
+auth:Q314416 a bkg:Author ;
+    rdfs:label "Stephen Baxter"@en ;
+    bkg:wrote book:Q526802,
+        book:Q74378 .
+
+auth:Q315069 a bkg:Author ;
+    rdfs:label "David Brin"@en ;
+    bkg:wrote book:Q467225 .
+
+auth:Q316313 a bkg:Author ;
+    rdfs:label "L. Sprague de Camp"@en ;
+    bkg:wrote book:Q767003 .
+
+auth:Q316610 a bkg:Author ;
+    rdfs:label "Larry Niven"@en ;
+    bkg:wrote book:Q471741,
+        book:Q537659,
+        book:Q589959 .
+
+auth:Q316785 a bkg:Author ;
+    rdfs:label "Greg Egan"@en ;
+    bkg:wrote book:Q137536 .
+
+auth:Q318099 a bkg:Author ;
+    rdfs:label "Harlan Coben"@en ;
+    bkg:wrote book:Q152629 .
+
+auth:Q3181316 a bkg:Author ;
+    rdfs:label "John D. Voelker"@en ;
+    bkg:wrote book:Q488350 .
+
+auth:Q319196 a bkg:Author ;
+    rdfs:label "China Miéville"@en ;
+    bkg:influencedBy auth:Q140201,
+        auth:Q146763,
+        auth:Q148886,
+        auth:Q169566,
+        auth:Q181659,
+        auth:Q1929962,
+        auth:Q312632,
+        auth:Q314966,
+        auth:Q316138,
+        auth:Q361149,
+        auth:Q41166,
+        auth:Q4985,
+        auth:Q5686,
+        auth:Q6231502,
+        auth:Q6515,
+        auth:Q708581,
+        auth:Q905,
+        auth:Q919277,
+        auth:Q963799 ;
+    bkg:wrote book:Q602216 .
+
+auth:Q3243146 a bkg:Author ;
+    rdfs:label "Mohsin Hamid"@en ;
+    bkg:influencedBy auth:Q134798,
+        auth:Q34670,
+        auth:Q36591 ;
+    bkg:wrote book:Q597545 .
+
+auth:Q333246 a bkg:Author ;
+    rdfs:label "Robert Sheckley"@en ;
+    bkg:wrote book:Q519935 .
+
+auth:Q3335610 a bkg:Author ;
+    rdfs:label "Nancy Springer"@en ;
+    bkg:wrote book:Q238747 .
+
+auth:Q335232 a bkg:Author ;
+    rdfs:label "E. L. Doctorow"@en ;
+    bkg:influencedBy auth:Q28494,
+        auth:Q312407 ;
+    bkg:wrote book:Q183363 .
+
+auth:Q338151 a bkg:Author ;
+    rdfs:label "Robert J. Shiller"@en ;
+    bkg:wrote book:Q579719 .
+
+auth:Q339577 a bkg:Author ;
+    rdfs:label "Kevin J. Anderson"@en ;
+    bkg:wrote book:Q248899 .
+
+auth:Q34253 a bkg:Author ;
+    rdfs:label "Linus Torvalds"@en ;
+    bkg:wrote book:Q185705 .
+
+auth:Q34660 a bkg:Author ;
+    rdfs:label "Q34660"@en ;
+    bkg:influencedBy auth:Q131333,
+        auth:Q133054,
+        auth:Q183167,
+        auth:Q231708,
+        auth:Q242571,
+        auth:Q366643,
+        auth:Q39829,
+        auth:Q453410,
+        auth:Q457856,
+        auth:Q79904,
+        auth:Q80137,
+        auth:Q9204 ;
+    bkg:wrote book:Q165068,
+        book:Q192258,
+        book:Q194424,
+        book:Q25750,
+        book:Q43361,
+        book:Q46751,
+        book:Q46887,
+        book:Q47598 .
+
+auth:Q346805 a bkg:Author ;
+    rdfs:label "Peter Lerangis"@en ;
+    bkg:wrote book:Q130438 .
+
+auth:Q3481983 a bkg:Author ;
+    rdfs:label "Sherwood Smith"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q348916 a bkg:Author ;
+    rdfs:label "Bruce Chatwin"@en ;
+    bkg:influencedBy auth:Q107002,
+        auth:Q218698,
+        auth:Q761983,
+        auth:Q909 ;
+    bkg:wrote book:Q474895 .
+
+auth:Q34981 a bkg:Author ;
+    rdfs:label "Isaac Asimov"@en ;
+    bkg:wrote book:Q467818,
+        book:Q468132,
+        book:Q469862,
+        book:Q482085,
+        book:Q497280,
+        book:Q498727,
+        book:Q583366,
+        book:Q603705,
+        book:Q661438,
+        book:Q666538,
+        book:Q772495 .
+
+auth:Q350404 a bkg:Author ;
+    rdfs:label "Q350404"@en ;
+    bkg:wrote book:Q519858 .
+
+auth:Q353137 a bkg:Author ;
+    rdfs:label "Tracy Hickman"@en ;
+    bkg:wrote book:Q506898 .
+
+auth:Q3557710 a bkg:Author ;
+    rdfs:label "Victoria Strauss"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q356428 a bkg:Author ;
+    rdfs:label "Darren O'Shaughnessy"@en ;
+    bkg:wrote book:Q478098,
+        book:Q598136 .
+
+auth:Q358188 a bkg:Author ;
+    rdfs:label "Jeffery Deaver"@en ;
+    bkg:wrote book:Q513696 .
+
+auth:Q358312 a bkg:Author ;
+    rdfs:label "Gregory Benford"@en ;
+    bkg:wrote book:Q253344 .
+
+auth:Q361562 a bkg:Author ;
+    rdfs:label "Amos Tutuola"@en ;
+    bkg:wrote book:Q774053 .
+
+auth:Q361617 a bkg:Author ;
+    rdfs:label "E. B. White"@en ;
+    bkg:wrote book:Q45735 .
+
+auth:Q363810 a bkg:Author ;
+    rdfs:label "Tim Powers"@en ;
+    bkg:wrote book:Q128324,
+        book:Q151550,
+        book:Q610680 .
+
+auth:Q364189 a bkg:Author ;
+    rdfs:label "Peter Straub"@en ;
+    bkg:influencedBy auth:Q169566,
+        auth:Q540166 ;
+    bkg:wrote book:Q239725 .
+
+auth:Q365955 a bkg:Author ;
+    rdfs:label "Hallgrímur Helgason"@en ;
+    bkg:wrote book:Q8650 .
+
+auth:Q366150 a bkg:Author ;
+    rdfs:label "Terry Goodkind"@en ;
+    bkg:influencedBy auth:Q132524 ;
+    bkg:wrote book:Q255711 .
+
+auth:Q366575 a bkg:Author ;
+    rdfs:label "Robert M. Pirsig"@en ;
+    bkg:wrote book:Q189446 .
+
+auth:Q3754645 a bkg:Author ;
+    rdfs:label "Patricia MacLachlan"@en ;
+    bkg:wrote book:Q253337 .
+
+auth:Q376071 a bkg:Author ;
+    rdfs:label "Gordon Dahlquist"@en ;
+    bkg:wrote book:Q473082 .
+
+auth:Q37767 a bkg:Author ;
+    rdfs:label "T. S. Eliot"@en ;
+    bkg:influencedBy auth:Q1067,
+        auth:Q1398,
+        auth:Q140412,
+        auth:Q151936,
+        auth:Q163366,
+        auth:Q173869,
+        auth:Q179126,
+        auth:Q183167,
+        auth:Q183266,
+        auth:Q200639,
+        auth:Q3048,
+        auth:Q40213,
+        auth:Q501,
+        auth:Q5686,
+        auth:Q6691,
+        auth:Q692,
+        auth:Q767,
+        auth:Q79759,
+        auth:Q81438,
+        auth:Q82925,
+        auth:Q9312,
+        auth:Q93354 ;
+    bkg:wrote book:Q671859 .
+
+auth:Q3785606 a bkg:Author ;
+    rdfs:label "Hilary Liftin"@en ;
+    bkg:wrote book:Q53817 .
+
+auth:Q3905853 a bkg:Author ;
+    rdfs:label "Pittacus Lore"@en ;
+    bkg:wrote book:Q608378 .
+
+auth:Q40479 a bkg:Author ;
+    rdfs:label "David Mitchell"@en ;
+    bkg:influencedBy auth:Q134798,
+        auth:Q154756,
+        auth:Q210059,
+        auth:Q310048,
+        auth:Q313077,
+        auth:Q36591 ;
+    bkg:wrote book:Q40205 .
+
+auth:Q4235 a bkg:Author ;
+    rdfs:label "Miley Cyrus"@en ;
+    bkg:influencedBy auth:Q11975,
+        auth:Q1438730,
+        auth:Q1744,
+        auth:Q179257,
+        auth:Q180453,
+        auth:Q229379,
+        auth:Q231106,
+        auth:Q303,
+        auth:Q62372907,
+        auth:Q768621 ;
+    bkg:wrote book:Q53817 .
+
+auth:Q430276 a bkg:Author ;
+    rdfs:label "Andrew Keen"@en ;
+    bkg:wrote book:Q83880 .
+
+auth:Q43293 a bkg:Author ;
+    rdfs:label "J. M. Coetzee"@en ;
+    bkg:influencedBy auth:Q38392 ;
+    bkg:wrote book:Q761474 .
+
+auth:Q442474 a bkg:Author ;
+    rdfs:label "Diana L. Paxson"@en ;
+    bkg:wrote book:Q774785 .
+
+auth:Q44306 a bkg:Author ;
+    rdfs:label "Q44306"@en ;
+    bkg:influencedBy auth:Q154756,
+        auth:Q36591,
+        auth:Q49081,
+        auth:Q5878 ;
+    bkg:wrote book:Q191288,
+        book:Q224965,
+        book:Q625764 .
+
+auth:Q44461 a bkg:Author ;
+    rdfs:label "Richard Dawkins"@en ;
+    bkg:influencedBy auth:Q1035,
+        auth:Q153890,
+        auth:Q15451,
+        auth:Q215263,
+        auth:Q216723,
+        auth:Q323207,
+        auth:Q33760,
+        auth:Q42,
+        auth:Q49081,
+        auth:Q552019,
+        auth:Q918334 ;
+    bkg:wrote book:Q44920 .
+
+auth:Q445765 a bkg:Author ;
+    rdfs:label "Dave Gibbons"@en ;
+    bkg:wrote book:Q128444 .
+
+auth:Q44593 a bkg:Author ;
+    rdfs:label "V. S. Naipaul"@en ;
+    bkg:wrote book:Q482567 .
+
+auth:Q448425 a bkg:Author ;
+    rdfs:label "Karin Slaughter"@en ;
+    bkg:wrote book:Q180596 .
+
+auth:Q449085 a bkg:Author ;
+    rdfs:label "Dodie Smith"@en ;
+    bkg:wrote book:Q8563 .
+
+auth:Q452404 a bkg:Author ;
+    rdfs:label "Tom Robbins"@en ;
+    bkg:wrote book:Q112407 .
+
+auth:Q454515 a bkg:Author ;
+    rdfs:label "Stephen J. Dubner"@en ;
+    bkg:wrote book:Q576392 .
+
+auth:Q455780 a bkg:Author ;
+    rdfs:label "Harry Turtledove"@en ;
+    bkg:wrote book:Q592815,
+        book:Q767003 .
+
+auth:Q458860 a bkg:Author ;
+    rdfs:label "Jude Watson"@en ;
+    bkg:wrote book:Q130438 .
+
+auth:Q46248 a bkg:Author ;
+    rdfs:label "Terry Pratchett"@en ;
+    bkg:influencedBy auth:Q183167,
+        auth:Q207515,
+        auth:Q312632,
+        auth:Q366643,
+        auth:Q436801 ;
+    bkg:wrote book:Q32136,
+        book:Q469969,
+        book:Q595128 .
+
+auth:Q464700 a bkg:Author ;
+    rdfs:label "Winston Groom"@en ;
+    bkg:wrote book:Q552213 .
+
+auth:Q465179 a bkg:Author ;
+    rdfs:label "Marion Zimmer Bradley"@en ;
+    bkg:wrote book:Q522575,
+        book:Q605697,
+        book:Q774785 .
+
+auth:Q4671 a bkg:Author ;
+    rdfs:label "Matthew Kneale"@en ;
+    bkg:wrote book:Q4672 .
+
+auth:Q4678594 a bkg:Author ;
+    rdfs:label "Adam-Troy Castro"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q4707654 a bkg:Author ;
+    rdfs:label "Alan Rodgers"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q47108776 a bkg:Author ;
+    rdfs:label "Robert Dimery"@en ;
+    bkg:wrote book:Q164932 .
+
+auth:Q4731 a bkg:Author ;
+    rdfs:label "M. J. Hyland"@en ;
+    bkg:wrote book:Q4795 .
+
+auth:Q49072 a bkg:Author ;
+    rdfs:label "Herman Wouk"@en ;
+    bkg:wrote book:Q63998,
+        book:Q64095 .
+
+auth:Q49074 a bkg:Author ;
+    rdfs:label "Kurt Vonnegut"@en ;
+    bkg:influencedBy auth:Q131149,
+        auth:Q1512,
+        auth:Q19185,
+        auth:Q3335,
+        auth:Q439204,
+        auth:Q5686,
+        auth:Q7245 ;
+    bkg:wrote book:Q41359,
+        book:Q649267 .
+
+auth:Q495420 a bkg:Author ;
+    rdfs:label "David Baldacci"@en ;
+    bkg:influencedBy auth:Q128560,
+        auth:Q176909,
+        auth:Q182658 ;
+    bkg:wrote book:Q130438 .
+
+auth:Q4960653 a bkg:Author ;
+    rdfs:label "Brenda Clough"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q503095 a bkg:Author ;
+    rdfs:label "Ted Chiang"@en ;
+    bkg:wrote book:Q467388 .
+
+auth:Q506120 a bkg:Author ;
+    rdfs:label "Robert Gellately"@en ;
+    bkg:wrote book:Q25435 .
+
+auth:Q5076375 a bkg:Author ;
+    rdfs:label "Charles Coleman Finlay"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q526744 a bkg:Author ;
+    rdfs:label "Richard A. Knaak"@en ;
+    bkg:wrote book:Q772528 .
+
+auth:Q528826 a bkg:Author ;
+    rdfs:label "William Trevor"@en ;
+    bkg:wrote book:Q4791 .
+
+auth:Q5332730 a bkg:Author ;
+    rdfs:label "Gordon Korman"@en ;
+    bkg:wrote book:Q130438 .
+
+auth:Q536861 a bkg:Author ;
+    rdfs:label "Rona Jaffe"@en ;
+    bkg:wrote book:Q589841 .
+
+auth:Q540024 a bkg:Author ;
+    rdfs:label "Margaret Peterson Haddix"@en ;
+    bkg:wrote book:Q130438 .
+
+auth:Q541868 a bkg:Author ;
+    rdfs:label "James Goldman"@en ;
+    bkg:wrote book:Q615544 .
+
+auth:Q551377 a bkg:Author ;
+    rdfs:label "Peter Lamborn Wilson"@en ;
+    bkg:influencedBy auth:Q181707,
+        auth:Q193236,
+        auth:Q211731,
+        auth:Q314215,
+        auth:Q9358 ;
+    bkg:wrote book:Q495888 .
+
+auth:Q552025 a bkg:Author ;
+    rdfs:label "Samuel Youd"@en ;
+    bkg:influencedBy auth:Q42511 ;
+    bkg:wrote book:Q576737 .
+
+auth:Q553137 a bkg:Author ;
+    rdfs:label "Louis Sachar"@en ;
+    bkg:wrote book:Q175421 .
+
+auth:Q562163 a bkg:Author ;
+    rdfs:label "Michael Scott"@en ;
+    bkg:wrote book:Q38564,
+        book:Q525132,
+        book:Q767362 .
+
+auth:Q57085 a bkg:Author ;
+    rdfs:label "Erich Fromm"@en ;
+    bkg:influencedBy auth:Q123861,
+        auth:Q152393,
+        auth:Q35802,
+        auth:Q6512,
+        auth:Q76548,
+        auth:Q76709,
+        auth:Q9061,
+        auth:Q9215,
+        auth:Q9333 ;
+    bkg:wrote book:Q488331 .
+
+auth:Q578031 a bkg:Author ;
+    rdfs:label "Jerry Pournelle"@en ;
+    bkg:wrote book:Q471741,
+        book:Q589959 .
+
+auth:Q588653 a bkg:Author ;
+    rdfs:label "David Weber"@en ;
+    bkg:wrote book:Q196151 .
+
+auth:Q5894750 a bkg:Author ;
+    rdfs:label "Norton Juster"@en ;
+    bkg:wrote book:Q149993 .
+
+auth:Q59896 a bkg:Author ;
+    rdfs:label "E. L. James"@en ;
+    bkg:wrote book:Q557867 .
+
+auth:Q60025 a bkg:Author ;
+    rdfs:label "Hannah Arendt"@en ;
+    bkg:influencedBy auth:Q1399,
+        auth:Q140694,
+        auth:Q15975,
+        auth:Q165792,
+        auth:Q183167,
+        auth:Q190089,
+        auth:Q302,
+        auth:Q48301,
+        auth:Q57255,
+        auth:Q58586,
+        auth:Q61078,
+        auth:Q6512,
+        auth:Q7199,
+        auth:Q76509,
+        auth:Q77148,
+        auth:Q8018,
+        auth:Q859,
+        auth:Q868,
+        auth:Q905,
+        auth:Q9061,
+        auth:Q913,
+        auth:Q9200,
+        auth:Q9312 ;
+    bkg:wrote book:Q480743 .
+
+auth:Q606557 a bkg:Author ;
+    rdfs:label "Eric Carle"@en ;
+    bkg:wrote book:Q491657 .
+
+auth:Q607588 a bkg:Author ;
+    rdfs:label "Liu Cixin"@en ;
+    bkg:influencedBy auth:Q3335,
+        auth:Q33977,
+        auth:Q47087,
+        auth:Q7243 ;
+    bkg:wrote book:Q607112 .
+
+auth:Q6132167 a bkg:Author ;
+    rdfs:label "James D. Macdonald"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q659747 a bkg:Author ;
+    rdfs:label "Bryan Sykes"@en ;
+    bkg:wrote book:Q494069 .
+
+auth:Q6969361 a bkg:Author ;
+    rdfs:label "Nathan Stoltzfus"@en ;
+    bkg:wrote book:Q25435 .
+
+auth:Q711137 a bkg:Author ;
+    rdfs:label "Brian Herbert"@en ;
+    bkg:wrote book:Q248899 .
+
+auth:Q711746 a bkg:Author ;
+    rdfs:label "John Twelve Hawks"@en ;
+    bkg:wrote book:Q493191 .
+
+auth:Q712596 a bkg:Author ;
+    rdfs:label "Daniel Silva"@en ;
+    bkg:wrote book:Q115653,
+        book:Q115656,
+        book:Q116321,
+        book:Q116373,
+        book:Q116381,
+        book:Q116801,
+        book:Q116950,
+        book:Q117108,
+        book:Q81007,
+        book:Q81316 .
+
+auth:Q7150140 a bkg:Author ;
+    rdfs:label "Paul Davids"@en ;
+    bkg:wrote book:Q767890 .
+
+auth:Q7152450 a bkg:Author ;
+    rdfs:label "Paul Melko"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q7174605 a bkg:Author ;
+    rdfs:label "Peter Heck"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q7191775 a bkg:Author ;
+    rdfs:label "Q7191775"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q720306 a bkg:Author ;
+    rdfs:label "Andrew Miller"@en ;
+    bkg:wrote book:Q4804 .
+
+auth:Q721999 a bkg:Author ;
+    rdfs:label "Raymond Benson"@en ;
+    bkg:wrote book:Q770474 .
+
+auth:Q726264 a bkg:Author ;
+    rdfs:label "Israel Finkelstein"@en ;
+    bkg:wrote book:Q27453 .
+
+auth:Q72653 a bkg:Author ;
+    rdfs:label "Danielle Steel"@en ;
+    bkg:wrote book:Q615651 .
+
+auth:Q730969 a bkg:Author ;
+    rdfs:label "Steven D. Levitt"@en ;
+    bkg:influencedBy auth:Q191020 ;
+    bkg:wrote book:Q576392 .
+
+auth:Q732338 a bkg:Author ;
+    rdfs:label "Rohinton Mistry"@en ;
+    bkg:wrote book:Q38213,
+        book:Q48829 .
+
+auth:Q733417 a bkg:Author ;
+    rdfs:label "David Storey"@en ;
+    bkg:wrote book:Q208825 .
+
+auth:Q7345 a bkg:Author ;
+    rdfs:label "Dan Brown"@en ;
+    bkg:wrote book:Q182502,
+        book:Q202531,
+        book:Q207964,
+        book:Q211006,
+        book:Q81689 .
+
+auth:Q742632 a bkg:Author ;
+    rdfs:label "Douglas Preston"@en ;
+    bkg:wrote book:Q491946 .
+
+auth:Q747459 a bkg:Author ;
+    rdfs:label "Gene Youngblood"@en ;
+    bkg:wrote book:Q471920 .
+
+auth:Q7493045 a bkg:Author ;
+    rdfs:label "Sheila Finch"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q7920810 a bkg:Author ;
+    rdfs:label "Vera Nazarian"@en ;
+    bkg:wrote book:Q756199 .
+
+auth:Q793895 a bkg:Author ;
+    rdfs:label "Lincoln Child"@en ;
+    bkg:wrote book:Q491946 .
+
+auth:Q82032 a bkg:Author ;
+    rdfs:label "Christopher Tolkien"@en ;
+    bkg:influencedBy auth:Q892 ;
+    bkg:wrote book:Q535639 .
+
+auth:Q82104 a bkg:Author ;
+    rdfs:label "Ian Fleming"@en ;
+    bkg:wrote book:Q161191,
+        book:Q26541,
+        book:Q659731 .
+
+auth:Q861482 a bkg:Author ;
+    rdfs:label "Christopher Moore"@en ;
+    bkg:wrote book:Q18725 .
+
+auth:Q910538 a bkg:Author ;
+    rdfs:label "Linda Sue Park"@en ;
+    bkg:wrote book:Q130438 .
+
+auth:Q913061 a bkg:Author ;
+    rdfs:label "Brian Selznick"@en ;
+    bkg:wrote book:Q140036 .
+
+auth:Q913403 a bkg:Author ;
+    rdfs:label "Mike Resnick"@en ;
+    bkg:wrote book:Q764902 .
+
+auth:Q922053 a bkg:Author ;
+    rdfs:label "Robert Crais"@en ;
+    bkg:wrote book:Q616606 .
+
+auth:Q922071 a bkg:Author ;
+    rdfs:label "Glen Cook"@en ;
+    bkg:wrote book:Q585485 .
+
+auth:Q93157 a bkg:Author ;
+    rdfs:label "Eugene O'Neill"@en ;
+    bkg:influencedBy auth:Q5685 ;
+    bkg:wrote book:Q618430 .
+
+auth:Q93620 a bkg:Author ;
+    rdfs:label "Christopher Paolini"@en ;
+    bkg:wrote book:Q185449,
+        book:Q60672 .
+
+auth:Q937084 a bkg:Author ;
+    rdfs:label "Philip Reeve"@en ;
+    bkg:wrote book:Q595950 .
+
+auth:Q940902 a bkg:Author ;
+    rdfs:label "Scott Smith"@en ;
+    bkg:wrote book:Q474523 .
+
+auth:Q944204 a bkg:Author ;
+    rdfs:label "Patrick McCabe"@en ;
+    bkg:wrote book:Q43891 .
+
+auth:Q950949 a bkg:Author ;
+    rdfs:label "David Nicholls"@en ;
+    bkg:wrote book:Q232153 .
+
+auth:Q95120 a bkg:Author ;
+    rdfs:label "Tom Shippey"@en ;
+    bkg:wrote book:Q82888 .
+
+auth:Q963727 a bkg:Author ;
+    rdfs:label "Mark Z. Danielewski"@en ;
+    bkg:wrote book:Q521688 .
+
+auth:Q967307 a bkg:Author ;
+    rdfs:label "Jon Halliday"@en ;
+    bkg:wrote book:Q27544 .
+
+auth:Q9696 a bkg:Author ;
+    rdfs:label "John F. Kennedy"@en ;
+    bkg:wrote book:Q206795 .
+
+auth:Q977651 a bkg:Author ;
+    rdfs:label "John Marsden"@en ;
+    bkg:wrote book:Q137332,
+        book:Q137629 .
+
+bkg:hasGenre a owl:ObjectProperty ;
+    rdfs:domain bkg:Book ;
+    rdfs:range bkg:Genre .
+
+bkg:hasTopic a owl:ObjectProperty ;
+    rdfs:domain bkg:Book ;
+    rdfs:range bkg:Theme .
+
+bkg:influencedBy a owl:ObjectProperty ;
+    rdfs:domain bkg:Author ;
+    rdfs:range bkg:Author .
+
+bkg:similarTo a owl:ObjectProperty,
+        owl:SymmetricProperty ;
+    rdfs:domain bkg:Book ;
+    rdfs:range bkg:Book .
+
+bkg:wrote a owl:ObjectProperty ;
+    rdfs:domain bkg:Author ;
+    rdfs:range bkg:Book .
+
+auth:Q123078 a bkg:Author ;
+    rdfs:label "Robert A. Heinlein"@en ;
+    bkg:wrote book:Q492207,
+        book:Q764123 .
+
+auth:Q181677 a bkg:Author ;
+    rdfs:label "George R. R. Martin"@en ;
+    bkg:influencedBy auth:Q169566,
+        auth:Q181900,
+        auth:Q368224,
+        auth:Q38392,
+        auth:Q692,
+        auth:Q892 ;
+    bkg:wrote book:Q135165,
+        book:Q28306 .
+
+auth:Q187019 a bkg:Author ;
+    rdfs:label "Philip Roth"@en ;
+    bkg:influencedBy auth:Q105756,
+        auth:Q127332,
+        auth:Q151820,
+        auth:Q153670,
+        auth:Q170509,
+        auth:Q187765,
+        auth:Q233898,
+        auth:Q23434,
+        auth:Q299965,
+        auth:Q34670,
+        auth:Q351547,
+        auth:Q38392,
+        auth:Q399969,
+        auth:Q43444,
+        auth:Q43718,
+        auth:Q4583,
+        auth:Q506582,
+        auth:Q590787,
+        auth:Q6538,
+        auth:Q6882,
+        auth:Q7243,
+        auth:Q7245,
+        auth:Q79904,
+        auth:Q80137,
+        auth:Q82925,
+        auth:Q83059,
+        auth:Q905,
+        auth:Q93166,
+        auth:Q94500,
+        auth:Q991 ;
+    bkg:wrote book:Q470057,
+        book:Q597219 .
+
+auth:Q188987 a bkg:Author ;
+    rdfs:label "William Gibson"@en ;
+    bkg:influencedBy auth:Q188176 ;
+    bkg:wrote book:Q662029,
+        book:Q663215,
+        book:Q674586 .
+
+auth:Q210059 a bkg:Author ;
+    rdfs:label "Neil Gaiman"@en ;
+    bkg:wrote book:Q113610 .
+
+auth:Q214642 a bkg:Author ;
+    rdfs:label "Paul Auster"@en ;
+    bkg:wrote book:Q526792,
+        book:Q581485 .
+
+auth:Q234819 a bkg:Author ;
+    rdfs:label "Alice Munro"@en ;
+    bkg:influencedBy auth:Q105756 ;
+    bkg:wrote book:Q760771 .
+
+auth:Q25161 a bkg:Author ;
+    rdfs:label "Roald Dahl"@en ;
+    bkg:influencedBy auth:Q167768,
+        auth:Q34743,
+        auth:Q430182,
+        auth:Q467770,
+        auth:Q469681,
+        auth:Q5686 ;
+    bkg:wrote book:Q466605,
+        book:Q530406,
+        book:Q534970,
+        book:Q541006 .
+
+auth:Q272610 a bkg:Author ;
+    rdfs:label "Cormac McCarthy"@en ;
+    bkg:influencedBy auth:Q38392 ;
+    bkg:wrote book:Q581426 .
+
+auth:Q325130 a bkg:Author ;
+    rdfs:label "Richard Matheson"@en ;
+    bkg:wrote book:Q478035,
+        book:Q615807 .
+
+auth:Q35064 a bkg:Author ;
+    rdfs:label "Agatha Christie"@en ;
+    bkg:wrote book:Q197243,
+        book:Q251076,
+        book:Q29132,
+        book:Q467332,
+        book:Q568210,
+        book:Q582509,
+        book:Q588531,
+        book:Q629438,
+        book:Q654170,
+        book:Q656127,
+        book:Q662997,
+        book:Q759467 .
+
+auth:Q39829 a bkg:Author ;
+    rdfs:label "Stephen King"@en ;
+    bkg:influencedBy auth:Q16867,
+        auth:Q169566,
+        auth:Q239910,
+        auth:Q325130,
+        auth:Q36184,
+        auth:Q40640,
+        auth:Q5000863,
+        auth:Q5293417,
+        auth:Q558425 ;
+    bkg:wrote book:Q128510,
+        book:Q149552,
+        book:Q239725,
+        book:Q244884,
+        book:Q247364,
+        book:Q250123,
+        book:Q253925,
+        book:Q25551,
+        book:Q262540,
+        book:Q466790,
+        book:Q468121,
+        book:Q469889,
+        book:Q470937,
+        book:Q471024,
+        book:Q471029,
+        book:Q471142,
+        book:Q471926,
+        book:Q498561,
+        book:Q569790,
+        book:Q596874,
+        book:Q602288,
+        book:Q623394,
+        book:Q629445,
+        book:Q670552,
+        book:Q684614,
+        book:Q756675 .
+
+auth:Q40640 a bkg:Author ;
+    rdfs:label "Ray Bradbury"@en ;
+    bkg:influencedBy auth:Q148234,
+        auth:Q155855,
+        auth:Q16867,
+        auth:Q169566,
+        auth:Q18402116,
+        auth:Q19185,
+        auth:Q204868,
+        auth:Q21507289,
+        auth:Q233898,
+        auth:Q259364,
+        auth:Q276032,
+        auth:Q298242,
+        auth:Q314256,
+        auth:Q316788,
+        auth:Q3335,
+        auth:Q33977,
+        auth:Q39212,
+        auth:Q42511,
+        auth:Q47152,
+        auth:Q5686,
+        auth:Q692,
+        auth:Q81447,
+        auth:Q944409 ;
+    bkg:wrote book:Q202009 .
+
+auth:Q42 a bkg:Author ;
+    rdfs:label "Q42"@en ;
+    bkg:wrote book:Q187655,
+        book:Q468135,
+        book:Q578895,
+        book:Q721 .
+
+auth:Q47087 a bkg:Author ;
+    rdfs:label "Arthur C. Clarke"@en ;
+    bkg:influencedBy auth:Q337373 ;
+    bkg:wrote book:Q212718,
+        book:Q223784,
+        book:Q472368,
+        book:Q759559 .
+
+book:Q112407 a bkg:Book ;
+    rdfs:label "Even Cowgirls Get the Blues"@en ;
+    bkg:hasTopic them:fiction,
+        them:fiction_in_english,
+        them:literature,
+        them:young_women ;
+    bkg:pubYear 1976 .
+
+book:Q113610 a bkg:Book ;
+    rdfs:label "Neverwhere"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:novelization ;
+    bkg:pubYear 1996 .
+
+book:Q114761 a bkg:Book ;
+    rdfs:label "The Aquitaine Progression"@en ;
+    bkg:hasGenre genr:suspense_in_literature,
+        genr:thriller ;
+    bkg:hasTopic them:american_fiction,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_political,
+        them:fiction_suspense,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:large_type_books,
+        them:murder ;
+    bkg:pubYear 1984 .
+
+book:Q115636 a bkg:Book ;
+    rdfs:label "Saint Peter's Fair"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:historical_fiction,
+        genr:historical_mystery,
+        genr:mystery_fiction ;
+    bkg:pubYear 1981 .
+
+book:Q115653 a bkg:Book ;
+    rdfs:label "The Marching Season"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:mystery_fiction,
+        genr:spy_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:adventure_stories,
+        them:assassins,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:history,
+        them:terrorism,
+        them:thriller,
+        them:united_states ;
+    bkg:pubYear 1999 .
+
+book:Q115656 a bkg:Book ;
+    rdfs:label "The Rembrandt Affair"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:mystery_fiction,
+        genr:spy_fiction,
+        genr:thriller ;
+    bkg:pubYear 2010 .
+
+book:Q116321 a bkg:Book ;
+    rdfs:label "A Death in Vienna"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:spy_fiction ;
+    bkg:hasTopic them:allon_gabriel_fictitious_character_fiction,
+        them:art_restorers,
+        them:fiction,
+        them:fiction_suspense,
+        them:fiction_thrillers_general,
+        them:fiction_thrillers_suspense,
+        them:israelis,
+        them:large_type_books,
+        them:mystery_fiction,
+        them:thriller ;
+    bkg:pubYear 2004 .
+
+book:Q116373 a bkg:Book ;
+    rdfs:label "The English Assassin"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:spy_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:allon_gabriel_fictitious_character_fiction,
+        them:art,
+        them:art_restorers,
+        them:assassins,
+        them:fiction,
+        them:fiction_thrillers_suspense,
+        them:intelligence_officers,
+        them:israelis ;
+    bkg:pubYear 2002 .
+
+book:Q116381 a bkg:Book ;
+    rdfs:label "The Messenger"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:spy_fiction ;
+    bkg:hasTopic them:american_fiction,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_suspense,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:intelligence_officers,
+        them:large_type_books,
+        them:terrorism,
+        them:thriller ;
+    bkg:pubYear 2006 .
+
+book:Q11678 a bkg:Book ;
+    rdfs:label "The Hunger Games"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:dystopian_literature,
+        genr:post-apocalyptic_literature,
+        genr:science_fiction_literature,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:long_now_manual_for_civilization,
+        them:new_york_times_bestseller,
+        them:romans_nouvelles,
+        them:romans_nouvelles_etc_pour_la_jeunesse,
+        them:science_fiction ;
+    bkg:pubYear 2008 .
+
+book:Q116801 a bkg:Book ;
+    rdfs:label "The Mark of the Assassin"@en ;
+    bkg:hasGenre genr:spy_fiction ;
+    bkg:hasTopic them:adventure_stories,
+        them:detective_and_mystery_stories,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:intelligence_officers,
+        them:large_type_books,
+        them:murder,
+        them:thriller ;
+    bkg:pubYear 1998 .
+
+book:Q116950 a bkg:Book ;
+    rdfs:label "Prince of Fire"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:spy_fiction ;
+    bkg:hasTopic them:allon_gabriel_fictitious_character_fiction,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:intelligence_officers,
+        them:israelis,
+        them:large_type_books,
+        them:terrorism,
+        them:thriller ;
+    bkg:pubYear 2005 .
+
+book:Q117108 a bkg:Book ;
+    rdfs:label "The Confessor"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:spy_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:art_restorers,
+        them:assassins,
+        them:crimes_against,
+        them:fiction,
+        them:fiction_action_adventure,
+        them:fiction_thrillers_suspense,
+        them:holocaust_jewish_19391945,
+        them:israelis,
+        them:large_type_books ;
+    bkg:pubYear 2003 .
+
+book:Q117431 a bkg:Book ;
+    rdfs:label "Ada or Ardor: A Family Chronicle"@en ;
+    bkg:hasGenre genr:alternate_history,
+        genr:science_fiction ;
+    bkg:hasTopic them:81354,
+        them:american_literature,
+        them:brothers_and_sisters,
+        them:families,
+        them:fiction ;
+    bkg:pubYear 1969 .
+
+book:Q123322 a bkg:Book ;
+    rdfs:label "Porno"@en ;
+    bkg:pubYear 2002 .
+
+book:Q127149 a bkg:Book ;
+    rdfs:label "Lolita"@en ;
+    bkg:hasGenre genr:confessional_fiction,
+        genr:detective_fiction,
+        genr:erotica,
+        genr:found_manuscript,
+        genr:metafiction,
+        genr:tragicomedy ;
+    bkg:hasTopic them:american_fiction_fictional_works_by_one_author,
+        them:ficción,
+        them:fiction,
+        them:fiction_in_english,
+        them:large_type_books,
+        them:literary_fiction,
+        them:long_now_manual_for_civilization,
+        them:love_stories,
+        them:novela,
+        them:romans_nouvelles ;
+    bkg:pubYear 1955 .
+
+book:Q128324 a bkg:Book ;
+    rdfs:label "The Anubis Gates"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:historical_fantasy,
+        genr:science_fiction,
+        genr:steampunk,
+        genr:time-travel_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_science_fiction_general ;
+    bkg:pubYear 1983 .
+
+book:Q128510 a bkg:Book ;
+    rdfs:label "The Wedding Gig"@en ;
+    bkg:hasGenre genr:noir_fiction ;
+    bkg:pubYear 1980 .
+
+book:Q129929 a bkg:Book ;
+    rdfs:label "The Amber Spyglass"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:science_fiction,
+        genr:steampunk ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:reading_levelgrade_11,
+        them:reading_levelgrade_12,
+        them:science_fiction ;
+    bkg:pubYear 2000 .
+
+book:Q132062 a bkg:Book ;
+    rdfs:label "The Lathe of Heaven"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_literature,
+        them:fiction,
+        them:fiction_in_english,
+        them:fiction_science_fiction_general,
+        them:science_fiction ;
+    bkg:pubYear 1971 .
+
+book:Q132269 a bkg:Book ;
+    rdfs:label "Howl's Moving Castle"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:fantasy ;
+    bkg:pubYear 1986 .
+
+book:Q135165 a bkg:Book ;
+    rdfs:label "Dying of the Light"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:fiction,
+        them:fiction_in_english,
+        them:fiction_science_fiction_general,
+        them:imaginary_places,
+        them:large_type_books,
+        them:life_on_other_planets,
+        them:murder,
+        them:science_fiction ;
+    bkg:pubYear 1977 .
+
+book:Q136188 a bkg:Book ;
+    rdfs:label "Rook"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:pubYear 1997 .
+
+book:Q137332 a bkg:Book ;
+    rdfs:label "The Dead of the Night"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:war_novel,
+        genr:young_adult_fiction ;
+    bkg:pubYear 1994 .
+
+book:Q137536 a bkg:Book ;
+    rdfs:label "Schild's Ladder"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_science_fiction_general ;
+    bkg:pubYear 2002 .
+
+book:Q137629 a bkg:Book ;
+    rdfs:label "Tomorrow, When the War Began"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:science_fiction,
+        genr:war_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:survival,
+        them:survival_fiction ;
+    bkg:pubYear 1993 .
+
+book:Q13911 a bkg:Book ;
+    rdfs:label "A Prayer for Owen Meany"@en ;
+    bkg:hasGenre genr:Bildungsroman ;
+    bkg:hasTopic them:american_fiction,
+        them:american_fiction_fictional_works_by_one_author,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_psychological,
+        them:friendship,
+        them:friendship_fiction,
+        them:roman,
+        them:romans_nouvelles,
+        them:united_states ;
+    bkg:pubYear 1989 .
+
+book:Q140036 a bkg:Book ;
+    rdfs:label "The Invention of Hugo Cabret"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy,
+        genr:historical_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:ficción_juvenil,
+        them:fiction,
+        them:history,
+        them:juvenile_fiction,
+        them:mystery,
+        them:new_york_times_bestseller,
+        them:new_york_times_reviewed,
+        them:spanish_language_materials ;
+    bkg:pubYear 2007 .
+
+book:Q149552 a bkg:Book ;
+    rdfs:label "The Stand"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:fantasy,
+        genr:horror_fiction,
+        genr:magical_negro,
+        genr:post-apocalyptic_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_horror,
+        them:fiction_in_english,
+        them:good_and_evil,
+        them:horror_fiction,
+        them:horror_tales,
+        them:new_york_times_bestseller,
+        them:science_fiction,
+        them:thriller,
+        them:thrillers ;
+    bkg:pubYear 1978 .
+
+book:Q149993 a bkg:Book ;
+    rdfs:label "The Phantom Tollbooth"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy ;
+    bkg:hasTopic them:adventure_stories,
+        them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción_juvenil,
+        them:fiction,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:new_york_times_reviewed,
+        them:romans_nouvelles_etc_pour_la_jeunesse ;
+    bkg:pubYear 1961 .
+
+book:Q151337 a bkg:Book ;
+    rdfs:label "The State of the Art"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:english_science_fiction,
+        them:long_now_manual_for_civilization,
+        them:short_stories ;
+    bkg:pubYear 1989 .
+
+book:Q151550 a bkg:Book ;
+    rdfs:label "The Stress of Her Regard"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:historical_fantasy,
+        genr:historical_fiction,
+        genr:horror_fiction,
+        genr:secret_history,
+        genr:vampire_fiction ;
+    bkg:hasTopic them:american_fantasy_fiction,
+        them:fantasy,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_mystery_detective_general,
+        them:historical,
+        them:historical_fiction,
+        them:history,
+        them:vampires ;
+    bkg:pubYear 1989 .
+
+book:Q15228 a bkg:Book ;
+    rdfs:label "The Lord of the Rings"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:fantasy,
+        genr:high_fantasy ;
+    bkg:hasTopic them:english_language,
+        them:english_literature,
+        them:fantasy_fiction,
+        them:ficción,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:fiction_in_english,
+        them:open_library_staff_picks,
+        them:romans_nouvelles,
+        them:wizards ;
+    bkg:pubYear 1954 .
+
+book:Q152629 a bkg:Book ;
+    rdfs:label "Tell No One"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction,
+        genr:mystery_fiction,
+        genr:thriller ;
+    bkg:pubYear 2001 .
+
+book:Q157360 a bkg:Book ;
+    rdfs:label "The Horse and His Boy"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 1954 .
+
+book:Q157709 a bkg:Book ;
+    rdfs:label "The World of Suzie Wong"@en ;
+    bkg:pubYear 1957 .
+
+book:Q161191 a bkg:Book ;
+    rdfs:label "For Your Eyes Only"@en ;
+    bkg:hasGenre genr:crime_literature,
+        genr:spy_fiction ;
+    bkg:hasTopic them:english_literature,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_general,
+        them:fiction_mystery_detective_general,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:murder,
+        them:thriller,
+        them:thrillers ;
+    bkg:pubYear 1960 .
+
+book:Q162091 a bkg:Book ;
+    rdfs:label "Treasure Islands"@en ;
+    bkg:hasGenre genr:non-fiction ;
+    bkg:pubYear 2011 .
+
+book:Q164543 a bkg:Book ;
+    rdfs:label "Why I Am Not a Christian"@en ;
+    bkg:hasGenre genr:essay,
+        genr:non-fiction_literature ;
+    bkg:hasTopic them:christianity,
+        them:philosophy,
+        them:religion ;
+    bkg:pubYear 1957 .
+
+book:Q164932 a bkg:Book ;
+    rdfs:label "1001 Albums You Must Hear Before You Die"@en ;
+    bkg:hasGenre genr:reference_work ;
+    bkg:pubYear 2005 .
+
+book:Q165068 a bkg:Book ;
+    rdfs:label "The Tales of Beedle the Bard"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_literature>,
+        genr:fantasy ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:magic,
+        them:new_york_times_bestseller,
+        them:romans_nouvelles_etc_pour_la_jeunesse,
+        them:short_stories,
+        them:wizards ;
+    bkg:pubYear 2008 .
+
+book:Q167007 a bkg:Book ;
+    rdfs:label "Necropolis"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:thriller ;
+    bkg:pubYear 2008 .
+
+book:Q169976 a bkg:Book ;
+    rdfs:label "Northern Lights"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_book>,
+        genr:fantasy,
+        genr:science_fiction,
+        genr:steampunk,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_general,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:open_library_staff_picks,
+        them:reading_levelgrade_12,
+        them:romans_nouvelles_etc_pour_la_jeunesse ;
+    bkg:pubYear 1995 .
+
+book:Q175421 a bkg:Book ;
+    rdfs:label "Holes"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:family_saga,
+        genr:magic_realist_fiction,
+        genr:satirical_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:adventure_stories,
+        them:childrens_fiction,
+        them:ficción_juvenil,
+        them:fiction,
+        them:friendship,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:open_library_staff_picks,
+        them:romans,
+        them:young_adult_fiction ;
+    bkg:pubYear 1998 .
+
+book:Q176192 a bkg:Book ;
+    rdfs:label "Archangel"@en ;
+    bkg:hasGenre genr:drama_fiction,
+        genr:thriller ;
+    bkg:pubYear 1998 .
+
+book:Q176470 a bkg:Book ;
+    rdfs:label "Interview with the Vampire"@en ;
+    bkg:hasGenre genr:Gothic_fiction,
+        genr:vampire_fiction ;
+    bkg:hasTopic them:american_fiction,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_horror,
+        them:horror_fiction,
+        them:novela,
+        them:reading_levelgrade_11,
+        them:reading_levelgrade_12,
+        them:romans_nouvelles,
+        them:vampires ;
+    bkg:pubYear 1976 .
+
+book:Q178791 a bkg:Book ;
+    rdfs:label "Rabbit, Run"@en ;
+    bkg:pubYear 1960 .
+
+book:Q180596 a bkg:Book ;
+    rdfs:label "A Faint Cold Fear"@en ;
+    bkg:pubYear 2003 .
+
+book:Q181231 a bkg:Book ;
+    rdfs:label "Weapons of Choice"@en ;
+    bkg:hasGenre genr:alternate_history,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_fantasy_general,
+        them:world_war_19391945 ;
+    bkg:pubYear 2004 .
+
+book:Q182502 a bkg:Book ;
+    rdfs:label "Angels & Demons"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:horror_fiction,
+        genr:mystery_fiction,
+        genr:science_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:american_fiction,
+        them:american_literature,
+        them:ficción,
+        them:fiction,
+        them:fiction_thrillers_general,
+        them:large_type_books,
+        them:murder,
+        them:new_york_times_bestseller,
+        them:romans_nouvelles ;
+    bkg:pubYear 2000 .
+
+book:Q183363 a bkg:Book ;
+    rdfs:label "The March"@en ;
+    bkg:hasGenre genr:historical_fiction ;
+    bkg:pubYear 2005 .
+
+book:Q183883 a bkg:Book ;
+    rdfs:label "The Catcher in the Rye"@en ;
+    bkg:hasGenre genr:Bildungsroman ;
+    bkg:hasTopic them:american_fiction,
+        them:american_fiction_fictional_works_by_one_author,
+        them:fiction,
+        them:fiction_general,
+        them:interpersonal_relations,
+        them:juvenile_fiction,
+        them:long_now_manual_for_civilization,
+        them:new_york_times_reviewed,
+        them:open_library_staff_picks,
+        them:romans_nouvelles ;
+    bkg:pubYear 1951 .
+
+book:Q185449 a bkg:Book ;
+    rdfs:label "Eragon"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:magic,
+        them:new_york_times_bestseller,
+        them:reading_levelgrade_11,
+        them:romans_nouvelles,
+        them:science_fiction ;
+    bkg:pubYear 2003 .
+
+book:Q18725 a bkg:Book ;
+    rdfs:label "Q18725"@en ;
+    bkg:hasGenre genr:comedy,
+        genr:fantasy ;
+    bkg:pubYear 2002 .
+
+book:Q187655 a bkg:Book ;
+    rdfs:label "Mostly Harmless"@en ;
+    bkg:hasGenre genr:comic_novel,
+        genr:science_fiction,
+        genr:science_fiction_comedy ;
+    bkg:hasTopic them:english_literature,
+        them:fantasy,
+        them:fiction,
+        them:fiction_humorous_general,
+        them:fiction_science_fiction_general,
+        them:humorous_stories,
+        them:interplanetary_voyages,
+        them:large_type_books,
+        them:new_york_times_reviewed,
+        them:science_fiction ;
+    bkg:pubYear 1992 .
+
+book:Q187942 a bkg:Book ;
+    rdfs:label "The Fourth Hand"@en ;
+    bkg:pubYear 2001 .
+
+book:Q189378 a bkg:Book ;
+    rdfs:label "Twilight"@en ;
+    bkg:hasGenre genr:romantic_fiction,
+        genr:vampire_fiction,
+        genr:young_adult_fiction ;
+    bkg:pubYear 2005 .
+
+book:Q189446 a bkg:Book ;
+    rdfs:label "Zen and the Art of Motorcycle Maintenance"@en ;
+    bkg:hasGenre genr:autobiographical_novel,
+        genr:philosophical_novel ;
+    bkg:hasTopic them:biography,
+        them:conduct_of_life,
+        them:description_and_travel,
+        them:fathers_and_sons,
+        them:general,
+        them:nonfiction,
+        them:open_library_staff_picks,
+        them:philosophy,
+        them:travel ;
+    bkg:pubYear 1974 .
+
+book:Q191288 a bkg:Book ;
+    rdfs:label "The Satanic Verses"@en ;
+    bkg:hasGenre genr:magic_realist_fiction ;
+    bkg:hasTopic them:england_fiction,
+        them:english_fiction,
+        them:family,
+        them:fiction,
+        them:fiction_general,
+        them:general,
+        them:good_and_evil,
+        them:literary_fiction,
+        them:romans_nouvelles,
+        them:survival ;
+    bkg:pubYear 1988 .
+
+book:Q191540 a bkg:Book ;
+    rdfs:label "New Moon"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:romantic_fiction,
+        genr:vampire_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:ficción,
+        them:fiction,
+        them:horror_tales,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:new_york_times_bestseller,
+        them:romans_nouvelles,
+        them:romans_nouvelles_etc_pour_la_jeunesse ;
+    bkg:pubYear 2006 .
+
+book:Q192258 a bkg:Book ;
+    rdfs:label "Quidditch Through the Ages"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción_juvenil,
+        them:fiction,
+        them:history,
+        them:hogwarts_school_of_witchcraft_and_wizardry_imaginary_organization,
+        them:juvenile_fiction,
+        them:wizards,
+        them:wizards_fiction ;
+    bkg:pubYear 2001 .
+
+book:Q194424 a bkg:Book ;
+    rdfs:label "Fantastic Beasts and Where to Find Them"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:textbook ;
+    bkg:pubYear 2001 .
+
+book:Q194619 a bkg:Book ;
+    rdfs:label "Flesh"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1960 .
+
+book:Q196151 a bkg:Book ;
+    rdfs:label "A Rising Thunder"@en ;
+    bkg:hasGenre genr:military_science_fiction ;
+    bkg:hasTopic them:adventure,
+        them:fiction,
+        them:fiction_science_fiction_action_adventure,
+        them:fiction_science_fiction_general,
+        them:general,
+        them:new_york_times_bestseller,
+        them:roman,
+        them:science_fiction,
+        them:war ;
+    bkg:pubYear 2012 .
+
+book:Q197243 a bkg:Book ;
+    rdfs:label "4.50 from Paddington"@en ;
+    bkg:hasGenre genr:detective_fiction,
+        genr:mystery_fiction ;
+    bkg:hasTopic them:england_fiction,
+        them:english_language,
+        them:english_literature,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_mystery_detective_traditional,
+        them:murder,
+        them:mystery,
+        them:mystery_fiction,
+        them:romans_nouvelles ;
+    bkg:pubYear 1957 .
+
+book:Q202009 a bkg:Book ;
+    rdfs:label "Fahrenheit 451"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:philosophical_fiction,
+        genr:philosophical_novel,
+        genr:political_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 1953 .
+
+book:Q202531 a bkg:Book ;
+    rdfs:label "Deception Point"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:techno-thriller,
+        genr:thriller ;
+    bkg:hasTopic them:american_literature,
+        them:ficción,
+        them:fiction,
+        them:literature,
+        them:mystery_fiction,
+        them:open_library_staff_picks,
+        them:romans_nouvelles,
+        them:science_fiction,
+        them:spanish_language_materials,
+        them:thrillers ;
+    bkg:pubYear 2001 .
+
+book:Q205975 a bkg:Book ;
+    rdfs:label "A Son of the Circus"@en ;
+    bkg:pubYear 1994 .
+
+book:Q206795 a bkg:Book ;
+    rdfs:label "Profiles in Courage"@en ;
+    bkg:hasGenre genr:biography ;
+    bkg:hasTopic them:biography,
+        them:courage,
+        them:juvenile_literature,
+        them:united_states ;
+    bkg:pubYear 1955 .
+
+book:Q207964 a bkg:Book ;
+    rdfs:label "Digital Fortress"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:techno-thriller,
+        genr:thriller ;
+    bkg:hasTopic them:fiction,
+        them:fiction_espionage,
+        them:fiction_thrillers,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:intelligence_officers,
+        them:open_library_staff_picks,
+        them:romans_nouvelles,
+        them:suspense_fiction,
+        them:thrillers ;
+    bkg:pubYear 1998 .
+
+book:Q208002 a bkg:Book ;
+    rdfs:label "The Fellowship of the Ring"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:high_fantasy ;
+    bkg:pubYear 1954 .
+
+book:Q208461 a bkg:Book ;
+    rdfs:label "1985"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:political_fiction,
+        genr:satirical_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 1978 .
+
+book:Q208825 a bkg:Book ;
+    rdfs:label "Flight into Camden"@en ;
+    bkg:hasGenre genr:romantic_fiction ;
+    bkg:pubYear 1961 .
+
+book:Q208911 a bkg:Book ;
+    rdfs:label "Every Man for Himself"@en ;
+    bkg:pubYear 1996 .
+
+book:Q211006 a bkg:Book ;
+    rdfs:label "The Lost Symbol"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:mystery_fiction,
+        genr:suspense_in_literature ;
+    bkg:pubYear 2009 .
+
+book:Q212473 a bkg:Book ;
+    rdfs:label "Eclipse"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:romantic_fiction,
+        genr:vampire_fiction,
+        genr:young_adult_fiction ;
+    bkg:pubYear 2007 .
+
+book:Q212718 a bkg:Book ;
+    rdfs:label "2061: Odyssey Three"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:english_literature,
+        them:extraterrestrial_beings,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:long_now_manual_for_civilization,
+        them:science_fiction ;
+    bkg:pubYear 1987 .
+
+book:Q213300 a bkg:Book ;
+    rdfs:label "A Visit from the Goon Squad"@en ;
+    bkg:hasGenre genr:psychological_fiction ;
+    bkg:hasTopic them:art,
+        them:fiction,
+        them:fiction_psychological,
+        them:friendship,
+        them:large_type_books,
+        them:literature,
+        them:new_york_times_bestseller,
+        them:new_york_times_reviewed,
+        them:short_stories,
+        them:young_women_fiction ;
+    bkg:pubYear 2010 .
+
+book:Q218156 a bkg:Book ;
+    rdfs:label "Zodiac"@en ;
+    bkg:hasGenre genr:non-fiction,
+        genr:true_crime ;
+    bkg:pubYear 1986 .
+
+book:Q218950 a bkg:Book ;
+    rdfs:label "Prince Caspian"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy,
+        genr:high_fantasy ;
+    bkg:pubYear 1951 .
+
+book:Q221085 a bkg:Book ;
+    rdfs:label "28 Stories of AIDS in Africa"@en ;
+    bkg:hasGenre genr:non-fiction_literature ;
+    bkg:pubYear 2007 .
+
+book:Q223784 a bkg:Book ;
+    rdfs:label "3001: The Final Odyssey"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:exploration,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:humanalien_encounters,
+        them:large_type_books,
+        them:long_now_manual_for_civilization,
+        them:new_york_times_reviewed,
+        them:science_fiction,
+        them:sciencefiction ;
+    bkg:pubYear 1997 .
+
+book:Q224965 a bkg:Book ;
+    rdfs:label "Grimus"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:science_fiction ;
+    bkg:pubYear 1975 .
+
+book:Q230356 a bkg:Book ;
+    rdfs:label "How to do Things with Words"@en ;
+    bkg:hasGenre genr:essay ;
+    bkg:hasTopic them:philosophy ;
+    bkg:pubYear 1962 .
+
+book:Q23163 a bkg:Book ;
+    rdfs:label "A Scientific Romance"@en ;
+    bkg:hasGenre genr:apocalyptic_fiction,
+        genr:chuanyue,
+        genr:dystopian_literature,
+        genr:science_fiction ;
+    bkg:pubYear 1997 .
+
+book:Q232153 a bkg:Book ;
+    rdfs:label "One Day"@en ;
+    bkg:hasTopic them:england_fiction,
+        them:fiction,
+        them:fiction_media_tiein,
+        them:friendship,
+        them:friendship_fiction,
+        them:humorous_stories,
+        them:interpersonal_relations,
+        them:new_york_times_bestseller,
+        them:new_york_times_reviewed,
+        them:roman ;
+    bkg:pubYear 2009 .
+
+book:Q238747 a bkg:Book ;
+    rdfs:label "I Am Mordred"@en ;
+    bkg:pubYear 2001 .
+
+book:Q241348 a bkg:Book ;
+    rdfs:label "Scarlett"@en ;
+    bkg:hasGenre genr:historical_fiction,
+        genr:romance ;
+    bkg:hasTopic them:americans,
+        them:fiction,
+        them:history,
+        them:love_stories,
+        them:open_library_staff_picks,
+        them:romans_nouvelles,
+        them:travel ;
+    bkg:pubYear 1991 .
+
+book:Q243556 a bkg:Book ;
+    rdfs:label "The Godfather"@en ;
+    bkg:hasGenre genr:crime_fiction ;
+    bkg:pubYear 1969 .
+
+book:Q244884 a bkg:Book ;
+    rdfs:label "Full Dark, No Stars"@en ;
+    bkg:hasGenre genr:horror_fiction,
+        genr:thriller ;
+    bkg:pubYear 2010 .
+
+book:Q244897 a bkg:Book ;
+    rdfs:label "The New Policeman"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy ;
+    bkg:pubYear 2005 .
+
+book:Q245686 a bkg:Book ;
+    rdfs:label "The Bay of Noon"@en ;
+    bkg:pubYear 1970 .
+
+book:Q247364 a bkg:Book ;
+    rdfs:label "The Dark Tower V: Wolves of the Calla"@en ;
+    bkg:hasGenre genr:dark_fantasy,
+        genr:fantasy,
+        genr:horror_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 2003 .
+
+book:Q248745 a bkg:Book ;
+    rdfs:label "Rainbow Six"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:techno-thriller ;
+    bkg:pubYear 1998 .
+
+book:Q249407 a bkg:Book ;
+    rdfs:label "Airframe"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:techno-thriller,
+        genr:thriller ;
+    bkg:pubYear 1996 .
+
+book:Q250123 a bkg:Book ;
+    rdfs:label "Christine"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:pubYear 1983 .
+
+book:Q251076 a bkg:Book ;
+    rdfs:label "Hallowe'en Party"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:england_fiction,
+        them:english_literature,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:large_type_books,
+        them:murder,
+        them:mystery,
+        them:mystery_fiction,
+        them:romans_nouvelles ;
+    bkg:pubYear 1969 .
+
+book:Q253337 a bkg:Book ;
+    rdfs:label "Baby"@en ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fiction,
+        them:islands,
+        them:juvenile_fiction ;
+    bkg:pubYear 1995 .
+
+book:Q253344 a bkg:Book ;
+    rdfs:label "Foundation's Fear"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_science_fiction_general,
+        them:science_fiction ;
+    bkg:pubYear 1997 .
+
+book:Q253925 a bkg:Book ;
+    rdfs:label "Thinner"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:pubYear 1984 .
+
+book:Q25551 a bkg:Book ;
+    rdfs:label "The Running Man"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:adventure_stories,
+        them:american_horror_tales,
+        them:american_literature,
+        them:fiction,
+        them:fiction_horror,
+        them:fiction_media_tiein,
+        them:fiction_thrillers_suspense,
+        them:horror_fiction,
+        them:science_fiction,
+        them:suspense ;
+    bkg:pubYear 1982 .
+
+book:Q255711 a bkg:Book ;
+    rdfs:label "Wizard's First Rule"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:high_fantasy ;
+    bkg:hasTopic them:adventure,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_epic,
+        them:fiction_fantasy_general,
+        them:magic,
+        them:wizards ;
+    bkg:pubYear 1994 .
+
+book:Q25750 a bkg:Book ;
+    rdfs:label "The Casual Vacancy"@en ;
+    bkg:hasGenre genr:black_comedy,
+        genr:political_fiction,
+        genr:tragicomedy ;
+    bkg:pubYear 2012 .
+
+book:Q258953 a bkg:Book ;
+    rdfs:label "The Giver"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:soft_science_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:adventure_and_adventurers_fiction,
+        them:childrens_fiction,
+        them:cienciaficción,
+        them:comic_books_strips,
+        them:dystopias,
+        them:fiction,
+        them:juvenile_fiction,
+        them:literature,
+        them:new_york_times_reviewed,
+        them:science_fiction ;
+    bkg:pubYear 1993 .
+
+book:Q259168 a bkg:Book ;
+    rdfs:label "The Sum of All Fears"@en ;
+    bkg:hasGenre genr:military_fiction,
+        genr:political_thriller,
+        genr:science_fiction,
+        genr:techno-thriller ;
+    bkg:pubYear 1991 .
+
+book:Q260702 a bkg:Book ;
+    rdfs:label "Written in Bone"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:pubYear 2007 .
+
+book:Q26085 a bkg:Book ;
+    rdfs:label "The Day of the Jackal"@en ;
+    bkg:hasGenre genr:historical_fiction,
+        genr:spy_fiction,
+        genr:thriller ;
+    bkg:pubYear 1971 .
+
+book:Q261728 a bkg:Book ;
+    rdfs:label "Consider Phlebas"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1987 .
+
+book:Q262540 a bkg:Book ;
+    rdfs:label "Night Shift"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_horror,
+        them:fiction_mystery_detective_general,
+        them:good_and_evil,
+        them:horror_fiction,
+        them:mystery,
+        them:short_stories ;
+    bkg:pubYear 1978 .
+
+book:Q26541 a bkg:Book ;
+    rdfs:label "Dr. No"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:spy_fiction ;
+    bkg:pubYear 1958 .
+
+book:Q27466 a bkg:Book ;
+    rdfs:label "Globalization and Its Discontents"@en ;
+    bkg:hasGenre genr:essay ;
+    bkg:hasTopic them:open_syllabus_project ;
+    bkg:pubYear 2002 .
+
+book:Q28172 a bkg:Book ;
+    rdfs:label "World War Z"@en ;
+    bkg:hasGenre genr:post-apocalyptic_fiction,
+        genr:science_fiction,
+        genr:terror,
+        genr:zombie_apocalyptic_fiction ;
+    bkg:hasTopic them:fantasy,
+        them:ficción,
+        them:fiction,
+        them:fiction_horror,
+        them:large_type_books,
+        them:new_york_times_bestseller,
+        them:reading_levelgrade_11,
+        them:reading_levelgrade_12,
+        them:romans_nouvelles,
+        them:science_fiction ;
+    bkg:pubYear 2006 .
+
+book:Q28306 a bkg:Book ;
+    rdfs:label "A Dance with Dragons"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:high_fantasy ;
+    bkg:hasTopic them:american_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:magic,
+        them:new_york_times_bestseller,
+        them:reading_levelgrade_11,
+        them:science_fiction ;
+    bkg:pubYear 2011 .
+
+book:Q29132 a bkg:Book ;
+    rdfs:label "A Pocket Full of Rye"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:hasTopic them:england_fiction,
+        them:english_detective_and_mystery_stories,
+        them:english_literature,
+        them:ficción,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_mystery_detective_traditional,
+        them:investigation,
+        them:large_type_books,
+        them:murder ;
+    bkg:pubYear 1953 .
+
+book:Q30613 a bkg:Book ;
+    rdfs:label "Windmills of the Gods"@en ;
+    bkg:hasGenre genr:thriller ;
+    bkg:hasTopic them:american_fiction,
+        them:fiction,
+        them:fiction_thrillers_espionage,
+        them:large_type_books,
+        them:spy_stories ;
+    bkg:pubYear 1987 .
+
+book:Q31179 a bkg:Book ;
+    rdfs:label "The Ballad of Peckham Rye"@en ;
+    bkg:pubYear 1960 .
+
+book:Q32136 a bkg:Book ;
+    rdfs:label "The Colour of Magic"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:speculative_fiction_comedy ;
+    bkg:hasTopic them:english_literature,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:fiction_humorous,
+        them:fiction_humorous_general,
+        them:humorous_stories,
+        them:romans,
+        them:wizards ;
+    bkg:pubYear 1983 .
+
+book:Q32594 a bkg:Book ;
+    rdfs:label "Franz Kafka: The Office Writings"@en ;
+    bkg:pubYear 2008 .
+
+book:Q38187 a bkg:Book ;
+    rdfs:label "The Night Watch"@en ;
+    bkg:hasGenre genr:historical_fiction ;
+    bkg:pubYear 2006 .
+
+book:Q38190 a bkg:Book ;
+    rdfs:label "Sour Sweet"@en ;
+    bkg:pubYear 1982 .
+
+book:Q38213 a bkg:Book ;
+    rdfs:label "Such a Long Journey"@en ;
+    bkg:hasTopic them:fiction,
+        them:history ;
+    bkg:pubYear 1991 .
+
+book:Q38564 a bkg:Book ;
+    rdfs:label "The Warlock: The Secrets of the Immortal Nicholas Flamel"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:thriller ;
+    bkg:hasTopic them:brothers_and_sisters,
+        them:brothers_and_sisters_fiction,
+        them:childrens_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:supernatural,
+        them:supernatural_fiction ;
+    bkg:pubYear 2011 .
+
+book:Q40205 a bkg:Book ;
+    rdfs:label "Cloud Atlas"@en ;
+    bkg:hasGenre genr:epistolary_novel,
+        genr:fantasy,
+        genr:post-apocalyptic_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 2004 .
+
+book:Q40354 a bkg:Book ;
+    rdfs:label "Mockingjay"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:dystopian_fiction,
+        genr:post-apocalyptic_fiction,
+        genr:science_fiction,
+        genr:thriller,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:new_york_times_bestseller,
+        them:new_york_times_reviewed,
+        them:reading_levelgrade_11,
+        them:reading_levelgrade_12,
+        them:romans_nouvelles_etc_pour_la_jeunesse,
+        them:science_fiction ;
+    bkg:pubYear 2010 .
+
+book:Q40496 a bkg:Book ;
+    rdfs:label "The End: Hitler's Germany, 1944–45"@en ;
+    bkg:hasGenre genr:historiography ;
+    bkg:hasTopic them:history,
+        them:social_conditions,
+        them:world_war_19391945 ;
+    bkg:pubYear 2011 .
+
+book:Q40819 a bkg:Book ;
+    rdfs:label "Diary of a Wimpy Kid: The Ugly Truth"@en ;
+    bkg:hasGenre genr:diary ;
+    bkg:pubYear 2010 .
+
+book:Q41359 a bkg:Book ;
+    rdfs:label "Cat's Cradle"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_fantasy_fiction,
+        them:american_fiction,
+        them:american_fiction_fictional_works_by_one_author,
+        them:fiction,
+        them:fiction_humorous,
+        them:fiction_humorous_general,
+        them:fiction_science_fiction_general,
+        them:large_type_books,
+        them:romans_nouvelles,
+        them:science_fiction ;
+    bkg:pubYear 1963 .
+
+book:Q43361 a bkg:Book ;
+    rdfs:label "Harry Potter and the Philosopher's Stone"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:fantasy,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:england_fiction,
+        them:english_literature,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:juvenile_fiction,
+        them:new_york_times_bestseller,
+        them:open_library_staff_picks ;
+    bkg:pubYear 1997 .
+
+book:Q43714 a bkg:Book ;
+    rdfs:label "Blue Like Jazz"@en ;
+    bkg:hasGenre genr:autobiography ;
+    bkg:hasTopic them:large_type_books ;
+    bkg:pubYear 2003 .
+
+book:Q43891 a bkg:Book ;
+    rdfs:label "The Butcher Boy"@en ;
+    bkg:hasGenre genr:tragicomedy ;
+    bkg:pubYear 1992 .
+
+book:Q44920 a bkg:Book ;
+    rdfs:label "Viruses of the Mind"@en ;
+    bkg:hasGenre genr:essay ;
+    bkg:pubYear 1993 .
+
+book:Q45735 a bkg:Book ;
+    rdfs:label "Charlotte's Web"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:fairy_tale,
+        genr:fantasy ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción_juvenil,
+        them:fiction,
+        them:friendship,
+        them:juvenile_fiction,
+        them:open_library_staff_picks,
+        them:romans_nouvelles_etc_pour_la_jeunesse,
+        them:spanish_language_materials ;
+    bkg:pubYear 1952 .
+
+book:Q466605 a bkg:Book ;
+    rdfs:label "Charlie and the Chocolate Factory"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_book>,
+        <http://bookkg.org/genre/children's_fiction>,
+        genr:humorous_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción_juvenil,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:juvenile_fiction,
+        them:open_library_staff_picks,
+        them:romans_nouvelles_etc_pour_la_jeunesse,
+        them:young_adult_fiction ;
+    bkg:pubYear 1964 .
+
+book:Q466790 a bkg:Book ;
+    rdfs:label "The Dead Zone"@en ;
+    bkg:hasGenre genr:horror_fiction,
+        genr:science_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:american_literature,
+        them:fiction,
+        them:fiction_horror,
+        them:fiction_in_english,
+        them:good_and_evil,
+        them:horror_fiction,
+        them:murder,
+        them:open_library_staff_picks,
+        them:romans_nouvelles,
+        them:science_fiction ;
+    bkg:pubYear 1979 .
+
+book:Q467017 a bkg:Book ;
+    rdfs:label "The Annals of the Heechee"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:fiction_fantasy_general,
+        them:fiction_science_fiction_general,
+        them:science_fiction ;
+    bkg:pubYear 1987 .
+
+book:Q467139 a bkg:Book ;
+    rdfs:label "The Player of Games"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:space_opera ;
+    bkg:hasTopic them:fiction,
+        them:long_now_manual_for_civilization,
+        them:protected_daisy,
+        them:science_fiction,
+        them:science_fiction_fantasy ;
+    bkg:pubYear 1988 .
+
+book:Q4672 a bkg:Book ;
+    rdfs:label "English Passengers"@en ;
+    bkg:hasGenre genr:historical_fiction ;
+    bkg:pubYear 2000 .
+
+book:Q467225 a bkg:Book ;
+    rdfs:label "The Postman"@en ;
+    bkg:hasGenre genr:post-apocalyptic_literature,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:fiction_science_fiction_general,
+        them:long_now_manual_for_civilization,
+        them:science_fiction,
+        them:survival ;
+    bkg:pubYear 1985 .
+
+book:Q467332 a bkg:Book ;
+    rdfs:label "The Adventure of the Christmas Pudding"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:england_fiction,
+        them:english_literature,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_mystery_detective_traditional,
+        them:fiction_short_stories_single_author,
+        them:investigation,
+        them:murder,
+        them:mystery ;
+    bkg:pubYear 1960 .
+
+book:Q467388 a bkg:Book ;
+    rdfs:label "The Merchant and the Alchemist's Gate"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction ;
+    bkg:pubYear 2007 .
+
+book:Q46751 a bkg:Book ;
+    rdfs:label "Harry Potter and the Goblet of Fire"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:fantasy,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:english_literature,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción,
+        them:fiction,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:new_york_times_bestseller,
+        them:open_library_staff_picks ;
+    bkg:pubYear 2000 .
+
+book:Q467720 a bkg:Book ;
+    rdfs:label "The Dispossessed"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:utopian_fiction ;
+    bkg:hasTopic them:american_literature,
+        them:american_science_fiction,
+        them:ficción,
+        them:fiction,
+        them:fiction_in_english,
+        them:fiction_science_fiction_general,
+        them:hugo_award_winner,
+        them:life_on_other_planets,
+        them:long_now_manual_for_civilization,
+        them:science_fiction ;
+    bkg:pubYear 1974 .
+
+book:Q467818 a bkg:Book ;
+    rdfs:label "Risk"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1955 .
+
+book:Q468071 a bkg:Book ;
+    rdfs:label "The Spy Who Came in from the Cold"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:detective_fiction,
+        genr:spy_fiction ;
+    bkg:hasTopic them:england_fiction,
+        them:english_literature,
+        them:ficción,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_thrillers,
+        them:fiction_thrillers_espionage,
+        them:intelligence_officers,
+        them:large_type_books,
+        them:romans_nouvelles ;
+    bkg:pubYear 1963 .
+
+book:Q468121 a bkg:Book ;
+    rdfs:label "Rose Madder"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:horror_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:american_literature,
+        them:fantasy,
+        them:fiction,
+        them:fiction_horror,
+        them:fiction_thrillers_general,
+        them:horror,
+        them:horror_fiction,
+        them:horror_tales,
+        them:new_york_times_reviewed,
+        them:thriller ;
+    bkg:pubYear 1995 .
+
+book:Q468132 a bkg:Book ;
+    rdfs:label "The Bicentennial Man"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1976 .
+
+book:Q468135 a bkg:Book ;
+    rdfs:label "The Salmon of Doubt"@en ;
+    bkg:hasGenre genr:comic_novel,
+        genr:science_fiction ;
+    bkg:hasTopic them:english_literature,
+        them:fiction,
+        them:fiction_humorous,
+        them:fiction_humorous_general,
+        them:fiction_science_fiction_action_adventure,
+        them:fiction_science_fiction_general,
+        them:private_investigators_fiction,
+        them:science_fiction,
+        them:short_stories ;
+    bkg:pubYear 2002 .
+
+book:Q46887 a bkg:Book ;
+    rdfs:label "Harry Potter and the Half-Blood Prince"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:fantasy,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:england_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:new_york_times_bestseller,
+        them:reading_levelgrade_12 ;
+    bkg:pubYear 2005 .
+
+book:Q469862 a bkg:Book ;
+    rdfs:label "The Naked Sun"@en ;
+    bkg:hasGenre genr:detective_fiction,
+        genr:dystopian_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 1957 .
+
+book:Q469889 a bkg:Book ;
+    rdfs:label "Cell"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:horror_fiction,
+        genr:post-apocalyptic_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 2006 .
+
+book:Q469969 a bkg:Book ;
+    rdfs:label "The Light Fantastic"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:speculative_fiction_comedy ;
+    bkg:hasTopic them:english_literature,
+        them:fantasy,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:fiction_humorous,
+        them:fiction_humorous_general ;
+    bkg:pubYear 1986 .
+
+book:Q470044 a bkg:Book ;
+    rdfs:label "The Other Boleyn Girl"@en ;
+    bkg:hasGenre genr:historical_fiction,
+        genr:romance ;
+    bkg:pubYear 2001 .
+
+book:Q470057 a bkg:Book ;
+    rdfs:label "American Pastoral"@en ;
+    bkg:hasTopic them:american_fiction_fictional_works_by_one_author,
+        them:fiction,
+        them:fiction_general,
+        them:historical_fiction,
+        them:history,
+        them:literary_fiction,
+        them:open_syllabus_project,
+        them:social_conditions,
+        them:social_life_and_customs,
+        them:vietnam_war ;
+    bkg:pubYear 1997 .
+
+book:Q470229 a bkg:Book ;
+    rdfs:label "The Great Hunt"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 1990 .
+
+book:Q470937 a bkg:Book ;
+    rdfs:label "The Shining"@en ;
+    bkg:hasGenre genr:Gothic_fiction,
+        genr:horror_fiction,
+        genr:psychological_horror_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:american_literature,
+        them:fiction,
+        them:fiction_horror,
+        them:fiction_thrillers_suspense,
+        them:horror,
+        them:horror_fiction,
+        them:horror_tales,
+        them:new_york_times_bestseller ;
+    bkg:pubYear 1977 .
+
+book:Q471024 a bkg:Book ;
+    rdfs:label "Different Seasons"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:hasTopic them:american_fiction,
+        them:american_literature,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_horror,
+        them:friendship,
+        them:good_and_evil,
+        them:horror_fiction,
+        them:horror_tales,
+        them:romans_nouvelles ;
+    bkg:pubYear 1982 .
+
+book:Q471029 a bkg:Book ;
+    rdfs:label "The Regulators"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:pubYear 1996 .
+
+book:Q471142 a bkg:Book ;
+    rdfs:label "The Tommyknockers"@en ;
+    bkg:hasGenre genr:horror_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_horror_tales,
+        them:fiction,
+        them:fiction_horror,
+        them:horror_tales,
+        them:maine_fiction,
+        them:paranormal_fiction,
+        them:romans_nouvelles,
+        them:supernatural,
+        them:thriller ;
+    bkg:pubYear 1987 .
+
+book:Q471679 a bkg:Book ;
+    rdfs:label "Rainbows End"@en ;
+    bkg:hasGenre genr:postcyberpunk,
+        genr:science_fiction ;
+    bkg:hasTopic them:awardhugo_awardnovel,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:fiction_science_fiction_hard_science_fiction,
+        them:hugo_award_winner,
+        them:long_now_manual_for_civilization ;
+    bkg:pubYear 2006 .
+
+book:Q471726 a bkg:Book ;
+    rdfs:label "A Brief History of Time"@en ;
+    bkg:hasGenre genr:essay,
+        genr:popular_science ;
+    bkg:pubYear 1988 .
+
+book:Q471920 a bkg:Book ;
+    rdfs:label "Expanded Cinema"@en ;
+    bkg:pubYear 1970 .
+
+book:Q471926 a bkg:Book ;
+    rdfs:label "The Eyes of the Dragon"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 1984 .
+
+book:Q472026 a bkg:Book ;
+    rdfs:label "The Talented Mr. Ripley"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:psychological_thriller,
+        genr:thriller ;
+    bkg:pubYear 1955 .
+
+book:Q472208 a bkg:Book ;
+    rdfs:label "The Subtle Knife"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:science_fiction,
+        genr:steampunk ;
+    bkg:pubYear 1997 .
+
+book:Q472368 a bkg:Book ;
+    rdfs:label "The Songs of Distant Earth"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:english_science_fiction,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:long_now_manual_for_civilization,
+        them:young_adult_fiction ;
+    bkg:pubYear 1986 .
+
+book:Q473082 a bkg:Book ;
+    rdfs:label "The Glass Books of the Dream Eaters"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:steampunk ;
+    bkg:hasTopic them:adventure_stories,
+        them:assassins,
+        them:fiction,
+        them:suspense,
+        them:suspense_fiction ;
+    bkg:pubYear 2006 .
+
+book:Q474523 a bkg:Book ;
+    rdfs:label "The Ruins"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:hasTopic them:americans,
+        them:fiction,
+        them:fiction_thrillers_suspense,
+        them:horror,
+        them:large_type_books,
+        them:missing_persons,
+        them:mystery_fiction,
+        them:romans_nouvelles,
+        them:suspense_fiction ;
+    bkg:pubYear 2006 .
+
+book:Q474895 a bkg:Book ;
+    rdfs:label "The Viceroy of Ouidah"@en ;
+    bkg:hasGenre genr:historical_fiction ;
+    bkg:hasTopic them:description_and_travel,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_historical,
+        them:fiction_historical_general,
+        them:history,
+        them:nigeria_fiction ;
+    bkg:pubYear 1980 .
+
+book:Q47598 a bkg:Book ;
+    rdfs:label "Harry Potter and the Prisoner of Azkaban"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        genr:fantasy,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:english_literature,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:new_york_times_bestseller,
+        them:open_library_staff_picks ;
+    bkg:pubYear 1999 .
+
+book:Q477831 a bkg:Book ;
+    rdfs:label "The Magician's Nephew"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 1955 .
+
+book:Q477994 a bkg:Book ;
+    rdfs:label "The Eye of the World"@en ;
+    bkg:hasGenre genr:high_fantasy ;
+    bkg:hasTopic them:american_literature,
+        them:childrens_fiction,
+        them:childrens_stories,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:good_and_evil,
+        them:new_york_times_bestseller,
+        them:science_fiction ;
+    bkg:pubYear 1990 .
+
+book:Q478035 a bkg:Book ;
+    rdfs:label "The Test"@en ;
+    bkg:pubYear 1954 .
+
+book:Q478098 a bkg:Book ;
+    rdfs:label "The Vampire's Assistant"@en ;
+    bkg:hasGenre genr:horror_fiction,
+        genr:young_adult_fiction ;
+    bkg:pubYear 2000 .
+
+book:Q478110 a bkg:Book ;
+    rdfs:label "City"@en ;
+    bkg:hasGenre genr:future_history,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_science_fiction_action_adventure,
+        them:fiction_science_fiction_general,
+        them:fiction_short_stories_single_author,
+        them:robots,
+        them:science_fiction,
+        them:sciencefiction,
+        them:telepathy ;
+    bkg:pubYear 1952 .
+
+book:Q478250 a bkg:Book ;
+    rdfs:label "Smith of Wootton Major"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:british_and_irish_fiction_fictional_works_by_one_author,
+        them:fiction_fantasy_general ;
+    bkg:pubYear 1967 .
+
+book:Q479086 a bkg:Book ;
+    rdfs:label "Until I Find You"@en ;
+    bkg:hasTopic them:fathers_and_sons,
+        them:fiction,
+        them:fiction_psychological,
+        them:missing_persons ;
+    bkg:pubYear 2005 .
+
+book:Q4791 a bkg:Book ;
+    rdfs:label "The Story of Lucy Gault"@en ;
+    bkg:pubYear 2002 .
+
+book:Q4795 a bkg:Book ;
+    rdfs:label "Carry Me Down"@en ;
+    bkg:pubYear 2006 .
+
+book:Q4804 a bkg:Book ;
+    rdfs:label "Oxygen"@en ;
+    bkg:pubYear 2001 .
+
+book:Q480743 a bkg:Book ;
+    rdfs:label "Eichmann in Jerusalem"@en ;
+    bkg:hasGenre genr:essay ;
+    bkg:hasTopic them:biography,
+        them:history,
+        them:holocaust,
+        them:holocaust_jewish_19391945,
+        them:jews,
+        them:nonfiction,
+        them:war_criminals,
+        them:world_war_19391945 ;
+    bkg:pubYear 1963 .
+
+book:Q482085 a bkg:Book ;
+    rdfs:label "The Caves of Steel"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:drama_film,
+        genr:dystopian_fiction,
+        genr:locked_room_mystery,
+        genr:mystery_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_literature,
+        them:american_science_fiction,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_science_fiction_hard_science_fiction,
+        them:interplanetary_voyages,
+        them:murder,
+        them:robots,
+        them:science_fiction ;
+    bkg:pubYear 1954 .
+
+book:Q482567 a bkg:Book ;
+    rdfs:label "A Bend in the River"@en ;
+    bkg:pubYear 1979 .
+
+book:Q485093 a bkg:Book ;
+    rdfs:label "The Lion, the Witch, and the Wardrobe"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy ;
+    bkg:pubYear 1950 .
+
+book:Q486385 a bkg:Book ;
+    rdfs:label "Anarchy, State, and Utopia"@en ;
+    bkg:hasGenre genr:philosophical_non-fiction_literature ;
+    bkg:hasTopic them:anarchism,
+        them:general,
+        them:open_syllabus_project,
+        them:utopias ;
+    bkg:pubYear 1974 .
+
+book:Q487364 a bkg:Book ;
+    rdfs:label "Anathem"@en ;
+    bkg:hasGenre genr:philosophical_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 2008 .
+
+book:Q48829 a bkg:Book ;
+    rdfs:label "A Fine Balance"@en ;
+    bkg:hasGenre genr:historical_fiction ;
+    bkg:pubYear 1995 .
+
+book:Q488331 a bkg:Book ;
+    rdfs:label "The Anatomy of Human Destructiveness"@en ;
+    bkg:pubYear 1973 .
+
+book:Q488350 a bkg:Book ;
+    rdfs:label "Anatomy of a Murder"@en ;
+    bkg:hasTopic them:fiction,
+        them:fiction_mystery_detective_general,
+        them:large_type_books ;
+    bkg:pubYear 1958 .
+
+book:Q489581 a bkg:Book ;
+    rdfs:label "Song of Kali"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:horror_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_fantasy_general,
+        them:fiction_horror,
+        them:fiction_science_fiction_general,
+        them:india_fiction,
+        them:literature,
+        them:romans ;
+    bkg:pubYear 1985 .
+
+book:Q491657 a bkg:Book ;
+    rdfs:label "The Very Hungry Caterpillar"@en ;
+    bkg:pubYear 1969 .
+
+book:Q492207 a bkg:Book ;
+    rdfs:label "Starship Troopers"@en ;
+    bkg:hasGenre genr:military_science_fiction,
+        genr:philosophical_fiction ;
+    bkg:pubYear 1959 .
+
+book:Q493191 a bkg:Book ;
+    rdfs:label "The Traveler"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:california_fiction,
+        them:fiction,
+        them:fiction_occult_supernatural,
+        them:fiction_thrillers_suspense,
+        them:paranormal_fiction,
+        them:supernatural ;
+    bkg:pubYear 2005 .
+
+book:Q494069 a bkg:Book ;
+    rdfs:label "The Seven Daughters of Eve"@en ;
+    bkg:hasGenre genr:essay,
+        genr:historical_fiction ;
+    bkg:hasTopic them:women ;
+    bkg:pubYear 2001 .
+
+book:Q495888 a bkg:Book ;
+    rdfs:label "Temporary Autonomous Zone"@en ;
+    bkg:hasGenre genr:philosophy ;
+    bkg:hasTopic them:anarchism,
+        them:art,
+        them:philosophy ;
+    bkg:pubYear 1991 .
+
+book:Q497280 a bkg:Book ;
+    rdfs:label "Robot Visions"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1990 .
+
+book:Q498561 a bkg:Book ;
+    rdfs:label "Sometimes They Come Back"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:pubYear 1980 .
+
+book:Q498727 a bkg:Book ;
+    rdfs:label "Lenny"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1958 .
+
+book:Q501514 a bkg:Book ;
+    rdfs:label "The Lightning Thief"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy,
+        genr:urban_fantasy,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción_juvenil,
+        them:fiction,
+        them:friendship,
+        them:juvenile_fiction,
+        them:new_york_times_bestseller,
+        them:new_york_times_reviewed,
+        them:young_adult_fiction ;
+    bkg:pubYear 2005 .
+
+book:Q513036 a bkg:Book ;
+    rdfs:label "The Andromeda Strain"@en ;
+    bkg:hasGenre genr:horror_fiction,
+        genr:science_fiction,
+        genr:techno-thriller,
+        genr:thriller ;
+    bkg:hasTopic them:fiction,
+        them:fiction_in_english,
+        them:fiction_science_fiction_general,
+        them:large_type_books,
+        them:long_now_manual_for_civilization,
+        them:romans_nouvelles,
+        them:science_fiction ;
+    bkg:pubYear 1969 .
+
+book:Q513696 a bkg:Book ;
+    rdfs:label "The Broken Window"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:sensation_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:fiction,
+        them:large_type_books,
+        them:new_york_ny_fiction,
+        them:new_york_times_bestseller,
+        them:police ;
+    bkg:pubYear 2008 .
+
+book:Q516848 a bkg:Book ;
+    rdfs:label "Gods of Riverworld"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:fiction_science_fiction_general ;
+    bkg:pubYear 1983 .
+
+book:Q519858 a bkg:Book ;
+    rdfs:label "Shards of a Broken Crown"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:fantasy,
+        them:fiction,
+        them:fiction_fantasy_epic,
+        them:fiction_fantasy_general,
+        them:heroes,
+        them:imaginary_wars_and_battles,
+        them:magic,
+        them:young_men ;
+    bkg:pubYear 1998 .
+
+book:Q519935 a bkg:Book ;
+    rdfs:label "Immortality, Inc."@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:fiction_in_english,
+        them:fiction_science_fiction_general ;
+    bkg:pubYear 1959 .
+
+book:Q520466 a bkg:Book ;
+    rdfs:label "Changing Planes"@en ;
+    bkg:hasTopic them:american_fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:fiction_general,
+        them:science_fiction_fantasy_horror ;
+    bkg:pubYear 2003 .
+
+book:Q521331 a bkg:Book ;
+    rdfs:label "Shopaholic Ties the Knot"@en ;
+    bkg:hasGenre genr:chick_lit ;
+    bkg:pubYear 2002 .
+
+book:Q521688 a bkg:Book ;
+    rdfs:label "House of Leaves"@en ;
+    bkg:hasGenre genr:epistolary_fiction,
+        genr:ergodic_literature,
+        genr:horror_fiction,
+        genr:metafiction ;
+    bkg:hasTopic them:american_horror_tales,
+        them:fiction,
+        them:fiction_horror,
+        them:fiction_suspense,
+        them:fiction_thrillers_suspense,
+        them:horror_tales,
+        them:paranormal_fiction,
+        them:suspense ;
+    bkg:pubYear 2000 .
+
+book:Q523766 a bkg:Book ;
+    rdfs:label "The Beatrice Letters"@en ;
+    bkg:hasGenre genr:epistolary_novel,
+        genr:fantasy ;
+    bkg:hasTopic them:children_grades_46,
+        them:childrens_fiction,
+        them:fiction,
+        them:humorous_stories,
+        them:juvenile_fiction,
+        them:letters ;
+    bkg:pubYear 2006 .
+
+book:Q523914 a bkg:Book ;
+    rdfs:label "Fools Die"@en ;
+    bkg:hasGenre genr:crime_literature ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:fiction_in_english,
+        them:fiction_suspense,
+        them:fiction_thrillers,
+        them:fiction_thrillers_general,
+        them:united_states_fiction ;
+    bkg:pubYear 1978 .
+
+book:Q525132 a bkg:Book ;
+    rdfs:label "The Alchemyst: The Secrets of the Immortal Nicholas Flamel"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:thriller ;
+    bkg:pubYear 2007 .
+
+book:Q526792 a bkg:Book ;
+    rdfs:label "Travels in the Scriptorium"@en ;
+    bkg:hasGenre genr:metafiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_psychological ;
+    bkg:pubYear 2006 .
+
+book:Q526802 a bkg:Book ;
+    rdfs:label "Last Contact"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 2007 .
+
+book:Q530406 a bkg:Book ;
+    rdfs:label "Charlie and the Great Glass Elevator"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        <http://bookkg.org/genre/children's_book>,
+        genr:humorous_fiction,
+        genr:science_fantasy ;
+    bkg:hasTopic them:adventure_stories,
+        them:childrens_fiction,
+        them:childrens_stories,
+        them:extraterrestrial_beings,
+        them:fiction,
+        them:humorous_fiction,
+        them:humorous_stories,
+        them:juvenile_fiction,
+        them:science_fiction,
+        them:skönlitteratur ;
+    bkg:pubYear 1972 .
+
+book:Q532677 a bkg:Book ;
+    rdfs:label "The Homecoming of Beorhtnoth Beorhthelm's Son"@en ;
+    bkg:hasGenre genr:alliterative_verse ;
+    bkg:pubYear 1953 .
+
+book:Q534970 a bkg:Book ;
+    rdfs:label "The Wonderful Story of Henry Sugar and Six More"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_and_young_adult_literature> ;
+    bkg:hasTopic them:childrens_stories,
+        them:childrens_stories_english,
+        them:english_language,
+        them:english_literature,
+        them:fiction_short_stories_single_author,
+        them:literature_and_fiction_juvenile,
+        them:short_stories ;
+    bkg:pubYear 1977 .
+
+book:Q534975 a bkg:Book ;
+    rdfs:label "Cryptonomicon"@en ;
+    bkg:hasGenre genr:cryptologic_fiction,
+        genr:historical_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_espionage,
+        them:fiction_science_fiction_general,
+        them:fiction_thrillers,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:literature,
+        them:long_now_manual_for_civilization,
+        them:new_york_times_reviewed,
+        them:science_fiction ;
+    bkg:pubYear 1999 .
+
+book:Q534991 a bkg:Book ;
+    rdfs:label "The Father Christmas Letters"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_literature>,
+        genr:epistolary_fiction,
+        genr:fantasy ;
+    bkg:hasTopic them:child_and_youth_fiction,
+        them:childrens_fiction,
+        them:childrens_stories,
+        them:elves,
+        them:fiction,
+        them:juvenile_fiction,
+        them:letters,
+        them:short_stories,
+        them:specimens ;
+    bkg:pubYear 1976 .
+
+book:Q535795 a bkg:Book ;
+    rdfs:label "Roverandom"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy ;
+    bkg:hasTopic them:childrens_fiction,
+        them:dragons,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:magic,
+        them:travel,
+        them:wizards,
+        them:wizards_fiction ;
+    bkg:pubYear 1998 .
+
+book:Q537659 a bkg:Book ;
+    rdfs:label "ARM"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1975 .
+
+book:Q538742 a bkg:Book ;
+    rdfs:label "Beyond the Blue Event Horizon"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:exploration,
+        them:fiction,
+        them:fiction_in_english,
+        them:fiction_science_fiction_general,
+        them:science_fiction ;
+    bkg:pubYear 1980 .
+
+book:Q53945 a bkg:Book ;
+    rdfs:label "Breaking Dawn"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:paranormal_romance,
+        genr:romantic_fiction,
+        genr:vampire_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:ficción,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:horror_fiction,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:new_york_times_bestseller,
+        them:romans_nouvelles,
+        them:romans_nouvelles_etc_pour_la_jeunesse ;
+    bkg:pubYear 2008 .
+
+book:Q541006 a bkg:Book ;
+    rdfs:label "Tales of the Unexpected"@en ;
+    bkg:hasGenre genr:Conte_cruel,
+        genr:thriller ;
+    bkg:hasTopic them:cats,
+        them:english_language,
+        them:fiction,
+        them:fiction_short_stories_single_author,
+        them:literature,
+        them:short_stories ;
+    bkg:pubYear 1979 .
+
+book:Q549152 a bkg:Book ;
+    rdfs:label "Rabbit Is Rich"@en ;
+    bkg:hasGenre genr:petrofiction ;
+    bkg:hasTopic them:american_fiction_fictional_works_by_one_author,
+        them:fiction,
+        them:fiction_psychological,
+        them:fictional_works,
+        them:literature,
+        them:psychological_fiction,
+        them:reading_levelgrade_10,
+        them:reading_levelgrade_11,
+        them:reading_levelgrade_12,
+        them:reading_levelgrade_9 ;
+    bkg:pubYear 1981 .
+
+book:Q550208 a bkg:Book ;
+    rdfs:label "The Plains of Passage"@en ;
+    bkg:hasGenre genr:historical_fiction,
+        genr:prehistoric_fiction ;
+    bkg:hasTopic them:epic_literature,
+        them:fiction,
+        them:fiction_historical,
+        them:fiction_historical_general,
+        them:historical_fiction,
+        them:novela,
+        them:open_library_staff_picks,
+        them:romans,
+        them:romans_nouvelles ;
+    bkg:pubYear 1990 .
+
+book:Q551345 a bkg:Book ;
+    rdfs:label "Robopocalypse"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 2011 .
+
+book:Q552213 a bkg:Book ;
+    rdfs:label "Forrest Gump"@en ;
+    bkg:pubYear 1986 .
+
+book:Q557867 a bkg:Book ;
+    rdfs:label "Fifty Shades of Grey"@en ;
+    bkg:hasGenre genr:BDSM-themed_literature,
+        genr:dark_romance,
+        genr:erotic_romance_novel ;
+    bkg:hasTopic them:english_literature,
+        them:ficción,
+        them:fiction,
+        them:large_type_books,
+        them:love_stories,
+        them:manwoman_relationships_fiction,
+        them:new_york_times_bestseller,
+        them:novela,
+        them:romance,
+        them:romans_nouvelles ;
+    bkg:pubYear 2011 .
+
+book:Q565105 a bkg:Book ;
+    rdfs:label "Psychohistorical Crisis"@en ;
+    bkg:hasGenre genr:parallel_novel,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_psychological,
+        them:fiction_science_fiction_general ;
+    bkg:pubYear 2001 .
+
+book:Q567652 a bkg:Book ;
+    rdfs:label "Anonymous Rex"@en ;
+    bkg:hasGenre genr:mystery_fiction ;
+    bkg:pubYear 2000 .
+
+book:Q568143 a bkg:Book ;
+    rdfs:label "Survivor"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_action_adventure,
+        them:fiction_general,
+        them:fiction_humorous,
+        them:fiction_psychological,
+        them:united_states_fiction ;
+    bkg:pubYear 1999 .
+
+book:Q568210 a bkg:Book ;
+    rdfs:label "They Do It with Mirrors"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:england_fiction,
+        them:english_language,
+        them:english_literature,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_mystery_detective_traditional,
+        them:jane_marple_fictitious_character,
+        them:marple_jane_fictitious_character_fiction,
+        them:mystery ;
+    bkg:pubYear 1952 .
+
+book:Q568375 a bkg:Book ;
+    rdfs:label "The Path of Daggers"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:high_fantasy ;
+    bkg:pubYear 1998 .
+
+book:Q569790 a bkg:Book ;
+    rdfs:label "Dreamcatcher"@en ;
+    bkg:hasGenre genr:horror_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_literature,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_horror,
+        them:friendship,
+        them:horror_fiction,
+        them:literature,
+        them:romans_nouvelles ;
+    bkg:pubYear 2001 .
+
+book:Q576737 a bkg:Book ;
+    rdfs:label "The Guardians"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:dystopian_fiction,
+        genr:science_fiction,
+        genr:soft_science_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:child_and_youth_fiction,
+        them:childrens_fiction,
+        them:childrens_stories,
+        them:dystopias,
+        them:england_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:orphans,
+        them:science_fiction,
+        them:teenage_boys ;
+    bkg:pubYear 1970 .
+
+book:Q578895 a bkg:Book ;
+    rdfs:label "The Restaurant at the End of the Universe"@en ;
+    bkg:hasGenre genr:comic_novel,
+        genr:science_fiction,
+        genr:science_fiction_comedy ;
+    bkg:hasTopic them:english_literature,
+        them:fiction,
+        them:fiction_humorous,
+        them:fiction_humorous_general,
+        them:fiction_science_fiction_general,
+        them:humorous_fiction,
+        them:humorous_stories,
+        them:interplanetary_voyages,
+        them:life_on_other_planets,
+        them:science_fiction ;
+    bkg:pubYear 1980 .
+
+book:Q579719 a bkg:Book ;
+    rdfs:label "Irrational Exuberance"@en ;
+    bkg:hasGenre genr:non-fiction ;
+    bkg:pubYear 2000 .
+
+book:Q579837 a bkg:Book ;
+    rdfs:label "The 158-Pound Marriage"@en ;
+    bkg:pubYear 1974 .
+
+book:Q580361 a bkg:Book ;
+    rdfs:label "The Lost World"@en ;
+    bkg:hasGenre genr:biopunk,
+        genr:lost_world_fiction,
+        genr:science_fiction,
+        genr:techno-thriller,
+        genr:thriller ;
+    bkg:hasTopic them:american_fiction,
+        them:childrens_fiction,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:large_type_books,
+        them:new_york_times_reviewed,
+        them:science_fiction,
+        them:thriller ;
+    bkg:pubYear 1995 .
+
+book:Q581426 a bkg:Book ;
+    rdfs:label "Blood Meridian"@en ;
+    bkg:hasGenre genr:Western_novel,
+        genr:historical_fiction ;
+    bkg:hasTopic them:american_fiction_fictional_works_by_one_author,
+        them:fiction,
+        them:fiction_action_adventure,
+        them:fiction_general,
+        them:fiction_historical,
+        them:fiction_historical_general,
+        them:teenage_boys ;
+    bkg:pubYear 1985 .
+
+book:Q581485 a bkg:Book ;
+    rdfs:label "The Book of Illusions"@en ;
+    bkg:pubYear 2002 .
+
+book:Q582509 a bkg:Book ;
+    rdfs:label "At Bertram's Hotel"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:pubYear 1965 .
+
+book:Q582811 a bkg:Book ;
+    rdfs:label "Tinker Tailor Soldier Spy"@en ;
+    bkg:hasGenre genr:spy_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_in_english,
+        them:fiction_thrillers_espionage,
+        them:great_britain_fiction,
+        them:intelligence_service,
+        them:large_type_books,
+        them:secret_service ;
+    bkg:pubYear 1974 .
+
+book:Q582825 a bkg:Book ;
+    rdfs:label "The Children of Men"@en ;
+    bkg:hasGenre genr:crime_literature,
+        genr:post-apocalyptic_literature ;
+    bkg:pubYear 1992 .
+
+book:Q583366 a bkg:Book ;
+    rdfs:label "Robot Dreams"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1986 .
+
+book:Q585485 a bkg:Book ;
+    rdfs:label "Soldiers Live"@en ;
+    bkg:hasGenre genr:dark_fantasy,
+        genr:high_fantasy ;
+    bkg:pubYear 2000 .
+
+book:Q586831 a bkg:Book ;
+    rdfs:label "A Case of Conscience"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:awardhugo_awardnovel,
+        them:christianity,
+        them:exploration,
+        them:extraterrestrial_beings,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:hugo_award_winner,
+        them:life_on_other_planets,
+        them:religion ;
+    bkg:pubYear 1958 .
+
+book:Q588035 a bkg:Book ;
+    rdfs:label "Planet of Exile"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1966 .
+
+book:Q588517 a bkg:Book ;
+    rdfs:label "Darkness, Take My Hand"@en ;
+    bkg:hasGenre genr:crime_fiction ;
+    bkg:pubYear 1996 .
+
+book:Q588531 a bkg:Book ;
+    rdfs:label "The Mirror Crack'd from Side to Side"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:pubYear 1962 .
+
+book:Q589106 a bkg:Book ;
+    rdfs:label "City of Bones"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:thriller,
+        genr:young_adult_fiction ;
+    bkg:pubYear 2007 .
+
+book:Q589485 a bkg:Book ;
+    rdfs:label "The Wasp Factory"@en ;
+    bkg:hasGenre genr:LGBT-related_literature ;
+    bkg:hasTopic them:fathers_and_sons,
+        them:fiction,
+        them:teenage_boys ;
+    bkg:pubYear 1984 .
+
+book:Q589841 a bkg:Book ;
+    rdfs:label "The Best of Everything"@en ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:friendship_fiction,
+        them:literary_fiction,
+        them:literature,
+        them:new_york_ny_fiction,
+        them:young_women,
+        them:young_women_fiction ;
+    bkg:pubYear 1958 .
+
+book:Q592078 a bkg:Book ;
+    rdfs:label "The Bourne Identity"@en ;
+    bkg:hasGenre genr:spy_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:fiction_thrillers_general ;
+    bkg:pubYear 1980 .
+
+book:Q592815 a bkg:Book ;
+    rdfs:label "Homeward Bound"@en ;
+    bkg:hasGenre genr:alternate_history,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_science_fiction_general,
+        them:fiction_war_military,
+        them:historical_fiction,
+        them:humanalien_encounters,
+        them:science_fiction ;
+    bkg:pubYear 2004 .
+
+book:Q593182 a bkg:Book ;
+    rdfs:label "Why I Want to Fuck Ronald Reagan"@en ;
+    bkg:pubYear 1968 .
+
+book:Q594093 a bkg:Book ;
+    rdfs:label "Blood and Memory"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general ;
+    bkg:pubYear 2004 .
+
+book:Q594567 a bkg:Book ;
+    rdfs:label "Komarr"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:fiction,
+        them:fiction_science_fiction_action_adventure,
+        them:life_on_other_planets ;
+    bkg:pubYear 1998 .
+
+book:Q595128 a bkg:Book ;
+    rdfs:label "Going Postal"@en ;
+    bkg:hasGenre genr:fantasy_comedy ;
+    bkg:pubYear 2004 .
+
+book:Q595766 a bkg:Book ;
+    rdfs:label "Fire"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:ficción_juvenil,
+        them:fiction,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:magic,
+        them:new_york_times_bestseller,
+        them:romans_nouvelles_etc_pour_la_jeunesse ;
+    bkg:pubYear 2009 .
+
+book:Q595950 a bkg:Book ;
+    rdfs:label "Mortal Engines"@en ;
+    bkg:hasGenre genr:Bildungsroman,
+        genr:post-apocalyptic_fiction,
+        genr:science_fiction,
+        genr:steampunk,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:childrens_fiction,
+        them:childrens_stories_english,
+        them:fiction,
+        them:juvenile_fiction,
+        them:nuclear_weapons,
+        them:science_fiction ;
+    bkg:pubYear 2001 .
+
+book:Q595995 a bkg:Book ;
+    rdfs:label "Slow Learner"@en ;
+    bkg:hasTopic them:american_fiction_fictional_works_by_one_author,
+        them:fiction_short_stories_single_author ;
+    bkg:pubYear 1984 .
+
+book:Q596874 a bkg:Book ;
+    rdfs:label "Misery"@en ;
+    bkg:hasGenre genr:horror_fiction,
+        genr:psychological_thriller,
+        genr:thriller ;
+    bkg:pubYear 1987 .
+
+book:Q597219 a bkg:Book ;
+    rdfs:label "The Counterlife"@en ;
+    bkg:hasGenre genr:postmodern_fiction ;
+    bkg:hasTopic them:american_fiction_fictional_works_by_one_author,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_psychological ;
+    bkg:pubYear 1986 .
+
+book:Q597545 a bkg:Book ;
+    rdfs:label "The Reluctant Fundamentalist"@en ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:fiction_media_tiein,
+        them:fiction_psychological,
+        them:general,
+        them:large_type_books,
+        them:literature,
+        them:new_york_times_reviewed,
+        them:psychological_fiction,
+        them:romans_nouvelles ;
+    bkg:pubYear 2007 .
+
+book:Q598071 a bkg:Book ;
+    rdfs:label "Concrete Island"@en ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:fiction_in_english,
+        them:london_england_fiction,
+        them:long_now_manual_for_civilization,
+        them:science_fiction,
+        them:survival ;
+    bkg:pubYear 1974 .
+
+book:Q598136 a bkg:Book ;
+    rdfs:label "Wolf Island"@en ;
+    bkg:hasGenre genr:adventure_fiction,
+        <http://bookkg.org/genre/children's_fiction>,
+        genr:fantasy,
+        genr:horror_fiction ;
+    bkg:pubYear 2008 .
+
+book:Q599495 a bkg:Book ;
+    rdfs:label "The Last Coyote"@en ;
+    bkg:hasGenre genr:crime_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:ficción,
+        them:fiction,
+        them:investigation,
+        them:large_type_books,
+        them:murder,
+        them:new_york_times_bestseller,
+        them:novela,
+        them:police,
+        them:thriller ;
+    bkg:pubYear 1995 .
+
+book:Q600448 a bkg:Book ;
+    rdfs:label "Cocaine Nights"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:british,
+        them:detective_and_mystery_stories,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_mystery_detective_general ;
+    bkg:pubYear 1996 .
+
+book:Q600821 a bkg:Book ;
+    rdfs:label "The Book of Dreams"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:science_fiction ;
+    bkg:pubYear 1981 .
+
+book:Q602216 a bkg:Book ;
+    rdfs:label "The Scar"@en ;
+    bkg:hasGenre genr:New_Weird,
+        genr:fantasy,
+        genr:science_fiction,
+        genr:steampunk,
+        genr:weird_fiction ;
+    bkg:pubYear 2002 .
+
+book:Q602288 a bkg:Book ;
+    rdfs:label "It"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:hasTopic them:american_literature,
+        them:fiction,
+        them:fiction_horror,
+        them:good_and_evil,
+        them:horror_fiction,
+        them:new_york_times_bestseller,
+        them:new_york_times_reviewed,
+        them:open_library_staff_picks,
+        them:reading_levelgrade_11,
+        them:reading_levelgrade_12 ;
+    bkg:pubYear 1986 .
+
+book:Q603645 a bkg:Book ;
+    rdfs:label "The Yiddish Policemen's Union"@en ;
+    bkg:hasGenre genr:alternate_history,
+        genr:detective_fiction,
+        genr:fantasy,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:fiction_mystery_detective_general,
+        them:large_type_books,
+        them:literature,
+        them:murder,
+        them:mystery_fiction,
+        them:new_york_times_reviewed,
+        them:romans_nouvelles ;
+    bkg:pubYear 2007 .
+
+book:Q603705 a bkg:Book ;
+    rdfs:label ". . . That Thou Art Mindful of Him"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1974 .
+
+book:Q605697 a bkg:Book ;
+    rdfs:label "The Mists of Avalon"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:historical_fantasy,
+        genr:historical_fiction,
+        genr:secret_history ;
+    bkg:pubYear 1983 .
+
+book:Q60672 a bkg:Book ;
+    rdfs:label "Inheritance"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:american_fantasy_fiction,
+        them:childrens_fiction,
+        them:dragons,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:magic,
+        them:new_york_times_bestseller,
+        them:young_adult_fiction ;
+    bkg:pubYear 2011 .
+
+book:Q607112 a bkg:Book ;
+    rdfs:label "The Three-Body Problem"@en ;
+    bkg:hasGenre genr:hard_science_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:awardhugo_awardnovel,
+        them:fantasy,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:general,
+        them:history,
+        them:hugo_award_winner,
+        them:new_york_times_bestseller,
+        them:science_fiction ;
+    bkg:pubYear 2006 .
+
+book:Q608378 a bkg:Book ;
+    rdfs:label "The Rise of Nine"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction>,
+        genr:science_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:action_adventure,
+        them:childrens_fiction,
+        them:fiction,
+        them:friendship,
+        them:juvenile_fiction,
+        them:new_york_times_bestseller,
+        them:science_fiction,
+        them:young_adult_fiction ;
+    bkg:pubYear 2012 .
+
+book:Q608534 a bkg:Book ;
+    rdfs:label "The Overlook"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:mystery_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_suspense,
+        them:fiction_thrillers_suspense,
+        them:los_angeles_calif_fiction,
+        them:mystery,
+        them:mystery_fiction,
+        them:open_library_staff_picks,
+        them:police ;
+    bkg:pubYear 2007 .
+
+book:Q608616 a bkg:Book ;
+    rdfs:label "Dexter Is Delicious"@en ;
+    bkg:hasGenre genr:crime_literature ;
+    bkg:pubYear 2010 .
+
+book:Q610680 a bkg:Book ;
+    rdfs:label "Last Call"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 1992 .
+
+book:Q615544 a bkg:Book ;
+    rdfs:label "The Lion in Winter"@en ;
+    bkg:pubYear 1966 .
+
+book:Q615651 a bkg:Book ;
+    rdfs:label "Now and Forever"@en ;
+    bkg:hasGenre genr:romantic_fiction ;
+    bkg:pubYear 1978 .
+
+book:Q615807 a bkg:Book ;
+    rdfs:label "Hell House"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_horror,
+        them:young_men ;
+    bkg:pubYear 1971 .
+
+book:Q616606 a bkg:Book ;
+    rdfs:label "L.A. Requiem"@en ;
+    bkg:hasGenre genr:detective_fiction ;
+    bkg:hasTopic them:action_adventure,
+        them:fiction,
+        them:friendship,
+        them:large_type_books,
+        them:murder,
+        them:mystery,
+        them:mystery_fiction,
+        them:private_investigators_fiction,
+        them:suspense,
+        them:thrillers ;
+    bkg:pubYear 1999 .
+
+book:Q618430 a bkg:Book ;
+    rdfs:label "Long Day's Journey into Night"@en ;
+    bkg:hasGenre genr:autobiography ;
+    bkg:pubYear 1956 .
+
+book:Q618681 a bkg:Book ;
+    rdfs:label "Imzadi"@en ;
+    bkg:hasTopic them:fiction,
+        them:fiction_media_tiein,
+        them:fiction_science_fiction_general,
+        them:science_fiction ;
+    bkg:pubYear 1992 .
+
+book:Q622400 a bkg:Book ;
+    rdfs:label "Things Fall Apart"@en ;
+    bkg:hasGenre genr:fiction_literature,
+        genr:historical_fiction ;
+    bkg:hasTopic them:english_literature,
+        them:ficción,
+        them:fiction,
+        them:fiction_general,
+        them:history,
+        them:juvenile_fiction,
+        them:literature,
+        them:long_now_manual_for_civilization,
+        them:romans,
+        them:romans_nouvelles ;
+    bkg:pubYear 1958 .
+
+book:Q623394 a bkg:Book ;
+    rdfs:label "Carrie"@en ;
+    bkg:hasGenre genr:epistolary_fiction,
+        genr:horror_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:american_literature,
+        them:ficción,
+        them:fiction,
+        them:fiction_horror,
+        them:good_and_evil,
+        them:horror_fiction,
+        them:large_type_books,
+        them:thriller ;
+    bkg:pubYear 1974 .
+
+book:Q625764 a bkg:Book ;
+    rdfs:label "Midnight's Children"@en ;
+    bkg:hasGenre genr:historical_fiction,
+        genr:magic_realist_fiction ;
+    bkg:pubYear 1981 .
+
+book:Q629438 a bkg:Book ;
+    rdfs:label "Elephants Can Remember"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:pubYear 1972 .
+
+book:Q629445 a bkg:Book ;
+    rdfs:label "Gerald's Game"@en ;
+    bkg:hasGenre genr:drama,
+        genr:horror_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:american_fiction,
+        them:fiction,
+        them:fiction_horror,
+        them:horror,
+        them:horror_fiction,
+        them:horror_tales,
+        them:large_type_books,
+        them:new_york_times_reviewed,
+        them:romans_nouvelles ;
+    bkg:pubYear 1992 .
+
+book:Q630341 a bkg:Book ;
+    rdfs:label "Three Hearts and Three Lions"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:american_science_fiction,
+        them:dragons,
+        them:fantasy,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:fiction_general,
+        them:fiction_science_fiction_general,
+        them:magic,
+        them:monsters,
+        them:science_fiction_fantasy_horror ;
+    bkg:pubYear 1961 .
+
+book:Q631891 a bkg:Book ;
+    rdfs:label "True West"@en ;
+    bkg:hasGenre genr:drama ;
+    bkg:pubYear 1981 .
+
+book:Q633329 a bkg:Book ;
+    rdfs:label "Into the Labyrinth"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 1993 .
+
+book:Q637839 a bkg:Book ;
+    rdfs:label "The Kite Runner"@en ;
+    bkg:pubYear 2003 .
+
+book:Q63998 a bkg:Book ;
+    rdfs:label "War and Remembrance"@en ;
+    bkg:hasGenre genr:war_fiction ;
+    bkg:hasTopic them:american_fiction,
+        them:classic_literature,
+        them:fiction,
+        them:fiction_historical,
+        them:fiction_historical_general,
+        them:fiction_in_english,
+        them:fiction_war_military,
+        them:historical_fiction,
+        them:war,
+        them:world_war_19391945 ;
+    bkg:pubYear 1978 .
+
+book:Q64095 a bkg:Book ;
+    rdfs:label "The Winds of War"@en ;
+    bkg:hasGenre genr:historical_fiction ;
+    bkg:hasTopic them:classic_literature,
+        them:fiction,
+        them:fiction_in_english,
+        them:fiction_war_military,
+        them:historical_fiction,
+        them:war_stories,
+        them:world_war_19391945,
+        them:world_war_19391945_fiction ;
+    bkg:pubYear 1971 .
+
+book:Q643901 a bkg:Book ;
+    rdfs:label "Monster Mission"@en ;
+    bkg:hasTopic them:childrens_fiction,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:islands,
+        them:juvenile_fiction,
+        them:kidnapping,
+        them:mythical_animals ;
+    bkg:pubYear 1999 .
+
+book:Q649015 a bkg:Book ;
+    rdfs:label "The Tale of the Body Thief"@en ;
+    bkg:hasGenre genr:vampire_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_horror,
+        them:horror_fiction,
+        them:horror_tales,
+        them:psychics,
+        them:vampires,
+        them:vampires_fiction ;
+    bkg:pubYear 1992 .
+
+book:Q649267 a bkg:Book ;
+    rdfs:label "Player Piano"@en ;
+    bkg:hasGenre genr:dystopian_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_fiction_fictional_works_by_one_author,
+        them:classic_literature,
+        them:fiction,
+        them:long_now_manual_for_civilization,
+        them:mystery,
+        them:science_fiction,
+        them:science_fiction_fantasy,
+        them:utopias ;
+    bkg:pubYear 1952 .
+
+book:Q652890 a bkg:Book ;
+    rdfs:label "A Spaniard in the Works"@en ;
+    bkg:hasGenre genr:experimental_literature ;
+    bkg:pubYear 1965 .
+
+book:Q654170 a bkg:Book ;
+    rdfs:label "Third Girl"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:england_fiction,
+        them:english_literature,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:investigation,
+        them:large_type_books,
+        them:murder,
+        them:mystery,
+        them:romans_nouvelles ;
+    bkg:pubYear 1966 .
+
+book:Q656127 a bkg:Book ;
+    rdfs:label "While the Light Lasts and Other Stories"@en ;
+    bkg:hasGenre genr:crime_fiction ;
+    bkg:hasTopic them:english_detective_and_mystery_stories,
+        them:fiction_mystery_detective_general ;
+    bkg:pubYear 1997 .
+
+book:Q659731 a bkg:Book ;
+    rdfs:label "Diamonds Are Forever"@en ;
+    bkg:hasGenre genr:crime_fiction ;
+    bkg:hasTopic them:english_literature,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_in_english,
+        them:fiction_mystery_detective_general,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:murder,
+        them:thriller,
+        them:thrillers ;
+    bkg:pubYear 1956 .
+
+book:Q661438 a bkg:Book ;
+    rdfs:label "The Winnowing"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1976 .
+
+book:Q662029 a bkg:Book ;
+    rdfs:label "Neuromancer"@en ;
+    bkg:hasGenre genr:cyberpunk_novel,
+        genr:dystopian_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_science_fiction_general,
+        them:long_now_manual_for_civilization,
+        them:open_library_staff_picks,
+        them:reading_levelgrade_10,
+        them:reading_levelgrade_11,
+        them:reading_levelgrade_12,
+        them:reading_levelgrade_8,
+        them:reading_levelgrade_9,
+        them:science_fiction ;
+    bkg:pubYear 1984 .
+
+book:Q662997 a bkg:Book ;
+    rdfs:label "Sleeping Murder"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:england_fiction,
+        them:english_detective_and_mystery_stories,
+        them:english_literature,
+        them:fiction,
+        them:fiction_mystery_detective_traditional,
+        them:fiction_mystery_detective_women_sleuths,
+        them:large_type_books,
+        them:mystery,
+        them:romans_nouvelles ;
+    bkg:pubYear 1976 .
+
+book:Q663215 a bkg:Book ;
+    rdfs:label "Mona Lisa Overdrive"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_literature,
+        them:fiction,
+        them:fiction_general,
+        them:long_now_manual_for_civilization,
+        them:science_fiction ;
+    bkg:pubYear 1988 .
+
+book:Q666538 a bkg:Book ;
+    rdfs:label "Lucky Starr and the Oceans of Venus"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:young_adult_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:fiction,
+        them:fiction_in_english,
+        them:fiction_science_fiction_general,
+        them:science_fiction ;
+    bkg:pubYear 1954 .
+
+book:Q670552 a bkg:Book ;
+    rdfs:label "The Dark Tower IV: Wizard and Glass"@en ;
+    bkg:hasGenre genr:dark_fantasy,
+        genr:fantasy,
+        genr:horror_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_literature,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:friendship,
+        them:good_and_evil,
+        them:horror_fiction,
+        them:horror_tales,
+        them:thrillers ;
+    bkg:pubYear 1997 .
+
+book:Q671859 a bkg:Book ;
+    rdfs:label "Old Possum's Book of Practical Cats"@en ;
+    bkg:hasGenre genr:poetry ;
+    bkg:hasTopic them:cats,
+        them:translations_into_russian ;
+    bkg:pubYear 1995 .
+
+book:Q674586 a bkg:Book ;
+    rdfs:label "Johnny Mnemonic"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general ;
+    bkg:pubYear 1981 .
+
+book:Q676256 a bkg:Book ;
+    rdfs:label "The Warrior's Apprentice"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1986 .
+
+book:Q684614 a bkg:Book ;
+    rdfs:label "Everything's Eventual"@en ;
+    bkg:hasGenre genr:horror_fiction ;
+    bkg:pubYear 2002 .
+
+book:Q684818 a bkg:Book ;
+    rdfs:label "Matter"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:brothers_and_sisters,
+        them:fiction,
+        them:life_on_other_planets,
+        them:murder,
+        them:science_fiction,
+        them:science_fiction_fantasy ;
+    bkg:pubYear 2008 .
+
+book:Q721 a bkg:Book ;
+    rdfs:label "Life, the Universe and Everything"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:humorous_fiction,
+        genr:science_fiction,
+        genr:science_fiction_comedy ;
+    bkg:hasTopic them:arthur_dent_fictitious_character,
+        them:english_literature,
+        them:fantasy,
+        them:fiction,
+        them:fiction_humorous,
+        them:fiction_humorous_general,
+        them:fiction_science_fiction_general,
+        them:ford_prefect_fictitious_character,
+        them:interplanetary_voyages,
+        them:science_fiction ;
+    bkg:pubYear 1982 .
+
+book:Q73588 a bkg:Book ;
+    rdfs:label "Four Ways to Forgiveness"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:ficción,
+        them:fiction,
+        them:life_on_other_planets,
+        them:science_fiction_fantasy,
+        them:women ;
+    bkg:pubYear 1995 .
+
+book:Q74362 a bkg:Book ;
+    rdfs:label "Excession"@en ;
+    bkg:hasGenre genr:metaphysical_science_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 1996 .
+
+book:Q74378 a bkg:Book ;
+    rdfs:label "Time"@en ;
+    bkg:hasGenre genr:hard_science_fiction,
+        genr:science_fiction ;
+    bkg:pubYear 1999 .
+
+book:Q756675 a bkg:Book ;
+    rdfs:label "Hearts in Atlantis"@en ;
+    bkg:hasGenre genr:coming-of-age_fiction,
+        genr:supernatural_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_horror,
+        them:fiction_short_stories_single_author,
+        them:fiction_thrillers_general,
+        them:horror,
+        them:horror_tales,
+        them:large_type_books,
+        them:literary_fiction,
+        them:suspense,
+        them:thrillers ;
+    bkg:pubYear 1999 .
+
+book:Q759467 a bkg:Book ;
+    rdfs:label "The Clocks"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:detective_fiction,
+        genr:spy_fiction ;
+    bkg:hasTopic them:detective_and_mystery_stories,
+        them:england_fiction,
+        them:english_literature,
+        them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_mystery_detective_traditional,
+        them:investigation,
+        them:large_type_books,
+        them:murder,
+        them:mystery ;
+    bkg:pubYear 1963 .
+
+book:Q759559 a bkg:Book ;
+    rdfs:label "Prelude to Space"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:hasTopic them:english_science_fiction,
+        them:fiction,
+        them:science_fiction ;
+    bkg:pubYear 1951 .
+
+book:Q760771 a bkg:Book ;
+    rdfs:label "Too Much Happiness"@en ;
+    bkg:hasTopic them:american_literature,
+        them:ficción,
+        them:fiction,
+        them:fiction_short_stories_single_author,
+        them:friendship,
+        them:interpersonal_relations,
+        them:large_type_books,
+        them:new_york_times_reviewed,
+        them:short_stories,
+        them:young_women_fiction ;
+    bkg:pubYear 2009 .
+
+book:Q761474 a bkg:Book ;
+    rdfs:label "Life & Times of Michael K"@en ;
+    bkg:hasGenre genr:fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:fiction_psychological,
+        them:large_type_books,
+        them:reading_levelgrade_7,
+        them:reading_levelgrade_8 ;
+    bkg:pubYear 1983 .
+
+book:Q763193 a bkg:Book ;
+    rdfs:label "Fasting, Feasting"@en ;
+    bkg:hasTopic them:brothers_and_sisters,
+        them:families,
+        them:family,
+        them:fiction,
+        them:fiction_general,
+        them:india_fiction,
+        them:large_type_books,
+        them:social_life_and_customs,
+        them:young_women,
+        them:young_women_fiction ;
+    bkg:pubYear 1999 .
+
+book:Q764123 a bkg:Book ;
+    rdfs:label "Citizen of the Galaxy"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1957 .
+
+book:Q764902 a bkg:Book ;
+    rdfs:label "Santiago: a Myth of the Far Future"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:space_Western ;
+    bkg:pubYear 1986 .
+
+book:Q767362 a bkg:Book ;
+    rdfs:label "The Sorceress"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:mythology,
+        genr:thriller ;
+    bkg:hasTopic them:childrens_fiction,
+        them:england_fiction,
+        them:fiction,
+        them:juvenile_fiction,
+        them:large_type_books,
+        them:magic,
+        them:new_york_times_bestseller,
+        them:paranormal_fiction,
+        them:supernatural,
+        them:young_adult_fiction ;
+    bkg:pubYear 2009 .
+
+book:Q767890 a bkg:Book ;
+    rdfs:label "Zorba the Hutt's Revenge"@en ;
+    bkg:pubYear 1992 .
+
+book:Q768389 a bkg:Book ;
+    rdfs:label "Snow Crash"@en ;
+    bkg:hasGenre genr:cyberpunk,
+        genr:postcyberpunk,
+        genr:postmodern_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_fiction,
+        them:american_science_fiction,
+        them:fantasy,
+        them:fiction,
+        them:fiction_fantasy_general,
+        them:fiction_science_fiction_general,
+        them:long_now_manual_for_civilization,
+        them:open_library_staff_picks,
+        them:science_fiction,
+        them:suspense ;
+    bkg:pubYear 1992 .
+
+book:Q770474 a bkg:Book ;
+    rdfs:label "Never Dream of Dying"@en ;
+    bkg:hasGenre genr:spy_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_mystery_detective_general,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:large_type_books,
+        them:murder,
+        them:mystery,
+        them:mystery_fiction,
+        them:thriller,
+        them:thrillers ;
+    bkg:pubYear 2001 .
+
+book:Q770859 a bkg:Book ;
+    rdfs:label "IBM and the Holocaust"@en ;
+    bkg:hasGenre genr:historical_non-fiction_work ;
+    bkg:hasTopic them:history,
+        them:holocaust_jewish_19391945,
+        them:jews ;
+    bkg:pubYear 2001 .
+
+book:Q772435 a bkg:Book ;
+    rdfs:label "Fear and Loathing in Las Vegas"@en ;
+    bkg:hasGenre genr:gonzo,
+        genr:roman_à_clef ;
+    bkg:pubYear 1971 .
+
+book:Q772495 a bkg:Book ;
+    rdfs:label "Banquets of the Black Widowers"@en ;
+    bkg:hasGenre genr:mystery_fiction ;
+    bkg:hasTopic them:fiction_mystery_detective_general ;
+    bkg:pubYear 1984 .
+
+book:Q772528 a bkg:Book ;
+    rdfs:label "The Legend of Huma"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 1988 .
+
+book:Q774053 a bkg:Book ;
+    rdfs:label "The Palm-Wine Drinkard"@en ;
+    bkg:hasTopic them:fiction,
+        them:fiction_general,
+        them:nigeria_fiction,
+        them:romans_nouvelles ;
+    bkg:pubYear 1952 .
+
+book:Q79762 a bkg:Book ;
+    rdfs:label "The Silmarillion"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:mythopoeia ;
+    bkg:hasTopic them:elves,
+        them:english_fantasy_fiction,
+        them:english_fiction,
+        them:english_literature,
+        them:fantasy,
+        them:fantasy_fiction,
+        them:fiction,
+        them:fiction_fantasy_epic,
+        them:middle_earth_imaginary_place,
+        them:short_stories ;
+    bkg:pubYear 1977 .
+
+book:Q81007 a bkg:Book ;
+    rdfs:label "The Kill Artist"@en ;
+    bkg:hasGenre genr:spy_fiction ;
+    bkg:hasTopic them:allon_gabriel_fictitious_character_fiction,
+        them:art_restorers,
+        them:fiction,
+        them:fiction_espionage,
+        them:fiction_political,
+        them:fiction_thrillers_espionage,
+        them:suspense_fiction,
+        them:terrorism,
+        them:terrorism_fiction,
+        them:thriller ;
+    bkg:pubYear 2002 .
+
+book:Q81316 a bkg:Book ;
+    rdfs:label "The Secret Servant"@en ;
+    bkg:hasGenre genr:crime_fiction,
+        genr:mystery_fiction,
+        genr:spy_fiction,
+        genr:thriller ;
+    bkg:hasTopic them:fiction,
+        them:fiction_espionage,
+        them:fiction_thrillers_espionage,
+        them:fiction_thrillers_general,
+        them:intelligence_officers,
+        them:israelis,
+        them:large_type_books,
+        them:open_library_staff_picks,
+        them:terrorism,
+        them:thriller ;
+    bkg:pubYear 2007 .
+
+book:Q81689 a bkg:Book ;
+    rdfs:label "The Da Vinci Code"@en ;
+    bkg:hasGenre genr:conspiracy_fiction,
+        genr:crime_fiction,
+        genr:detective_fiction,
+        genr:esoteric_novel,
+        genr:thriller ;
+    bkg:pubYear 2003 .
+
+book:Q82888 a bkg:Book ;
+    rdfs:label "The Road to Middle-earth"@en ;
+    bkg:hasGenre genr:non-fiction ;
+    bkg:hasTopic them:criticism_and_interpretation,
+        them:english_fantasy_literature,
+        them:middle_earth_imaginary_place ;
+    bkg:pubYear 1982 .
+
+book:Q83880 a bkg:Book ;
+    rdfs:label "The Cult of the Amateur"@en ;
+    bkg:hasGenre genr:non-fiction ;
+    bkg:hasTopic them:new_york_times_reviewed,
+        them:nonfiction ;
+    bkg:pubYear 2007 .
+
+book:Q8563 a bkg:Book ;
+    rdfs:label "The Hundred and One Dalmatians"@en ;
+    bkg:hasGenre <http://bookkg.org/genre/children's_fiction> ;
+    bkg:hasTopic them:childrens_fiction ;
+    bkg:pubYear 1956 .
+
+book:Q8650 a bkg:Book ;
+    rdfs:label "10 tips on how to stop killing people and start doing the dishes"@en ;
+    bkg:pubYear 2008 .
+
+book:Q92630 a bkg:Book ;
+    rdfs:label "The Windup Girl"@en ;
+    bkg:hasGenre genr:biopunk,
+        genr:climate_fiction,
+        genr:dystopian_fiction,
+        genr:science_fiction ;
+    bkg:hasTopic them:awardhugo_awardnovel,
+        them:fiction,
+        them:fiction_general,
+        them:fiction_science_fiction_general,
+        them:fiction_thrillers_general,
+        them:hugo_award_winner,
+        them:long_now_manual_for_civilization,
+        them:romans_nouvelles,
+        them:science_fiction,
+        them:terrorism ;
+    bkg:pubYear 2009 .
+
+genr:BDSM-themed_literature a bkg:Genre ;
+    rdfs:label "BDSM-themed literature"@en .
+
+genr:Conte_cruel a bkg:Genre ;
+    rdfs:label "Conte cruel"@en .
+
+genr:LGBT-related_literature a bkg:Genre ;
+    rdfs:label "LGBT-related literature"@en .
+
+genr:New_Weird a bkg:Genre ;
+    rdfs:label "New Weird"@en .
+
+genr:Western_novel a bkg:Genre ;
+    rdfs:label "Western novel"@en .
+
+genr:alliterative_verse a bkg:Genre ;
+    rdfs:label "alliterative verse"@en .
+
+genr:alternate_history_comics a bkg:Genre ;
+    rdfs:label "alternate history comics"@en .
+
+genr:apocalyptic_fiction a bkg:Genre ;
+    rdfs:label "apocalyptic fiction"@en .
+
+genr:autobiographical_novel a bkg:Genre ;
+    rdfs:label "autobiographical novel"@en .
+
+genr:black_comedy a bkg:Genre ;
+    rdfs:label "black comedy"@en .
+
+genr:chick_lit a bkg:Genre ;
+    rdfs:label "chick lit"@en .
+
+<http://bookkg.org/genre/children's_and_young_adult_literature> a bkg:Genre ;
+    rdfs:label "children's and young adult literature"@en .
+
+genr:chuanyue a bkg:Genre ;
+    rdfs:label "chuanyue"@en .
+
+genr:climate_fiction a bkg:Genre ;
+    rdfs:label "climate fiction"@en .
+
+genr:collaborative_fiction a bkg:Genre ;
+    rdfs:label "collaborative fiction"@en .
+
+genr:comedy a bkg:Genre ;
+    rdfs:label "comedy"@en .
+
+genr:coming-of-age_fiction a bkg:Genre ;
+    rdfs:label "coming-of-age fiction"@en .
+
+genr:confessional_fiction a bkg:Genre ;
+    rdfs:label "confessional fiction"@en .
+
+genr:conspiracy_fiction a bkg:Genre ;
+    rdfs:label "conspiracy fiction"@en .
+
+genr:cryptologic_fiction a bkg:Genre ;
+    rdfs:label "cryptologic fiction"@en .
+
+genr:cyberpunk a bkg:Genre ;
+    rdfs:label "cyberpunk"@en .
+
+genr:cyberpunk_novel a bkg:Genre ;
+    rdfs:label "cyberpunk novel"@en .
+
+genr:dark_romance a bkg:Genre ;
+    rdfs:label "dark romance"@en .
+
+genr:diary a bkg:Genre ;
+    rdfs:label "diary"@en .
+
+genr:drama_fiction a bkg:Genre ;
+    rdfs:label "drama fiction"@en .
+
+genr:drama_film a bkg:Genre ;
+    rdfs:label "drama film"@en .
+
+genr:ergodic_literature a bkg:Genre ;
+    rdfs:label "ergodic literature"@en .
+
+genr:erotic_romance_novel a bkg:Genre ;
+    rdfs:label "erotic romance novel"@en .
+
+genr:erotica a bkg:Genre ;
+    rdfs:label "erotica"@en .
+
+genr:esoteric_novel a bkg:Genre ;
+    rdfs:label "esoteric novel"@en .
+
+genr:experimental_literature a bkg:Genre ;
+    rdfs:label "experimental literature"@en .
+
+genr:fairy_tale a bkg:Genre ;
+    rdfs:label "fairy tale"@en .
+
+genr:family_saga a bkg:Genre ;
+    rdfs:label "family saga"@en .
+
+genr:fantasy_comedy a bkg:Genre ;
+    rdfs:label "fantasy comedy"@en .
+
+genr:fiction_literature a bkg:Genre ;
+    rdfs:label "fiction literature"@en .
+
+genr:found_manuscript a bkg:Genre ;
+    rdfs:label "found manuscript"@en .
+
+genr:future_history a bkg:Genre ;
+    rdfs:label "future history"@en .
+
+genr:gonzo a bkg:Genre ;
+    rdfs:label "gonzo"@en .
+
+genr:historical_mystery a bkg:Genre ;
+    rdfs:label "historical mystery"@en .
+
+genr:historical_non-fiction_work a bkg:Genre ;
+    rdfs:label "historical non-fiction work"@en .
+
+genr:locked_room_mystery a bkg:Genre ;
+    rdfs:label "locked room mystery"@en .
+
+genr:lost_world_fiction a bkg:Genre ;
+    rdfs:label "lost world fiction"@en .
+
+genr:magical_negro a bkg:Genre ;
+    rdfs:label "magical negro"@en .
+
+genr:metaphysical_science_fiction a bkg:Genre ;
+    rdfs:label "metaphysical science fiction"@en .
+
+genr:military_fiction a bkg:Genre ;
+    rdfs:label "military fiction"@en .
+
+genr:mythology a bkg:Genre ;
+    rdfs:label "mythology"@en .
+
+genr:mythopoeia a bkg:Genre ;
+    rdfs:label "mythopoeia"@en .
+
+genr:narrative_history a bkg:Genre ;
+    rdfs:label "narrative history"@en .
+
+genr:noir_fiction a bkg:Genre ;
+    rdfs:label "noir fiction"@en .
+
+genr:novelization a bkg:Genre ;
+    rdfs:label "novelization"@en .
+
+genr:parallel_novel a bkg:Genre ;
+    rdfs:label "parallel novel"@en .
+
+genr:paranormal_romance a bkg:Genre ;
+    rdfs:label "paranormal romance"@en .
+
+genr:parody a bkg:Genre ;
+    rdfs:label "parody"@en .
+
+genr:petrofiction a bkg:Genre ;
+    rdfs:label "petrofiction"@en .
+
+genr:philosophical_non-fiction_literature a bkg:Genre ;
+    rdfs:label "philosophical non-fiction literature"@en .
+
+genr:philosophy a bkg:Genre ;
+    rdfs:label "philosophy"@en .
+
+genr:poetry a bkg:Genre ;
+    rdfs:label "poetry"@en .
+
+genr:political_thriller a bkg:Genre ;
+    rdfs:label "political thriller"@en .
+
+genr:popular_science a bkg:Genre ;
+    rdfs:label "popular science"@en .
+
+genr:prehistoric_fiction a bkg:Genre ;
+    rdfs:label "prehistoric fiction"@en .
+
+genr:psychological_fiction a bkg:Genre ;
+    rdfs:label "psychological fiction"@en .
+
+genr:psychological_horror_fiction a bkg:Genre ;
+    rdfs:label "psychological horror fiction"@en .
+
+genr:reference_work a bkg:Genre ;
+    rdfs:label "reference work"@en .
+
+genr:roman_à_clef a bkg:Genre ;
+    rdfs:label "roman à clef"@en .
+
+genr:science_fiction_literature a bkg:Genre ;
+    rdfs:label "science fiction literature"@en .
+
+genr:sensation_fiction a bkg:Genre ;
+    rdfs:label "sensation fiction"@en .
+
+genr:space_Western a bkg:Genre ;
+    rdfs:label "space Western"@en .
+
+genr:space_opera a bkg:Genre ;
+    rdfs:label "space opera"@en .
+
+genr:superhero_comics a bkg:Genre ;
+    rdfs:label "superhero comics"@en .
+
+genr:supernatural_fiction a bkg:Genre ;
+    rdfs:label "supernatural fiction"@en .
+
+genr:terror a bkg:Genre ;
+    rdfs:label "terror"@en .
+
+genr:textbook a bkg:Genre ;
+    rdfs:label "textbook"@en .
+
+genr:time-travel_fiction a bkg:Genre ;
+    rdfs:label "time-travel fiction"@en .
+
+genr:true_crime a bkg:Genre ;
+    rdfs:label "true crime"@en .
+
+genr:urban_fantasy a bkg:Genre ;
+    rdfs:label "urban fantasy"@en .
+
+genr:utopian_fiction a bkg:Genre ;
+    rdfs:label "utopian fiction"@en .
+
+genr:war_novel a bkg:Genre ;
+    rdfs:label "war novel"@en .
+
+genr:weird_fiction a bkg:Genre ;
+    rdfs:label "weird fiction"@en .
+
+genr:zombie_apocalyptic_fiction a bkg:Genre ;
+    rdfs:label "zombie apocalyptic fiction"@en .
+
+them:81354 a bkg:Theme ;
+    rdfs:label "81354"@en .
+
+them:adventure_and_adventurers_fiction a bkg:Theme ;
+    rdfs:label "adventure and adventurers fiction"@en .
+
+them:arthur_dent_fictitious_character a bkg:Theme ;
+    rdfs:label "arthur dent fictitious character"@en .
+
+them:british a bkg:Theme ;
+    rdfs:label "british"@en .
+
+them:british_and_irish_fiction_fictional_works_by_one_author a bkg:Theme ;
+    rdfs:label "british and irish fiction fictional works by one author"@en .
+
+them:brothers_and_sisters_fiction a bkg:Theme ;
+    rdfs:label "brothers and sisters fiction"@en .
+
+them:california_fiction a bkg:Theme ;
+    rdfs:label "california fiction"@en .
+
+them:children_grades_46 a bkg:Theme ;
+    rdfs:label "children grades 46"@en .
+
+them:cienciaficción a bkg:Theme ;
+    rdfs:label "cienciaficción"@en .
+
+them:classics a bkg:Theme ;
+    rdfs:label "classics"@en .
+
+them:conduct_of_life a bkg:Theme ;
+    rdfs:label "conduct of life"@en .
+
+them:courage a bkg:Theme ;
+    rdfs:label "courage"@en .
+
+them:criticism_and_interpretation a bkg:Theme ;
+    rdfs:label "criticism and interpretation"@en .
+
+them:end_of_the_world a bkg:Theme ;
+    rdfs:label "end of the world"@en .
+
+them:english_fantasy_fiction a bkg:Theme ;
+    rdfs:label "english fantasy fiction"@en .
+
+them:english_fantasy_literature a bkg:Theme ;
+    rdfs:label "english fantasy literature"@en .
+
+them:epic_literature a bkg:Theme ;
+    rdfs:label "epic literature"@en .
+
+them:fiction_mystery_detective_women_sleuths a bkg:Theme ;
+    rdfs:label "fiction mystery detective women sleuths"@en .
+
+them:fiction_occult_supernatural a bkg:Theme ;
+    rdfs:label "fiction occult supernatural"@en .
+
+them:fictional_works a bkg:Theme ;
+    rdfs:label "fictional works"@en .
+
+them:ford_prefect_fictitious_character a bkg:Theme ;
+    rdfs:label "ford prefect fictitious character"@en .
+
+them:graphic_novels a bkg:Theme ;
+    rdfs:label "graphic novels"@en .
+
+them:heroes a bkg:Theme ;
+    rdfs:label "heroes"@en .
+
+them:historical a bkg:Theme ;
+    rdfs:label "historical"@en .
+
+them:hogwarts_school_of_witchcraft_and_wizardry_imaginary_organization a bkg:Theme ;
+    rdfs:label "hogwarts school of witchcraft and wizardry imaginary organization"@en .
+
+them:holocaust a bkg:Theme ;
+    rdfs:label "holocaust"@en .
+
+them:imaginary_places a bkg:Theme ;
+    rdfs:label "imaginary places"@en .
+
+them:imaginary_wars_and_battles a bkg:Theme ;
+    rdfs:label "imaginary wars and battles"@en .
+
+them:intelligence_service a bkg:Theme ;
+    rdfs:label "intelligence service"@en .
+
+them:jane_marple_fictitious_character a bkg:Theme ;
+    rdfs:label "jane marple fictitious character"@en .
+
+them:kidnapping a bkg:Theme ;
+    rdfs:label "kidnapping"@en .
+
+them:literature_and_fiction_juvenile a bkg:Theme ;
+    rdfs:label "literature and fiction juvenile"@en .
+
+them:london_england_fiction a bkg:Theme ;
+    rdfs:label "london england fiction"@en .
+
+them:los_angeles_calif_fiction a bkg:Theme ;
+    rdfs:label "los angeles calif fiction"@en .
+
+them:maine_fiction a bkg:Theme ;
+    rdfs:label "maine fiction"@en .
+
+them:manwoman_relationships_fiction a bkg:Theme ;
+    rdfs:label "manwoman relationships fiction"@en .
+
+them:marple_jane_fictitious_character_fiction a bkg:Theme ;
+    rdfs:label "marple jane fictitious character fiction"@en .
+
+them:monsters a bkg:Theme ;
+    rdfs:label "monsters"@en .
+
+them:mythical_animals a bkg:Theme ;
+    rdfs:label "mythical animals"@en .
+
+them:nuclear_weapons a bkg:Theme ;
+    rdfs:label "nuclear weapons"@en .
+
+them:orphans a bkg:Theme ;
+    rdfs:label "orphans"@en .
+
+them:protected_daisy a bkg:Theme ;
+    rdfs:label "protected daisy"@en .
+
+them:psychics a bkg:Theme ;
+    rdfs:label "psychics"@en .
+
+them:reading_levelgrade_7 a bkg:Theme ;
+    rdfs:label "reading levelgrade 7"@en .
+
+them:romance a bkg:Theme ;
+    rdfs:label "romance"@en .
+
+them:secret_service a bkg:Theme ;
+    rdfs:label "secret service"@en .
+
+them:skönlitteratur a bkg:Theme ;
+    rdfs:label "skönlitteratur"@en .
+
+them:specimens a bkg:Theme ;
+    rdfs:label "specimens"@en .
+
+them:spy_stories a bkg:Theme ;
+    rdfs:label "spy stories"@en .
+
+them:supernatural_fiction a bkg:Theme ;
+    rdfs:label "supernatural fiction"@en .
+
+them:survival_fiction a bkg:Theme ;
+    rdfs:label "survival fiction"@en .
+
+them:telepathy a bkg:Theme ;
+    rdfs:label "telepathy"@en .
+
+them:terrorism_fiction a bkg:Theme ;
+    rdfs:label "terrorism fiction"@en .
+
+them:translations_into_russian a bkg:Theme ;
+    rdfs:label "translations into russian"@en .
+
+them:vampires_fiction a bkg:Theme ;
+    rdfs:label "vampires fiction"@en .
+
+them:vietnam_war a bkg:Theme ;
+    rdfs:label "vietnam war"@en .
+
+them:war_criminals a bkg:Theme ;
+    rdfs:label "war criminals"@en .
+
+them:war_stories a bkg:Theme ;
+    rdfs:label "war stories"@en .
+
+them:world_war_19391945_fiction a bkg:Theme ;
+    rdfs:label "world war 19391945 fiction"@en .
+
+auth:Q105756 a bkg:Author ;
+    rdfs:label "John Updike"@en ;
+    bkg:influencedBy auth:Q107473,
+        auth:Q124527,
+        auth:Q1285562,
+        auth:Q134180,
+        auth:Q154756,
+        auth:Q15531308,
+        auth:Q170509,
+        auth:Q23434,
+        auth:Q234819,
+        auth:Q315683,
+        auth:Q336151,
+        auth:Q36591,
+        auth:Q38193,
+        auth:Q4985,
+        auth:Q6512,
+        auth:Q6882,
+        auth:Q692,
+        auth:Q69339,
+        auth:Q7199,
+        auth:Q79904,
+        auth:Q905,
+        auth:Q991 ;
+    bkg:wrote book:Q178791,
+        book:Q549152 .
+
+auth:Q140201 a bkg:Author ;
+    rdfs:label "J. G. Ballard"@en ;
+    bkg:influencedBy auth:Q154842,
+        auth:Q16867,
+        auth:Q188176,
+        auth:Q242095,
+        auth:Q5577,
+        auth:Q6882,
+        auth:Q905 ;
+    bkg:wrote book:Q593182,
+        book:Q598071,
+        book:Q600448 .
+
+auth:Q181659 a bkg:Author ;
+    rdfs:label "Ursula K. Le Guin"@en ;
+    bkg:influencedBy auth:Q1398,
+        auth:Q171091,
+        auth:Q240253,
+        auth:Q312632,
+        auth:Q40909,
+        auth:Q41532,
+        auth:Q42511,
+        auth:Q458658,
+        auth:Q47739,
+        auth:Q5752,
+        auth:Q692,
+        auth:Q7243,
+        auth:Q79969,
+        auth:Q892,
+        auth:Q909,
+        auth:Q92640,
+        auth:Q9333,
+        auth:Q937000,
+        auth:Q943567 ;
+    bkg:wrote book:Q132062,
+        book:Q467720,
+        book:Q520466,
+        book:Q588035,
+        book:Q73588 .
+
+auth:Q33760 a bkg:Author ;
+    rdfs:label "Bertrand Russell"@en ;
+    bkg:influencedBy auth:Q134661,
+        auth:Q183372,
+        auth:Q191029,
+        auth:Q208448,
+        auth:Q237833,
+        auth:Q295386,
+        auth:Q35802,
+        auth:Q37160,
+        auth:Q50020,
+        auth:Q60028,
+        auth:Q76420,
+        auth:Q778109,
+        auth:Q78600,
+        auth:Q8747,
+        auth:Q9047,
+        auth:Q93343,
+        auth:Q9391,
+        auth:Q93996 ;
+    bkg:wrote book:Q164543 .
+
+auth:Q35155 a bkg:Author ;
+    rdfs:label "Thomas Pynchon"@en ;
+    bkg:wrote book:Q595995 .
+
+auth:Q9204 a bkg:Author ;
+    rdfs:label "C. S. Lewis"@en ;
+    bkg:influencedBy auth:Q1067,
+        auth:Q182589,
+        auth:Q183167,
+        auth:Q19008,
+        auth:Q2044035,
+        auth:Q214565,
+        auth:Q218322,
+        auth:Q231708,
+        auth:Q237196,
+        auth:Q368519,
+        auth:Q40213,
+        auth:Q41513,
+        auth:Q42511,
+        auth:Q454734,
+        auth:Q458658,
+        auth:Q5683,
+        auth:Q79759,
+        auth:Q859,
+        auth:Q868,
+        auth:Q892 ;
+    bkg:wrote book:Q157360,
+        book:Q218950,
+        book:Q477831,
+        book:Q485093 .
+
+book:Q128444 a bkg:Book ;
+    rdfs:label "Watchmen"@en ;
+    bkg:hasGenre genr:alternate_history_comics,
+        genr:fantasy,
+        genr:superhero_comics ;
+    bkg:hasTopic them:classics,
+        them:comic_books_strips,
+        them:crimes_against,
+        them:dystopias,
+        them:fantasy,
+        them:fiction,
+        them:good_and_evil,
+        them:graphic_novels,
+        them:new_york_times_bestseller,
+        them:science_fiction ;
+    bkg:pubYear 1986 .
+
+book:Q185705 a bkg:Book ;
+    rdfs:label "Just for Fun: The Story of an Accidental Revolutionary"@en ;
+    bkg:hasGenre genr:autobiography,
+        genr:biography ;
+    bkg:pubYear 2001 .
+
+book:Q239725 a bkg:Book ;
+    rdfs:label "Black House"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:horror_fiction,
+        genr:thriller ;
+    bkg:pubYear 2001 .
+
+book:Q248899 a bkg:Book ;
+    rdfs:label "Hunters of Dune"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 2006 .
+
+book:Q25435 a bkg:Book ;
+    rdfs:label "Social Outsiders in Nazi Germany"@en ;
+    bkg:pubYear 2001 .
+
+book:Q27453 a bkg:Book ;
+    rdfs:label "The Bible Unearthed"@en ;
+    bkg:hasGenre genr:historiography ;
+    bkg:hasTopic them:history,
+        them:new_york_times_reviewed ;
+    bkg:pubYear 2001 .
+
+book:Q27544 a bkg:Book ;
+    rdfs:label "Mao: The Unknown Story"@en ;
+    bkg:hasGenre genr:biography,
+        genr:narrative_history ;
+    bkg:pubYear 2005 .
+
+book:Q471741 a bkg:Book ;
+    rdfs:label "Lucifer's Hammer"@en ;
+    bkg:hasGenre genr:post-apocalyptic_literature,
+        genr:science_fiction ;
+    bkg:hasTopic them:american_science_fiction,
+        them:end_of_the_world,
+        them:fiction,
+        them:fiction_science_fiction_general,
+        them:science_fiction ;
+    bkg:pubYear 1977 .
+
+book:Q491946 a bkg:Book ;
+    rdfs:label "Riptide"@en ;
+    bkg:hasGenre genr:science_fiction,
+        genr:thriller ;
+    bkg:pubYear 1998 .
+
+book:Q506898 a bkg:Book ;
+    rdfs:label "Serpent Mage"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:hasTopic them:fantasy,
+        them:fiction,
+        them:fiction_fantasy_general ;
+    bkg:pubYear 1992 .
+
+book:Q522575 a bkg:Book ;
+    rdfs:label "The Fall of Neskaya"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:science_fantasy,
+        genr:science_fiction ;
+    bkg:hasTopic them:fiction,
+        them:fiction_fantasy_general,
+        them:science_fiction ;
+    bkg:pubYear 2001 .
+
+book:Q535639 a bkg:Book ;
+    rdfs:label "The Legend of Sigurd and Gudrún"@en ;
+    bkg:hasGenre genr:fantasy ;
+    bkg:pubYear 2009 .
+
+book:Q53817 a bkg:Book ;
+    rdfs:label "Miles to Go"@en ;
+    bkg:hasGenre genr:autobiography ;
+    bkg:hasTopic them:biography,
+        them:juvenile_literature,
+        them:new_york_times_bestseller,
+        them:women ;
+    bkg:pubYear 2009 .
+
+book:Q55285 a bkg:Book ;
+    rdfs:label "Star Wars Galaxies: The Ruins of Dantooine"@en ;
+    bkg:pubYear 2003 .
+
+book:Q576392 a bkg:Book ;
+    rdfs:label "SuperFreakonomics"@en ;
+    bkg:hasGenre genr:non-fiction ;
+    bkg:hasTopic them:large_type_books,
+        them:new_york_times_bestseller,
+        them:nonfiction ;
+    bkg:pubYear 2009 .
+
+book:Q767003 a bkg:Book ;
+    rdfs:label "Down in the Bottomlands and Other Places"@en ;
+    bkg:pubYear 1999 .
+
+book:Q774785 a bkg:Book ;
+    rdfs:label "Priestess of Avalon"@en ;
+    bkg:hasGenre genr:fantasy,
+        genr:historical_fiction ;
+    bkg:hasTopic them:fiction,
+        them:great_britain_fiction,
+        them:history,
+        them:large_type_books,
+        them:romans ;
+    bkg:pubYear 2000 .
+
+genr:Gothic_fiction a bkg:Genre ;
+    rdfs:label "Gothic fiction"@en .
+
+genr:biopunk a bkg:Genre ;
+    rdfs:label "biopunk"@en .
+
+<http://bookkg.org/genre/children's_literature> a bkg:Genre ;
+    rdfs:label "children's literature"@en .
+
+genr:drama a bkg:Genre ;
+    rdfs:label "drama"@en .
+
+genr:dystopian_literature a bkg:Genre ;
+    rdfs:label "dystopian literature"@en .
+
+genr:epistolary_novel a bkg:Genre ;
+    rdfs:label "epistolary novel"@en .
+
+genr:fiction a bkg:Genre ;
+    rdfs:label "fiction"@en .
+
+genr:hard_science_fiction a bkg:Genre ;
+    rdfs:label "hard science fiction"@en .
+
+genr:historiography a bkg:Genre ;
+    rdfs:label "historiography"@en .
+
+genr:military_science_fiction a bkg:Genre ;
+    rdfs:label "military science fiction"@en .
+
+genr:non-fiction_literature a bkg:Genre ;
+    rdfs:label "non-fiction literature"@en .
+
+genr:philosophical_novel a bkg:Genre ;
+    rdfs:label "philosophical novel"@en .
+
+genr:postcyberpunk a bkg:Genre ;
+    rdfs:label "postcyberpunk"@en .
+
+genr:postmodern_fiction a bkg:Genre ;
+    rdfs:label "postmodern fiction"@en .
+
+genr:psychological_thriller a bkg:Genre ;
+    rdfs:label "psychological thriller"@en .
+
+genr:romance a bkg:Genre ;
+    rdfs:label "romance"@en .
+
+genr:satirical_fiction a bkg:Genre ;
+    rdfs:label "satirical fiction"@en .
+
+genr:science_fantasy a bkg:Genre ;
+    rdfs:label "science fantasy"@en .
+
+genr:secret_history a bkg:Genre ;
+    rdfs:label "secret history"@en .
+
+genr:soft_science_fiction a bkg:Genre ;
+    rdfs:label "soft science fiction"@en .
+
+genr:speculative_fiction_comedy a bkg:Genre ;
+    rdfs:label "speculative fiction comedy"@en .
+
+genr:suspense_in_literature a bkg:Genre ;
+    rdfs:label "suspense in literature"@en .
+
+genr:war_fiction a bkg:Genre ;
+    rdfs:label "war fiction"@en .
+
+them:action_adventure a bkg:Theme ;
+    rdfs:label "action adventure"@en .
+
+them:adventure a bkg:Theme ;
+    rdfs:label "adventure"@en .
+
+them:americans a bkg:Theme ;
+    rdfs:label "americans"@en .
+
+them:anarchism a bkg:Theme ;
+    rdfs:label "anarchism"@en .
+
+them:cats a bkg:Theme ;
+    rdfs:label "cats"@en .
+
+them:child_and_youth_fiction a bkg:Theme ;
+    rdfs:label "child and youth fiction"@en .
+
+them:childrens_stories_english a bkg:Theme ;
+    rdfs:label "childrens stories english"@en .
+
+them:christianity a bkg:Theme ;
+    rdfs:label "christianity"@en .
+
+them:comic_books_strips a bkg:Theme ;
+    rdfs:label "comic books strips"@en .
+
+them:crimes_against a bkg:Theme ;
+    rdfs:label "crimes against"@en .
+
+them:description_and_travel a bkg:Theme ;
+    rdfs:label "description and travel"@en .
+
+them:elves a bkg:Theme ;
+    rdfs:label "elves"@en .
+
+them:english_fiction a bkg:Theme ;
+    rdfs:label "english fiction"@en .
+
+them:families a bkg:Theme ;
+    rdfs:label "families"@en .
+
+them:family a bkg:Theme ;
+    rdfs:label "family"@en .
+
+them:fiction_political a bkg:Theme ;
+    rdfs:label "fiction political"@en .
+
+them:fiction_science_fiction_hard_science_fiction a bkg:Theme ;
+    rdfs:label "fiction science fiction hard science fiction"@en .
+
+them:great_britain_fiction a bkg:Theme ;
+    rdfs:label "great britain fiction"@en .
+
+them:humanalien_encounters a bkg:Theme ;
+    rdfs:label "humanalien encounters"@en .
+
+them:humorous_fiction a bkg:Theme ;
+    rdfs:label "humorous fiction"@en .
+
+them:india_fiction a bkg:Theme ;
+    rdfs:label "india fiction"@en .
+
+them:islands a bkg:Theme ;
+    rdfs:label "islands"@en .
+
+them:jews a bkg:Theme ;
+    rdfs:label "jews"@en .
+
+them:juvenile_literature a bkg:Theme ;
+    rdfs:label "juvenile literature"@en .
+
+them:letters a bkg:Theme ;
+    rdfs:label "letters"@en .
+
+them:middle_earth_imaginary_place a bkg:Theme ;
+    rdfs:label "middle earth imaginary place"@en .
+
+them:missing_persons a bkg:Theme ;
+    rdfs:label "missing persons"@en .
+
+them:new_york_ny_fiction a bkg:Theme ;
+    rdfs:label "new york ny fiction"@en .
+
+them:nigeria_fiction a bkg:Theme ;
+    rdfs:label "nigeria fiction"@en .
+
+them:private_investigators_fiction a bkg:Theme ;
+    rdfs:label "private investigators fiction"@en .
+
+them:psychological_fiction a bkg:Theme ;
+    rdfs:label "psychological fiction"@en .
+
+them:reading_levelgrade_10 a bkg:Theme ;
+    rdfs:label "reading levelgrade 10"@en .
+
+them:reading_levelgrade_8 a bkg:Theme ;
+    rdfs:label "reading levelgrade 8"@en .
+
+them:reading_levelgrade_9 a bkg:Theme ;
+    rdfs:label "reading levelgrade 9"@en .
+
+them:religion a bkg:Theme ;
+    rdfs:label "religion"@en .
+
+them:robots a bkg:Theme ;
+    rdfs:label "robots"@en .
+
+them:science_fiction_fantasy_horror a bkg:Theme ;
+    rdfs:label "science fiction fantasy horror"@en .
+
+them:sciencefiction a bkg:Theme ;
+    rdfs:label "sciencefiction"@en .
+
+them:social_conditions a bkg:Theme ;
+    rdfs:label "social conditions"@en .
+
+them:social_life_and_customs a bkg:Theme ;
+    rdfs:label "social life and customs"@en .
+
+them:united_states_fiction a bkg:Theme ;
+    rdfs:label "united states fiction"@en .
+
+them:utopias a bkg:Theme ;
+    rdfs:label "utopias"@en .
+
+them:war a bkg:Theme ;
+    rdfs:label "war"@en .
+
+them:wizards_fiction a bkg:Theme ;
+    rdfs:label "wizards fiction"@en .
+
+them:young_men a bkg:Theme ;
+    rdfs:label "young men"@en .
+
+auth:Q79904 a bkg:Author ;
+    rdfs:label "J. D. Salinger"@en ;
+    bkg:wrote book:Q183883 .
+
+book:Q589959 a bkg:Book ;
+    rdfs:label "The Legacy of Heorot"@en ;
+    bkg:hasGenre genr:science_fiction ;
+    bkg:pubYear 1987 .
+
+genr:Bildungsroman a bkg:Genre ;
+    rdfs:label "Bildungsroman"@en .
+
+genr:biography a bkg:Genre ;
+    rdfs:label "biography"@en .
+
+<http://bookkg.org/genre/children's_book> a bkg:Genre ;
+    rdfs:label "children's book"@en .
+
+genr:comic_novel a bkg:Genre ;
+    rdfs:label "comic novel"@en .
+
+genr:dark_fantasy a bkg:Genre ;
+    rdfs:label "dark fantasy"@en .
+
+genr:epistolary_fiction a bkg:Genre ;
+    rdfs:label "epistolary fiction"@en .
+
+genr:historical_fantasy a bkg:Genre ;
+    rdfs:label "historical fantasy"@en .
+
+genr:humorous_fiction a bkg:Genre ;
+    rdfs:label "humorous fiction"@en .
+
+genr:magic_realist_fiction a bkg:Genre ;
+    rdfs:label "magic realist fiction"@en .
+
+genr:metafiction a bkg:Genre ;
+    rdfs:label "metafiction"@en .
+
+genr:philosophical_fiction a bkg:Genre ;
+    rdfs:label "philosophical fiction"@en .
+
+genr:political_fiction a bkg:Genre ;
+    rdfs:label "political fiction"@en .
+
+genr:science_fiction_comedy a bkg:Genre ;
+    rdfs:label "science fiction comedy"@en .
+
+genr:tragicomedy a bkg:Genre ;
+    rdfs:label "tragicomedy"@en .
+
+them:american_horror_tales a bkg:Theme ;
+    rdfs:label "american horror tales"@en .
+
+them:art a bkg:Theme ;
+    rdfs:label "art"@en .
+
+them:classic_literature a bkg:Theme ;
+    rdfs:label "classic literature"@en .
+
+them:dragons a bkg:Theme ;
+    rdfs:label "dragons"@en .
+
+them:dystopias a bkg:Theme ;
+    rdfs:label "dystopias"@en .
+
+them:english_detective_and_mystery_stories a bkg:Theme ;
+    rdfs:label "english detective and mystery stories"@en .
+
+them:english_science_fiction a bkg:Theme ;
+    rdfs:label "english science fiction"@en .
+
+them:exploration a bkg:Theme ;
+    rdfs:label "exploration"@en .
+
+them:extraterrestrial_beings a bkg:Theme ;
+    rdfs:label "extraterrestrial beings"@en .
+
+them:fathers_and_sons a bkg:Theme ;
+    rdfs:label "fathers and sons"@en .
+
+them:fiction_action_adventure a bkg:Theme ;
+    rdfs:label "fiction action adventure"@en .
+
+them:fiction_fantasy_epic a bkg:Theme ;
+    rdfs:label "fiction fantasy epic"@en .
+
+them:fiction_war_military a bkg:Theme ;
+    rdfs:label "fiction war military"@en .
+
+them:friendship_fiction a bkg:Theme ;
+    rdfs:label "friendship fiction"@en .
+
+them:holocaust_jewish_19391945 a bkg:Theme ;
+    rdfs:label "holocaust jewish 19391945"@en .
+
+them:interpersonal_relations a bkg:Theme ;
+    rdfs:label "interpersonal relations"@en .
+
+them:love_stories a bkg:Theme ;
+    rdfs:label "love stories"@en .
+
+them:open_syllabus_project a bkg:Theme ;
+    rdfs:label "open_syllabus_project"@en .
+
+them:police a bkg:Theme ;
+    rdfs:label "police"@en .
+
+them:roman a bkg:Theme ;
+    rdfs:label "roman"@en .
+
+them:spanish_language_materials a bkg:Theme ;
+    rdfs:label "spanish language materials"@en .
+
+them:teenage_boys a bkg:Theme ;
+    rdfs:label "teenage boys"@en .
+
+them:travel a bkg:Theme ;
+    rdfs:label "travel"@en .
+
+them:united_states a bkg:Theme ;
+    rdfs:label "united states"@en .
+
+them:vampires a bkg:Theme ;
+    rdfs:label "vampires"@en .
+
+them:women a bkg:Theme ;
+    rdfs:label "women"@en .
+
+them:young_women a bkg:Theme ;
+    rdfs:label "young women"@en .
+
+genr:alternate_history a bkg:Genre ;
+    rdfs:label "alternate history"@en .
+
+genr:autobiography a bkg:Genre ;
+    rdfs:label "autobiography"@en .
+
+genr:crime_literature a bkg:Genre ;
+    rdfs:label "crime literature"@en .
+
+genr:post-apocalyptic_literature a bkg:Genre ;
+    rdfs:label "post-apocalyptic literature"@en .
+
+them:allon_gabriel_fictitious_character_fiction a bkg:Theme ;
+    rdfs:label "allon gabriel fictitious character fiction"@en .
+
+them:american_fantasy_fiction a bkg:Theme ;
+    rdfs:label "american fantasy fiction"@en .
+
+them:art_restorers a bkg:Theme ;
+    rdfs:label "art restorers"@en .
+
+them:assassins a bkg:Theme ;
+    rdfs:label "assassins"@en .
+
+them:awardhugo_awardnovel a bkg:Theme ;
+    rdfs:label "awardhugo_awardnovel"@en .
+
+them:biography a bkg:Theme ;
+    rdfs:label "biography"@en .
+
+them:brothers_and_sisters a bkg:Theme ;
+    rdfs:label "brothers and sisters"@en .
+
+them:fiction_historical a bkg:Theme ;
+    rdfs:label "fiction historical"@en .
+
+them:fiction_historical_general a bkg:Theme ;
+    rdfs:label "fiction historical general"@en .
+
+them:fiction_media_tiein a bkg:Theme ;
+    rdfs:label "fiction media tiein"@en .
+
+them:fiction_science_fiction_action_adventure a bkg:Theme ;
+    rdfs:label "fiction science fiction action adventure"@en .
+
+them:fiction_thrillers a bkg:Theme ;
+    rdfs:label "fiction thrillers"@en .
+
+them:interplanetary_voyages a bkg:Theme ;
+    rdfs:label "interplanetary voyages"@en .
+
+them:nonfiction a bkg:Theme ;
+    rdfs:label "nonfiction"@en .
+
+them:paranormal_fiction a bkg:Theme ;
+    rdfs:label "paranormal fiction"@en .
+
+them:philosophy a bkg:Theme ;
+    rdfs:label "philosophy"@en .
+
+them:science_fiction_fantasy a bkg:Theme ;
+    rdfs:label "science fiction fantasy"@en .
+
+them:supernatural a bkg:Theme ;
+    rdfs:label "supernatural"@en .
+
+them:survival a bkg:Theme ;
+    rdfs:label "survival"@en .
+
+them:suspense_fiction a bkg:Theme ;
+    rdfs:label "suspense fiction"@en .
+
+them:young_women_fiction a bkg:Theme ;
+    rdfs:label "young women fiction"@en .
+
+auth:Q312632 a bkg:Author ;
+    rdfs:label "Jack Vance"@en ;
+    bkg:influencedBy auth:Q6175761 ;
+    bkg:wrote book:Q600821 .
+
+auth:Q892 a bkg:Author ;
+    rdfs:label "J. R. R. Tolkien"@en ;
+    bkg:influencedBy auth:Q153159,
+        auth:Q182589,
+        auth:Q183167,
+        auth:Q216406,
+        auth:Q2274359,
+        auth:Q237196,
+        auth:Q33977,
+        auth:Q368519,
+        auth:Q458658,
+        auth:Q48328 ;
+    bkg:wrote book:Q15228,
+        book:Q208002,
+        book:Q478250,
+        book:Q532677,
+        book:Q534991,
+        book:Q535639,
+        book:Q535795,
+        book:Q79762 .
+
+them:childrens_stories a bkg:Theme ;
+    rdfs:label "childrens stories"@en .
+
+them:english_language a bkg:Theme ;
+    rdfs:label "english language"@en .
+
+them:horror a bkg:Theme ;
+    rdfs:label "horror"@en .
+
+them:hugo_award_winner a bkg:Theme ;
+    rdfs:label "hugo award winner"@en .
+
+them:investigation a bkg:Theme ;
+    rdfs:label "investigation"@en .
+
+them:israelis a bkg:Theme ;
+    rdfs:label "israelis"@en .
+
+them:literary_fiction a bkg:Theme ;
+    rdfs:label "literary fiction"@en .
+
+them:novela a bkg:Theme ;
+    rdfs:label "novela"@en .
+
+them:world_war_19391945 a bkg:Theme ;
+    rdfs:label "world war 19391945"@en .
+
+auth:Q36591 a bkg:Author ;
+    rdfs:label "Vladimir Nabokov"@en ;
+    bkg:wrote book:Q117431,
+        book:Q127149 .
+
+auth:Q905 a bkg:Author ;
+    rdfs:label "Franz Kafka"@en ;
+    bkg:influencedBy auth:Q123075,
+        auth:Q28494,
+        auth:Q43444 ;
+    bkg:wrote book:Q32594 .
+
+genr:non-fiction a bkg:Genre ;
+    rdfs:label "non-fiction"@en .
+
+genr:post-apocalyptic_fiction a bkg:Genre ;
+    rdfs:label "post-apocalyptic fiction"@en .
+
+genr:romantic_fiction a bkg:Genre ;
+    rdfs:label "romantic fiction"@en .
+
+them:fiction_mystery_detective_traditional a bkg:Theme ;
+    rdfs:label "fiction mystery detective traditional"@en .
+
+them:fiction_suspense a bkg:Theme ;
+    rdfs:label "fiction suspense"@en .
+
+them:general a bkg:Theme ;
+    rdfs:label "general"@en .
+
+them:historical_fiction a bkg:Theme ;
+    rdfs:label "historical fiction"@en .
+
+them:humorous_stories a bkg:Theme ;
+    rdfs:label "humorous stories"@en .
+
+them:romans a bkg:Theme ;
+    rdfs:label "romans"@en .
+
+them:suspense a bkg:Theme ;
+    rdfs:label "suspense"@en .
+
+them:terrorism a bkg:Theme ;
+    rdfs:label "terrorism"@en .
+
+them:wizards a bkg:Theme ;
+    rdfs:label "wizards"@en .
+
+genr:essay a bkg:Genre ;
+    rdfs:label "essay"@en .
+
+genr:steampunk a bkg:Genre ;
+    rdfs:label "steampunk"@en .
+
+genr:techno-thriller a bkg:Genre ;
+    rdfs:label "techno-thriller"@en .
+
+genr:vampire_fiction a bkg:Genre ;
+    rdfs:label "vampire fiction"@en .
+
+them:adventure_stories a bkg:Theme ;
+    rdfs:label "adventure stories"@en .
+
+them:fiction_humorous a bkg:Theme ;
+    rdfs:label "fiction humorous"@en .
+
+them:fiction_humorous_general a bkg:Theme ;
+    rdfs:label "fiction humorous general"@en .
+
+them:fiction_short_stories_single_author a bkg:Theme ;
+    rdfs:label "fiction short stories single author"@en .
+
+them:intelligence_officers a bkg:Theme ;
+    rdfs:label "intelligence officers"@en .
+
+them:life_on_other_planets a bkg:Theme ;
+    rdfs:label "life on other planets"@en .
+
+them:young_adult_fiction a bkg:Theme ;
+    rdfs:label "young adult fiction"@en .
+
+genr:high_fantasy a bkg:Genre ;
+    rdfs:label "high fantasy"@en .
+
+them:ficción_juvenil a bkg:Theme ;
+    rdfs:label "ficción juvenil"@en .
+
+book:Q130438 a bkg:Book ;
+    rdfs:label "The 39 Clues"@en ;
+    bkg:hasGenre genr:adventure_fiction ;
+    bkg:pubYear 2008 .
+
+them:fiction_thrillers_suspense a bkg:Theme ;
+    rdfs:label "fiction thrillers suspense"@en .
+
+them:mystery_fiction a bkg:Theme ;
+    rdfs:label "mystery fiction"@en .
+
+them:reading_levelgrade_11 a bkg:Theme ;
+    rdfs:label "reading levelgrade 11"@en .
+
+them:reading_levelgrade_12 a bkg:Theme ;
+    rdfs:label "reading levelgrade 12"@en .
+
+them:thrillers a bkg:Theme ;
+    rdfs:label "thrillers"@en .
+
+them:american_fiction_fictional_works_by_one_author a bkg:Theme ;
+    rdfs:label "american fiction fictional works by one author"@en .
+
+them:detective_and_mystery_stories a bkg:Theme ;
+    rdfs:label "detective and mystery stories"@en .
+
+them:fiction_psychological a bkg:Theme ;
+    rdfs:label "fiction psychological"@en .
+
+them:good_and_evil a bkg:Theme ;
+    rdfs:label "good and evil"@en .
+
+them:magic a bkg:Theme ;
+    rdfs:label "magic"@en .
+
+them:romans_nouvelles_etc_pour_la_jeunesse a bkg:Theme ;
+    rdfs:label "romans nouvelles etc pour la jeunesse"@en .
+
+them:short_stories a bkg:Theme ;
+    rdfs:label "short stories"@en .
+
+them:fiction_espionage a bkg:Theme ;
+    rdfs:label "fiction espionage"@en .
+
+them:horror_tales a bkg:Theme ;
+    rdfs:label "horror tales"@en .
+
+genr:mystery_fiction a bkg:Genre ;
+    rdfs:label "mystery fiction"@en .
+
+them:friendship a bkg:Theme ;
+    rdfs:label "friendship"@en .
+
+<http://bookkg.org/genre/children's_fiction> a bkg:Genre ;
+    rdfs:label "children's fiction"@en .
+
+them:american_science_fiction a bkg:Theme ;
+    rdfs:label "american science fiction"@en .
+
+them:literature a bkg:Theme ;
+    rdfs:label "literature"@en .
+
+them:mystery a bkg:Theme ;
+    rdfs:label "mystery"@en .
+
+book:Q756199 a bkg:Book ;
+    rdfs:label "Atlanta Nights"@en ;
+    bkg:hasGenre genr:collaborative_fiction,
+        genr:parody ;
+    bkg:pubYear 2004 .
+
+them:american_fiction a bkg:Theme ;
+    rdfs:label "american fiction"@en .
+
+genr:dystopian_fiction a bkg:Genre ;
+    rdfs:label "dystopian fiction"@en .
+
+them:england_fiction a bkg:Theme ;
+    rdfs:label "england fiction"@en .
+
+them:history a bkg:Theme ;
+    rdfs:label "history"@en .
+
+them:horror_fiction a bkg:Theme ;
+    rdfs:label "horror fiction"@en .
+
+them:fiction_thrillers_espionage a bkg:Theme ;
+    rdfs:label "fiction thrillers espionage"@en .
+
+them:thriller a bkg:Theme ;
+    rdfs:label "thriller"@en .
+
+genr:adventure_fiction a bkg:Genre ;
+    rdfs:label "adventure fiction"@en .
+
+genr:spy_fiction a bkg:Genre ;
+    rdfs:label "spy fiction"@en .
+
+them:american_literature a bkg:Theme ;
+    rdfs:label "american literature"@en .
+
+them:ficción a bkg:Theme ;
+    rdfs:label "ficción"@en .
+
+them:fiction_in_english a bkg:Theme ;
+    rdfs:label "fiction in english"@en .
+
+genr:detective_fiction a bkg:Genre ;
+    rdfs:label "detective fiction"@en .
+
+them:fiction_horror a bkg:Theme ;
+    rdfs:label "fiction horror"@en .
+
+them:fiction_mystery_detective_general a bkg:Theme ;
+    rdfs:label "fiction mystery detective general"@en .
+
+them:fiction_thrillers_general a bkg:Theme ;
+    rdfs:label "fiction thrillers general"@en .
+
+them:murder a bkg:Theme ;
+    rdfs:label "murder"@en .
+
+genr:historical_fiction a bkg:Genre ;
+    rdfs:label "historical fiction"@en .
+
+them:long_now_manual_for_civilization a bkg:Theme ;
+    rdfs:label "long now manual for civilization"@en .
+
+them:new_york_times_reviewed a bkg:Theme ;
+    rdfs:label "new york times reviewed"@en .
+
+them:open_library_staff_picks a bkg:Theme ;
+    rdfs:label "open library staff picks"@en .
+
+genr:young_adult_fiction a bkg:Genre ;
+    rdfs:label "young adult fiction"@en .
+
+them:fiction_fantasy_general a bkg:Theme ;
+    rdfs:label "fiction fantasy general"@en .
+
+them:english_literature a bkg:Theme ;
+    rdfs:label "english literature"@en .
+
+them:fantasy_fiction a bkg:Theme ;
+    rdfs:label "fantasy fiction"@en .
+
+genr:horror_fiction a bkg:Genre ;
+    rdfs:label "horror fiction"@en .
+
+them:fiction_general a bkg:Theme ;
+    rdfs:label "fiction general"@en .
+
+them:new_york_times_bestseller a bkg:Theme ;
+    rdfs:label "new york times bestseller"@en .
+
+genr:crime_fiction a bkg:Genre ;
+    rdfs:label "crime fiction"@en .
+
+them:juvenile_fiction a bkg:Theme ;
+    rdfs:label "juvenile fiction"@en .
+
+them:romans_nouvelles a bkg:Theme ;
+    rdfs:label "romans nouvelles"@en .
+
+genr:thriller a bkg:Genre ;
+    rdfs:label "thriller"@en .
+
+them:fiction_science_fiction_general a bkg:Theme ;
+    rdfs:label "fiction science fiction general"@en .
+
+them:childrens_fiction a bkg:Theme ;
+    rdfs:label "childrens fiction"@en .
+
+them:fantasy a bkg:Theme ;
+    rdfs:label "fantasy"@en .
+
+them:science_fiction a bkg:Theme ;
+    rdfs:label "science fiction"@en .
+
+them:large_type_books a bkg:Theme ;
+    rdfs:label "large type books"@en .
+
+genr:fantasy a bkg:Genre ;
+    rdfs:label "fantasy"@en .
+
+genr:science_fiction a bkg:Genre ;
+    rdfs:label "science fiction"@en .
+
+bkg:Genre a owl:Class .
+
+them:fiction a bkg:Theme ;
+    rdfs:label "fiction"@en .
+
+bkg:Theme a owl:Class .
+
+bkg:Author a owl:Class .
+
+bkg:Book a owl:Class .
+

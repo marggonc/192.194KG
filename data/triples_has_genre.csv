@@ -1,0 +1,692 @@
+subject,object,predicate
+Q28172,zombie apocalyptic fiction,hasGenre
+Q27453,historiography,hasGenre
+Q25750,black comedy,hasGenre
+Q25750,political fiction,hasGenre
+Q26541,crime fiction,hasGenre
+Q25750,tragicomedy,hasGenre
+Q26085,spy fiction,hasGenre
+Q27466,essay,hasGenre
+Q27544,narrative history,hasGenre
+Q28172,science fiction,hasGenre
+Q28306,fantasy,hasGenre
+Q29132,detective fiction,hasGenre
+Q28172,terror,hasGenre
+Q28306,high fantasy,hasGenre
+Q27544,biography,hasGenre
+Q29132,crime fiction,hasGenre
+Q28172,post-apocalyptic fiction,hasGenre
+Q26541,spy fiction,hasGenre
+Q26085,thriller,hasGenre
+Q26085,historical fiction,hasGenre
+Q41359,science fiction,hasGenre
+Q43361,adventure fiction,hasGenre
+Q40205,post-apocalyptic fiction,hasGenre
+Q44920,essay,hasGenre
+Q32136,fantasy,hasGenre
+Q43361,fantasy,hasGenre
+Q40205,epistolary novel,hasGenre
+Q40205,fantasy,hasGenre
+Q32136,speculative fiction comedy,hasGenre
+Q43361,young adult fiction,hasGenre
+Q40354,thriller,hasGenre
+Q30613,thriller,hasGenre
+Q40205,science fiction,hasGenre
+Q40354,science fiction,hasGenre
+Q40354,adventure fiction,hasGenre
+Q40354,dystopian fiction,hasGenre
+Q40354,post-apocalyptic fiction,hasGenre
+Q40354,young adult fiction,hasGenre
+Q11678,young adult fiction,hasGenre
+Q25551,dystopian fiction,hasGenre
+Q15228,fantasy,hasGenre
+Q15228,adventure fiction,hasGenre
+Q11678,science fiction literature,hasGenre
+Q721,humorous fiction,hasGenre
+Q23163,science fiction,hasGenre
+Q15228,high fantasy,hasGenre
+Q25551,science fiction,hasGenre
+Q13911,Bildungsroman,hasGenre
+Q721,science fiction,hasGenre
+Q721,fantasy,hasGenre
+Q23163,chuanyue,hasGenre
+Q721,science fiction comedy,hasGenre
+Q23163,apocalyptic fiction,hasGenre
+Q11678,adventure fiction,hasGenre
+Q18725,comedy,hasGenre
+Q8563,children's fiction,hasGenre
+Q4672,historical fiction,hasGenre
+Q23163,dystopian literature,hasGenre
+Q18725,fantasy,hasGenre
+Q11678,post-apocalyptic literature,hasGenre
+Q11678,dystopian literature,hasGenre
+Q169976,science fiction,hasGenre
+Q162091,non-fiction,hasGenre
+Q151550,horror fiction,hasGenre
+Q167007,fantasy,hasGenre
+Q169976,fantasy,hasGenre
+Q182502,mystery fiction,hasGenre
+Q176192,drama fiction,hasGenre
+Q167007,thriller,hasGenre
+Q152629,detective fiction,hasGenre
+Q175421,satirical fiction,hasGenre
+Q169976,young adult fiction,hasGenre
+Q151550,secret history,hasGenre
+Q149993,children's fiction,hasGenre
+Q175421,young adult fiction,hasGenre
+Q152629,crime fiction,hasGenre
+Q176192,thriller,hasGenre
+Q149993,adventure fiction,hasGenre
+Q182502,thriller,hasGenre
+Q151550,vampire fiction,hasGenre
+Q149993,fantasy,hasGenre
+Q175421,family saga,hasGenre
+Q176470,vampire fiction,hasGenre
+Q169976,steampunk,hasGenre
+Q151550,historical fiction,hasGenre
+Q169976,children's book,hasGenre
+Q152629,mystery fiction,hasGenre
+Q151550,historical fantasy,hasGenre
+Q182502,science fiction,hasGenre
+Q181231,alternate history,hasGenre
+Q164932,reference work,hasGenre
+Q151337,science fiction,hasGenre
+Q181231,science fiction,hasGenre
+Q151550,fantasy,hasGenre
+Q176470,Gothic fiction,hasGenre
+Q152629,thriller,hasGenre
+Q175421,adventure fiction,hasGenre
+Q175421,magic realist fiction,hasGenre
+Q182502,crime fiction,hasGenre
+Q182502,horror fiction,hasGenre
+Q149552,fantasy,hasGenre
+Q157360,fantasy,hasGenre
+Q149552,dystopian fiction,hasGenre
+Q164543,non-fiction literature,hasGenre
+Q116801,spy fiction,hasGenre
+Q116950,crime fiction,hasGenre
+Q149552,magical negro,hasGenre
+Q149552,post-apocalyptic fiction,hasGenre
+Q149552,horror fiction,hasGenre
+Q149552,science fiction,hasGenre
+Q117108,thriller,hasGenre
+Q117108,spy fiction,hasGenre
+Q161191,spy fiction,hasGenre
+Q161191,crime literature,hasGenre
+Q116950,spy fiction,hasGenre
+Q117108,crime fiction,hasGenre
+Q165068,children's literature,hasGenre
+Q165068,fantasy,hasGenre
+Q46751,fantasy,hasGenre
+Q164543,essay,hasGenre
+Q46887,fantasy,hasGenre
+Q47598,fantasy,hasGenre
+Q47598,adventure fiction,hasGenre
+Q46751,adventure fiction,hasGenre
+Q46887,adventure fiction,hasGenre
+Q46751,young adult fiction,hasGenre
+Q46887,young adult fiction,hasGenre
+Q128510,noir fiction,hasGenre
+Q128324,historical fantasy,hasGenre
+Q130438,adventure fiction,hasGenre
+Q129929,science fiction,hasGenre
+Q128444,superhero comics,hasGenre
+Q128324,science fiction,hasGenre
+Q127149,erotica,hasGenre
+Q132062,science fiction,hasGenre
+Q129929,fantasy,hasGenre
+Q128444,fantasy,hasGenre
+Q128324,fantasy,hasGenre
+Q135165,science fiction,hasGenre
+Q127149,confessional fiction,hasGenre
+Q127149,detective fiction,hasGenre
+Q128444,alternate history comics,hasGenre
+Q117431,alternate history,hasGenre
+Q128324,time-travel fiction,hasGenre
+Q127149,found manuscript,hasGenre
+Q129929,steampunk,hasGenre
+Q132269,fantasy,hasGenre
+Q117431,science fiction,hasGenre
+Q127149,metafiction,hasGenre
+Q128324,steampunk,hasGenre
+Q127149,tragicomedy,hasGenre
+Q79762,mythopoeia,hasGenre
+Q115656,crime fiction,hasGenre
+Q115636,historical fiction,hasGenre
+Q92630,climate fiction,hasGenre
+Q115653,mystery fiction,hasGenre
+Q79762,fantasy,hasGenre
+Q115656,mystery fiction,hasGenre
+Q81316,thriller,hasGenre
+Q116373,crime fiction,hasGenre
+Q116381,spy fiction,hasGenre
+Q82888,non-fiction,hasGenre
+Q81316,spy fiction,hasGenre
+Q81689,thriller,hasGenre
+Q115636,historical mystery,hasGenre
+Q115653,thriller,hasGenre
+Q116321,spy fiction,hasGenre
+Q115656,thriller,hasGenre
+Q81689,conspiracy fiction,hasGenre
+Q92630,biopunk,hasGenre
+Q115636,crime fiction,hasGenre
+Q115653,spy fiction,hasGenre
+Q116381,crime fiction,hasGenre
+Q115656,spy fiction,hasGenre
+Q114761,suspense in literature,hasGenre
+Q81689,esoteric novel,hasGenre
+Q81689,detective fiction,hasGenre
+Q92630,science fiction,hasGenre
+Q81316,crime fiction,hasGenre
+Q116373,thriller,hasGenre
+Q113610,fantasy,hasGenre
+Q115636,mystery fiction,hasGenre
+Q114761,thriller,hasGenre
+Q92630,dystopian fiction,hasGenre
+Q81007,spy fiction,hasGenre
+Q83880,non-fiction,hasGenre
+Q116321,crime fiction,hasGenre
+Q116373,spy fiction,hasGenre
+Q81316,mystery fiction,hasGenre
+Q81689,crime fiction,hasGenre
+Q113610,novelization,hasGenre
+Q115653,crime fiction,hasGenre
+Q40496,historiography,hasGenre
+Q74362,metaphysical science fiction,hasGenre
+Q135165,fantasy,hasGenre
+Q53817,autobiography,hasGenre
+Q73588,science fiction,hasGenre
+Q136188,horror fiction,hasGenre
+Q47598,young adult fiction,hasGenre
+Q485093,children's fiction,hasGenre
+Q48829,historical fiction,hasGenre
+Q38564,fantasy,hasGenre
+Q53945,romantic fiction,hasGenre
+Q137629,science fiction,hasGenre
+Q137536,science fiction,hasGenre
+Q64095,historical fiction,hasGenre
+Q43714,autobiography,hasGenre
+Q137332,young adult fiction,hasGenre
+Q53945,fantasy,hasGenre
+Q137629,adventure fiction,hasGenre
+Q45735,fairy tale,hasGenre
+Q45735,children's fiction,hasGenre
+Q137629,war fiction,hasGenre
+Q38187,historical fiction,hasGenre
+Q74378,hard science fiction,hasGenre
+Q40819,diary,hasGenre
+Q45735,fantasy,hasGenre
+Q137332,adventure fiction,hasGenre
+Q63998,war fiction,hasGenre
+Q140036,historical fiction,hasGenre
+Q53945,young adult fiction,hasGenre
+Q140036,children's fiction,hasGenre
+Q137629,young adult fiction,hasGenre
+Q74362,science fiction,hasGenre
+Q137332,war novel,hasGenre
+Q140036,fantasy,hasGenre
+Q74378,science fiction,hasGenre
+Q60672,fantasy,hasGenre
+Q43891,tragicomedy,hasGenre
+Q38564,thriller,hasGenre
+Q53945,vampire fiction,hasGenre
+Q53945,paranormal romance,hasGenre
+Q466790,horror fiction,hasGenre
+Q466605,humorous fiction,hasGenre
+Q469889,science fiction,hasGenre
+Q468121,horror fiction,hasGenre
+Q468121,thriller,hasGenre
+Q466605,children's book,hasGenre
+Q466790,science fiction,hasGenre
+Q466605,children's fiction,hasGenre
+Q468135,comic novel,hasGenre
+Q466790,thriller,hasGenre
+Q468121,fantasy,hasGenre
+Q469889,post-apocalyptic fiction,hasGenre
+Q468135,science fiction,hasGenre
+Q469862,science fiction,hasGenre
+Q469862,dystopian fiction,hasGenre
+Q467332,detective fiction,hasGenre
+Q469862,detective fiction,hasGenre
+Q467332,crime fiction,hasGenre
+Q467818,science fiction,hasGenre
+Q468132,science fiction,hasGenre
+Q469889,horror fiction,hasGenre
+Q471142,horror fiction,hasGenre
+Q470937,psychological horror fiction,hasGenre
+Q469889,dystopian fiction,hasGenre
+Q470937,thriller,hasGenre
+Q471024,horror fiction,hasGenre
+Q470937,Gothic fiction,hasGenre
+Q471142,science fiction,hasGenre
+Q471029,horror fiction,hasGenre
+Q470937,horror fiction,hasGenre
+Q485093,fantasy,hasGenre
+Q477831,fantasy,hasGenre
+Q480743,essay,hasGenre
+Q478250,fantasy,hasGenre
+Q482085,drama film,hasGenre
+Q482085,crime fiction,hasGenre
+Q482085,mystery fiction,hasGenre
+Q482085,locked room mystery,hasGenre
+Q482085,science fiction,hasGenre
+Q482085,dystopian fiction,hasGenre
+Q498561,horror fiction,hasGenre
+Q495888,philosophy,hasGenre
+Q501514,adventure fiction,hasGenre
+Q491946,thriller,hasGenre
+Q501514,fantasy,hasGenre
+Q513036,thriller,hasGenre
+Q492207,military science fiction,hasGenre
+Q492207,philosophical fiction,hasGenre
+Q513036,science fiction,hasGenre
+Q519858,fantasy,hasGenre
+Q491946,science fiction,hasGenre
+Q506898,fantasy,hasGenre
+Q497280,science fiction,hasGenre
+Q513696,crime fiction,hasGenre
+Q516848,science fiction,hasGenre
+Q494069,historical fiction,hasGenre
+Q501514,young adult fiction,hasGenre
+Q493191,science fiction,hasGenre
+Q513036,horror fiction,hasGenre
+Q498727,science fiction,hasGenre
+Q513696,sensation fiction,hasGenre
+Q513036,techno-thriller,hasGenre
+Q513696,thriller,hasGenre
+Q501514,urban fantasy,hasGenre
+Q494069,essay,hasGenre
+Q519935,science fiction,hasGenre
+Q501514,children's fiction,hasGenre
+Q467720,utopian fiction,hasGenre
+Q469969,fantasy,hasGenre
+Q467720,science fiction,hasGenre
+Q469969,speculative fiction comedy,hasGenre
+Q470044,romance,hasGenre
+Q467388,science fiction,hasGenre
+Q468071,spy fiction,hasGenre
+Q470044,historical fiction,hasGenre
+Q467225,post-apocalyptic literature,hasGenre
+Q467388,fantasy,hasGenre
+Q468071,adventure fiction,hasGenre
+Q470229,fantasy,hasGenre
+Q468071,detective fiction,hasGenre
+Q467139,science fiction,hasGenre
+Q467017,science fiction,hasGenre
+Q467139,space opera,hasGenre
+Q467225,science fiction,hasGenre
+Q541006,Conte cruel,hasGenre
+Q569790,horror fiction,hasGenre
+Q569790,science fiction,hasGenre
+Q549152,petrofiction,hasGenre
+Q541006,thriller,hasGenre
+Q557867,BDSM-themed literature,hasGenre
+Q568210,detective fiction,hasGenre
+Q557867,dark romance,hasGenre
+Q568210,crime fiction,hasGenre
+Q535795,children's fiction,hasGenre
+Q557867,erotic romance novel,hasGenre
+Q532677,alliterative verse,hasGenre
+Q535795,fantasy,hasGenre
+Q535639,fantasy,hasGenre
+Q530406,humorous fiction,hasGenre
+Q530406,science fantasy,hasGenre
+Q530406,children's book,hasGenre
+Q534991,epistolary fiction,hasGenre
+Q534991,fantasy,hasGenre
+Q530406,adventure fiction,hasGenre
+Q534991,children's literature,hasGenre
+Q534970,children's and young adult literature,hasGenre
+Q804414,detective fiction,hasGenre
+Q471926,fantasy,hasGenre
+Q471726,essay,hasGenre
+Q473082,steampunk,hasGenre
+Q262540,horror fiction,hasGenre
+Q804414,crime fiction,hasGenre
+Q472208,science fiction,hasGenre
+Q474523,horror fiction,hasGenre
+Q487364,philosophical fiction,hasGenre
+Q487364,science fiction,hasGenre
+Q816016,science fiction,hasGenre
+Q489581,fantasy,hasGenre
+Q471741,post-apocalyptic literature,hasGenre
+Q472208,fantasy,hasGenre
+Q627192,thriller,hasGenre
+Q798732,thriller,hasGenre
+Q489581,horror fiction,hasGenre
+Q474895,historical fiction,hasGenre
+Q786615,science fiction,hasGenre
+Q819101,Holocaust fiction,hasGenre
+Q472368,science fiction,hasGenre
+Q478110,science fiction,hasGenre
+Q473082,adventure fiction,hasGenre
+Q627192,science fiction,hasGenre
+Q471726,popular science,hasGenre
+Q798732,science fiction,hasGenre
+Q803910,science fiction,hasGenre
+Q471679,postcyberpunk,hasGenre
+Q472026,thriller,hasGenre
+Q471679,science fiction,hasGenre
+Q627192,dystopian fiction,hasGenre
+Q798732,psychological thriller,hasGenre
+Q471741,science fiction,hasGenre
+Q478110,future history,hasGenre
+Q486385,philosophical non-fiction literature,hasGenre
+Q472208,steampunk,hasGenre
+Q478098,horror fiction,hasGenre
+Q819101,young adult fiction,hasGenre
+Q819101,historical fiction,hasGenre
+Q472026,psychological thriller,hasGenre
+Q478098,young adult fiction,hasGenre
+Q477994,high fantasy,hasGenre
+Q821608,historical fiction,hasGenre
+Q472026,crime fiction,hasGenre
+Q543375,young adult fiction,hasGenre
+Q543562,science fiction,hasGenre
+Q522575,science fiction,hasGenre
+Q523766,epistolary novel,hasGenre
+Q541419,high fantasy,hasGenre
+Q534975,historical fiction,hasGenre
+Q543562,cyberpunk,hasGenre
+Q543562,steampunk,hasGenre
+Q534975,cryptologic fiction,hasGenre
+Q522575,fantasy,hasGenre
+Q538742,science fiction,hasGenre
+Q521688,epistolary fiction,hasGenre
+Q523914,crime literature,hasGenre
+Q523766,fantasy,hasGenre
+Q534975,science fiction,hasGenre
+Q541419,fantasy,hasGenre
+Q522575,science fantasy,hasGenre
+Q521688,ergodic literature,hasGenre
+Q526792,metafiction,hasGenre
+Q526802,science fiction,hasGenre
+Q537659,science fiction,hasGenre
+Q521331,chick lit,hasGenre
+Q543375,science fiction,hasGenre
+Q543375,dystopian fiction,hasGenre
+Q521688,horror fiction,hasGenre
+Q521688,metafiction,hasGenre
+Q525132,fantasy,hasGenre
+Q525132,thriller,hasGenre
+Q194424,textbook,hasGenre
+Q202009,philosophical novel,hasGenre
+Q202009,science fiction,hasGenre
+Q202009,political fiction,hasGenre
+Q194424,fantasy,hasGenre
+Q197243,detective fiction,hasGenre
+Q192258,fantasy,hasGenre
+Q192258,fiction,hasGenre
+Q197243,mystery fiction,hasGenre
+Q202009,dystopian fiction,hasGenre
+Q247364,dark fantasy,hasGenre
+Q247364,horror fiction,hasGenre
+Q250123,horror fiction,hasGenre
+Q247364,science fiction,hasGenre
+Q253925,horror fiction,hasGenre
+Q247364,fantasy,hasGenre
+Q251076,detective fiction,hasGenre
+Q251076,crime fiction,hasGenre
+Q208002,fantasy,hasGenre
+Q211006,mystery fiction,hasGenre
+Q207964,thriller,hasGenre
+Q202531,science fiction,hasGenre
+Q185705,autobiography,hasGenre
+Q208002,high fantasy,hasGenre
+Q207964,science fiction,hasGenre
+Q211006,suspense in literature,hasGenre
+Q185705,biography,hasGenre
+Q202531,techno-thriller,hasGenre
+Q187655,comic novel,hasGenre
+Q206795,biography,hasGenre
+Q207964,techno-thriller,hasGenre
+Q187655,science fiction,hasGenre
+Q211006,crime fiction,hasGenre
+Q202531,thriller,hasGenre
+Q187655,science fiction comedy,hasGenre
+Q588035,science fiction,hasGenre
+Q582825,crime literature,hasGenre
+Q581426,Western novel,hasGenre
+Q586831,science fiction,hasGenre
+Q582825,post-apocalyptic literature,hasGenre
+Q592078,spy fiction,hasGenre
+Q597219,postmodern fiction,hasGenre
+Q589106,thriller,hasGenre
+Q580361,lost world fiction,hasGenre
+Q589485,LGBT-related literature,hasGenre
+Q594567,science fiction,hasGenre
+Q580361,techno-thriller,hasGenre
+Q589106,fantasy,hasGenre
+Q582811,spy fiction,hasGenre
+Q580361,biopunk,hasGenre
+Q581426,historical fiction,hasGenre
+Q580361,thriller,hasGenre
+Q589106,young adult fiction,hasGenre
+Q588517,crime fiction,hasGenre
+Q580361,science fiction,hasGenre
+Q595766,fantasy,hasGenre
+Q592078,thriller,hasGenre
+Q218950,children's fiction,hasGenre
+Q218950,fantasy,hasGenre
+Q218950,high fantasy,hasGenre
+Q239725,horror fiction,hasGenre
+Q202009,philosophical fiction,hasGenre
+Q239725,thriller,hasGenre
+Q239725,fantasy,hasGenre
+Q244884,thriller,hasGenre
+Q568375,high fantasy,hasGenre
+Q543562,Bildungsroman,hasGenre
+Q603645,alternate history,hasGenre
+Q550208,historical fiction,hasGenre
+Q608534,crime fiction,hasGenre
+Q543562,postcyberpunk,hasGenre
+Q600448,science fiction,hasGenre
+Q244884,horror fiction,hasGenre
+Q547210,science fiction,hasGenre
+Q608616,crime literature,hasGenre
+Q568143,science fiction,hasGenre
+Q625764,magic realist fiction,hasGenre
+Q603645,science fiction,hasGenre
+Q600448,dystopian fiction,hasGenre
+Q568143,dystopian fiction,hasGenre
+Q608534,mystery fiction,hasGenre
+Q608875,LGBT-related literature,hasGenre
+Q608875,Gothic fiction,hasGenre
+Q603645,fantasy,hasGenre
+Q603645,detective fiction,hasGenre
+Q599495,crime fiction,hasGenre
+Q568375,fantasy,hasGenre
+Q545150,fantasy,hasGenre
+Q611689,thriller,hasGenre
+Q625764,historical fiction,hasGenre
+Q598315,science fiction,hasGenre
+Q546785,science fiction,hasGenre
+Q608875,horror fiction,hasGenre
+Q622400,fiction literature,hasGenre
+Q565105,parallel novel,hasGenre
+Q612511,crime fiction,hasGenre
+Q545150,horror fiction,hasGenre
+Q600821,science fiction,hasGenre
+Q565105,science fiction,hasGenre
+Q600821,fantasy,hasGenre
+Q567652,mystery fiction,hasGenre
+Q611689,Western novel,hasGenre
+Q606465,historical fiction,hasGenre
+Q550208,prehistoric fiction,hasGenre
+Q548368,science fiction,hasGenre
+Q608875,vampire fiction,hasGenre
+Q611689,crime fiction,hasGenre
+Q551345,science fiction,hasGenre
+Q622400,historical fiction,hasGenre
+Q602288,horror fiction,hasGenre
+Q592503,memoir,hasGenre
+Q596874,horror fiction,hasGenre
+Q595128,fantasy comedy,hasGenre
+Q596874,thriller,hasGenre
+Q588531,detective fiction,hasGenre
+Q596874,psychological thriller,hasGenre
+Q578895,comic novel,hasGenre
+Q592503,autobiographical novel,hasGenre
+Q588531,crime fiction,hasGenre
+Q582509,detective fiction,hasGenre
+Q578895,science fiction,hasGenre
+Q583366,science fiction,hasGenre
+Q582509,crime fiction,hasGenre
+Q578895,science fiction comedy,hasGenre
+Q603705,science fiction,hasGenre
+Q828031,science fiction,hasGenre
+Q828031,fantasy,hasGenre
+Q828031,horror fiction,hasGenre
+Q828031,thriller,hasGenre
+Q845944,fantasy,hasGenre
+Q835739,horror fiction,hasGenre
+Q835739,thriller,hasGenre
+Q831504,science fiction,hasGenre
+Q843400,fantasy,hasGenre
+Q837557,science fiction,hasGenre
+Q845106,detective fiction,hasGenre
+Q831807,science fiction,hasGenre
+Q843400,humorous literature,hasGenre
+Q837944,science fiction,hasGenre
+Q845106,crime fiction,hasGenre
+Q831586,science fiction,hasGenre
+Q835341,science fiction,hasGenre
+Q831520,science fiction,hasGenre
+Q831556,science fiction,hasGenre
+Q230356,essay,hasGenre
+Q189446,autobiographical novel,hasGenre
+Q191288,magic realist fiction,hasGenre
+Q189446,philosophical novel,hasGenre
+Q183363,historical fiction,hasGenre
+Q241348,romance,hasGenre
+Q191540,vampire fiction,hasGenre
+Q224965,science fiction,hasGenre
+Q212473,romantic fiction,hasGenre
+Q208461,science fiction,hasGenre
+Q189378,romantic fiction,hasGenre
+Q212473,fantasy,hasGenre
+Q244897,children's fiction,hasGenre
+Q224965,fantasy,hasGenre
+Q208461,dystopian fiction,hasGenre
+Q208461,political fiction,hasGenre
+Q248745,science fiction,hasGenre
+Q183883,Bildungsroman,hasGenre
+Q191540,romantic fiction,hasGenre
+Q221085,non-fiction literature,hasGenre
+Q191540,fantasy,hasGenre
+Q244897,fantasy,hasGenre
+Q208461,satirical fiction,hasGenre
+Q185449,fantasy,hasGenre
+Q208825,romantic fiction,hasGenre
+Q218156,non-fiction,hasGenre
+Q212473,young adult fiction,hasGenre
+Q189378,young adult fiction,hasGenre
+Q223784,science fiction,hasGenre
+Q194619,science fiction,hasGenre
+Q191540,young adult fiction,hasGenre
+Q243556,crime fiction,hasGenre
+Q212473,vampire fiction,hasGenre
+Q189378,vampire fiction,hasGenre
+Q213300,psychological fiction,hasGenre
+Q212718,science fiction,hasGenre
+Q196151,military science fiction,hasGenre
+Q241348,historical fiction,hasGenre
+Q218156,true crime,hasGenre
+Q607112,science fiction,hasGenre
+Q616606,detective fiction,hasGenre
+Q622647,urban fantasy,hasGenre
+Q605697,secret history,hasGenre
+Q607112,hard science fiction,hasGenre
+Q608378,children's fiction,hasGenre
+Q615807,horror fiction,hasGenre
+Q608378,science fiction,hasGenre
+Q625645,biography,hasGenre
+Q622647,science fiction,hasGenre
+Q605697,historical fiction,hasGenre
+Q605697,historical fantasy,hasGenre
+Q605697,fantasy,hasGenre
+Q608378,young adult fiction,hasGenre
+Q610680,fantasy,hasGenre
+Q602216,steampunk,hasGenre
+Q595950,young adult fiction,hasGenre
+Q602216,science fiction,hasGenre
+Q602216,fantasy,hasGenre
+Q576737,dystopian fiction,hasGenre
+Q602216,weird fiction,hasGenre
+Q595950,Bildungsroman,hasGenre
+Q598136,children's fiction,hasGenre
+Q592815,alternate history,hasGenre
+Q579719,non-fiction,hasGenre
+Q595950,steampunk,hasGenre
+Q589959,science fiction,hasGenre
+Q594093,fantasy,hasGenre
+Q598136,adventure fiction,hasGenre
+Q592815,science fiction,hasGenre
+Q576737,soft science fiction,hasGenre
+Q598136,fantasy,hasGenre
+Q576392,non-fiction,hasGenre
+Q576737,young adult fiction,hasGenre
+Q595950,science fiction,hasGenre
+Q585485,high fantasy,hasGenre
+Q585485,dark fantasy,hasGenre
+Q598136,horror fiction,hasGenre
+Q595950,post-apocalyptic fiction,hasGenre
+Q576737,children's fiction,hasGenre
+Q576737,science fiction,hasGenre
+Q824307,fantasy,hasGenre
+Q825718,essay,hasGenre
+Q841540,thriller,hasGenre
+Q837489,fantasy,hasGenre
+Q829934,historical fiction,hasGenre
+Q829934,postmodern fiction,hasGenre
+Q850150,postcyberpunk,hasGenre
+Q826822,fantasy,hasGenre
+Q846970,crime fiction,hasGenre
+Q845167,thriller,hasGenre
+Q824307,high fantasy,hasGenre
+Q850150,science fiction,hasGenre
+Q837283,black comedy,hasGenre
+Q845167,alternate history,hasGenre
+Q857313,psychological fiction,hasGenre
+Q841540,science fiction,hasGenre
+Q860058,fantasy,hasGenre
+Q849930,drama fiction,hasGenre
+Q851267,farce,hasGenre
+Q860034,fantasy,hasGenre
+Q838776,children's fiction,hasGenre
+Q826822,high fantasy,hasGenre
+Q837140,post-apocalyptic fiction,hasGenre
+Q837283,transgressive fiction,hasGenre
+Q837489,horror fiction,hasGenre
+Q845167,dystopian fiction,hasGenre
+Q846970,thriller,hasGenre
+Q845167,political fiction,hasGenre
+Q837934,science fiction,hasGenre
+Q845167,detective fiction,hasGenre
+Q837140,young adult fiction,hasGenre
+Q840125,crime fiction,hasGenre
+Q852066,young adult fiction,hasGenre
+Q838776,fantasy,hasGenre
+Q830526,non-fiction,hasGenre
+Q860091,fantasy literature,hasGenre
+Q854213,children's fiction,hasGenre
+Q841540,techno-thriller,hasGenre
+Q850150,hard science fiction,hasGenre
+Q846970,science fiction,hasGenre
+Q849907,fantasy,hasGenre
+Q853427,science fiction,hasGenre
+Q860091,fantasy,hasGenre
+Q829130,historical fiction,hasGenre
+Q860181,fantasy,hasGenre
+Q845613,science fiction,hasGenre
+Q840125,thriller,hasGenre
+Q837934,epistolary novel,hasGenre
+Q837140,science fiction,hasGenre
+Q862948,thriller,hasGenre
+Q837140,adventure fiction,hasGenre
+Q830526,essay,hasGenre
+Q837140,dystopian fiction,hasGenre
+Q602216,New Weird,hasGenre
+Q331142,fantasy,hasGenre
+Q331651,high fantasy,hasGenre
+Q309019,fantasy,hasGenre
